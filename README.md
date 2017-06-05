@@ -1,72 +1,90 @@
 Hello!
-------
+======
 
 I'm Piotr Mitros, and I'm running for your Cambridge School Committee.
 
 Why are you running?
-====================
+--------------------
 
 While the Cambridge School District is one of the greatest public
 school districts in the nation, it's performing greatly below its
 potential. CPSD spends [$27,569 per
-student](http://profiles.doe.mass.edu/state_report/ppx.aspx) -- the
-fourth highest in the state, has connections to top education
-researchers at schools such as MIT, Harvard, Lesley, and other
-schools. We have some of the greatest teachers in
+student](http://profiles.doe.mass.edu/state_report/ppx.aspx) -- more
+than [double](https://nces.ed.gov/fastfacts/display.asp?id=66) the
+national average and the fourth highest in the state, has connections
+to top education researchers at schools such as MIT, Harvard, Lesley,
+and other schools. We have some of the greatest teachers in
 Massachusetts. However, CPSD still has several [several failing
 schools](http://profiles.doe.mass.edu/accountability/report/school.aspx?linkid=31&orgcode=00490310&orgtypecode=6&). Many
 high-SES parents are choosing to leave the district, either for the
 suburbs or private schools, while many low-SES children are failing
 basic math and literacy exams.
 
-In short, I think we can do better. I have the experience in closing
+In short, I think we can do better. I have the experience closing
 achievement gaps, in helping students succeed, and in helping
-organization perform at a very high level. I've done all of that
-across a range of settings.
+organization perform at a very high level across a range of
+settings. I'd like to bring that experience to improve your schools. 
 
 I'm also the proud father of a child now entering CPSD. Making
 positive change happen quickly is an absolute top priority for
 me. That's why I'm running.
 
+How can I help?
+---------------
+
+You can donate to my campaign, help spread the word, and remember to
+vote in November.
+
 What's your background?
-=======================
+-----------------------
 
-* **Chief Scientist of edX**. Now just over a half-decade ago, I
-  proposed the concept of MITx to MIT, and designed a platform to
-  improve university education worldwide. I've interfaced with most of
-  the education research communities, and developed a broad
-  understanding of what does and doesn't work in education. Despite
-  popular press, edX does tremendous amounts of on-campus work, and
-  has been incredibly effective at accelerating learning across very
-  diverse settings. For example, we were able to work with MIT to
-  quadruple the number of correct answers on final exams in solid
-  state chemistry, with SJSU -- a school serving a disadvantage
-  population -- to bring course completion rates from 59% to 91%, with
-  schools around the world, and with having students at community
-  colleges master materials from MIT courses.
+* **Chief Scientist of edX**. A bit over a half-decade ago, I proposed
+  the concept of MITx to MIT, and designed a platform to improve
+  university education worldwide. Despite popular press, edX does
+  tremendous amounts of on-campus work, and has been incredibly
+  effective at accelerating learning across very diverse settings. For
+  example, we were able to work with MIT to quadruple the number of
+  correct answers on final exams in solid state chemistry, with SJSU
+  -- a school serving a disadvantage population -- to bring course
+  completion rates from 59% to 91%, with schools around the world, and
+  with having students at community colleges master materials from MIT
+  courses. In this role, I've also interfaced with most of the
+  education research communities, and developed a broad understanding
+  of what does and doesn't work in education, as well as relationships
+  with top researchers in the field.
 
-* **Teaching experience across diverse cultures**. I have taught
-    computer science at DLUT and Zhejiang University in China, worked
-    with universities in Africa, and have been invovled in projects in
-    Monglia, with refugees in Jordan, and in many other
-    settings. There are many best practices in serving culturally
-    diverse populations which aren't being applied in CPSD.
+* **Teaching experience across diverse cultures**. I have experience
+  in education across a diverse range of cultures, including in
+  teaching in China, educational research projects in Nigeria,
+  experimental education projects at MIT, and in many other
+  nations. There are effective practices in serving culturally diverse
+  populations which aren't being applied in CPSD. I believe some of
+  these are responsible for some of the achievement gap we are seeing.
 
-* **Constructivist and connectivist experience**
+* **Experience with constructivist learning**. I have been involved in
+    a range of experiments around project-based and group learning,
+    both
+    [in-person](http://tll.mit.edu/sites/default/files/library/files/EvalRept6002ex-Spring03.pdf)
+    and [on-line](http://davecormier.com/edblog/2014/02/17/building-an-introductory-physics-course-cmooc-meets-xmooc/).
 
-* **Policy experience**
+* **Policy experience**. I have served on policy-guiding bodies
+    through the National Science Foundation, the National Academy of
+    Education, and for the European Commission. I served as an expert
+    on issues concerning privacy, assessment, as well as use of big
+    data in education.
 
-* **Organizational experience** 
+* **Business experience**. I was a co-founder or key early employee at
+  three new organizations, all of which crossed the $100 million
+  mark. High-performing organizations require a high degree of
+  empowerment for individuals. While CPSD is ahead of most school
+  districts in this regard, it is well behind where it ought to be. We
+  need to do a better job supporting teachers, students, and parents
+  who want to improve our school system.
 
-* Experience in education across a diverse range of cultures,
-  including in teachinging in China, educational research projects in
-  Nigeria, experimental education projects at MIT, and some experience
-  with education in Mongolia, India, and refugee education in Jordan
-* Co-founder or key early employee at three new organizations, all of
-  which crossed the $100 million mark
-* Ph.D from MIT, student of famous computer science educator Jerry
-  Sussman, in the intellectual lineage of Seymour Papert
-* CPSD parent
+* I hold BS, MS, and Ph.D degrees, all from MIT. My academic lineage
+  includes educators such as Jerry Sussman and Seymour Papert.
+
+* I am a CPSD parent
 
 The pedagogy I developed in the creation of edX
 has successfully closed achievement gaps throughout the developing
@@ -82,104 +100,7 @@ school systems work better. I would like to find a way to integrate
 these to make our school system better.
 
 What's your plan?
-
-
-Well, I believe innovation ought to come from students, parents, and
-teachers. The role of the School Committee should mostly be to
-facilitate, encourage, support, and streamline. As I've been touring
-the Cambridge schools, I've been impressed with the quality of
-teachers here. However, there seemed significant issues with how the
-school is administered centrally.
-
-If elected, I will focus on a few areas:
-
-* Streamlining processes.
-* Reducing central regulations.
-* Increasing transparency and improving communications.
-* Cheerleading successes.
-* Encourage student/teacher/parent initiatives.
-* Focus on evidence-based practice.
-* Focus on detais and specifics.
-* Building a culture of excellence.
-* Parent, teacher, and community engagement
-
-### Streamlining Processes ###
-
-The process the school operates under, whether school tours, school
-lottery, afterschool registration, or otherwise, are often complex and
-burdensome.
-
-This is both an efficiency issue and an equity issue. Children whose
-parents are not savvy enough to game the lottery algorithms (or who
-don't participate in the lottery) are at a significant
-disadvantage. Small changes to the lottery can lead to better outcomes
-for all involed.
-
-### Encourage student/teacher/parent initiatives ###
-
-I've heard from many people that CPSD has seen too many changes and
-initiatives. I respectfully disagree. CPSD has seen too many
-*top-down* changes and initiatives. Organizations can change,
-innovate, and improve almost arbitrarily quickly when that change
-comes from below. A school committee member told me you can't stop
-such innovation. I agree, but there is much we can do to encourage it.
-
-### Reducing Regulations ###
-
-Between the federal, state, and school district regulations, teachers
-have surprisingly little room to move. Most of the policies are very
-reasonable, but they interact in complex ways. For example, a set
-
-In addition, kids are required to follow a __ page handbook. That's
-not really reasonable for either children or parents to understand.
-
-My plan is to work to convert as many rules to guidelines. Guidelines
-are helpful -- teachers and schools shouldn't have to reinvent the
-wheel. But they should be free to deviate when there is a good
-reason. Allowing people to do things differently is the first step to
-encouraging bottom-up innovation.
-
-### Increasing transparency ###
-
-Between the [Harvard Graduate School of
-Education](http://www.gse.harvard.edu/), [The Lesley Graduate School
-of
-Innovation](http://www.lesley.edu/graduate-school-of-education/home/),
-[Tufts Department of Education](http://ase.tufts.edu/education/), and
-others, we have a lot of resources for understanding out school and
-school system. 
-
-### Improving communications ###
-
-Right now, the Cambridge School District acts largely as 
-
-### Cheerleading successes ###
-
-
-
-### Focus on evidence-based practice ###
-
-
-
-### Focus on detais and specifics ###
-
-As a broad brush, the Innovation Agenda had all of the right
-buzzwords. However, it did very little good. Broadly speaking, in
-organizations, *what* gets done is less important than *how* it gets
-done.
-
-### Building a culture of excellence ###
-
-
-
-### Parent, teacher and community engagement ###
-
-
-
-## What would a dream school look like? ##
-
-
-
+-----------------
 
 Well, I believe innovation ought to come from students, parents, and
 teachers. The role of the School Committee should mostly be to
@@ -190,90 +111,53 @@ school is administered centrally.
 
 If elected, I will focus on a few areas:
 
-* Streamlining processes.
-* Reducing central regulations.
-* Increasing transparency and improving communications.
-* Cheerleading successes.
-* Encourage student/teacher/parent initiatives.
-* Focus on evidence-based practice.
-* Focus on detais and specifics.
-* Building a culture of excellence.
-* Parent, teacher, and community engagement
-
-### Streamlining Processes ###
-
-The process the school operates under, whether school tours, school
-lottery, afterschool registration, or otherwise, are often complex and
-burdensome.
-
-This is both an efficiency issue and an equity issue. Children whose
-parents are not savvy enough to game the lottery algorithms (or who
-don't participate in the lottery) are at a significant
-disadvantage. Small changes to the lottery can lead to better outcomes
-for all involed.
-
-### Encourage student/teacher/parent initiatives ###
-
-I've heard from many people that CPSD has seen too many changes and
-initiatives. I respectfully disagree. CPSD has seen too many
-*top-down* changes and initiatives. Organizations can change,
-innovate, and improve almost arbitrarily quickly when that change
-comes from below. A school committee member told me you can't stop
-such innovation. I agree, but there is much we can do to encourage it.
-
-### Reducing Regulations ###
-
-Between the federal, state, and school district regulations, teachers
-have surprisingly little room to move. Most of the policies are very
-reasonable, but they interact in complex ways. For example, a set
-
-In addition, kids are required to follow a __ page handbook. That's
-not really reasonable for either children or parents to understand.
-
-My plan is to work to convert as many rules to guidelines. Guidelines
-are helpful -- teachers and schools shouldn't have to reinvent the
-wheel. But they should be free to deviate when there is a good
-reason. Allowing people to do things differently is the first step to
-encouraging bottom-up innovation.
-
-### Increasing transparency ###
-
-Between the [Harvard Graduate School of
-Education](http://www.gse.harvard.edu/), [The Lesley Graduate School
-of
-Innovation](http://www.lesley.edu/graduate-school-of-education/home/),
-[Tufts Department of Education](http://ase.tufts.edu/education/), and
-others, we have a lot of resources for understanding out school and
-school system. 
-
-### Improving communications ###
-
-Right now, the Cambridge School District acts largely as 
-
-### Cheerleading successes ###
-
-
-
-### Focus on evidence-based practice ###
-
-
-
-### Focus on detais and specifics ###
-
-As a broad brush, the Innovation Agenda had all of the right
-buzzwords. However, it did very little good. Broadly speaking, in
-organizations, *what* gets done is less important than *how* it gets
-done.
-
-### Building a culture of excellence ###
-
-
-
-### Parent, teacher and community engagement ###
-
-
-
-## What would a dream school look like? ##
-
-
-
+* **Supporting all learners.** Not all learners needs are the
+  same. The school district does a poor job with students outside of
+  the mainstream, be they low-SES, advanced learners, kids with
+  special needs, non-native speakers, or kids with exceptional
+  interests. I want to help the schools support, encourage, and learn
+  from the beautiful diversity we have.
+* **Building a culture of excellence.** I believe every student and
+  teacher in the district should not just succeed, but excel. We have
+  the resources to do that. We don't have the culture to do
+  that. Excellence comes from focus, passion, and interest. It doesn't
+  matter what a student wants to do -- journalism, community
+  organization, programming, or sports -- the school ought to find
+  ways to encourage and support that student to excel at it.
+* **Streamlining processes.** Have you tried going through the school
+  lottery? Registering for afterschool? Figuring out which programs
+  work and which ones don't? All such processes could be made more
+  effective.
+* **Increasing transparency, improving communications, and more
+  coordination.** This is a quality issue. We have some of the best
+  teachers in the world, and we need to find ways to spread best
+  practices. This is an equity issue. Parents without strong networks
+  have a difficult time figuring out what's going on. This is an
+  empowerment issue too. People can't be empowered to act if they don't
+  know what's going on.
+* **Reducing central regulations.** The school district has a
+  tremendous number of very well-thought-out policies. They
+  individually make sense, but together, they're disempowering to
+  teachers and prevent continued improvement and innovation. I would
+  like to convert as many of these as possible from regulations into
+  guidelines.
+* **Cheerleading successes.** One of the key roles of the school
+  committee ought to be identifying what works right -- whether in
+  schools, individual classrooms, or even individual students -- and
+  promoting it. That both helps build culture of excellence, and helps
+  such successes spread.
+* **Encouraging student/teacher/parent initiatives.** The most
+  effective innovation comes from the people involved in the system.
+  The school system moves slowly. I would like to empower everyone
+  involved in the process to make the sorts of positive changes we
+  need. Did you know that a CPSD teacher has a $500 annual
+  discretionary budget? That's $25 per student. We need many times
+  that.
+* **Focus on evidence-based practice.** We know how to close
+  achievement gaps and how to have students learn more
+  effectively. We've had countless successes. The core issue is
+  they're not being applied. I'd like to fix that.
+* **Parent, teacher, and community engagement.** Parents are perhaps
+  the most important part of student outcomes. We need for the schools
+  to engage all parents early and bring them into working with the
+  system.
