@@ -3,6 +3,7 @@ Hello!
 I'm Piotr Mitros, and I'm running for the Cambridge School Committee.
 
 Why are you running?
+====================
 
 While the Cambridge School District is one of the greatest public
 school districts in the nation, it's performing greatly below its
@@ -23,15 +24,19 @@ wide range of settings. I also have experience building organizations
 which work.
 
 What's your background?
+=======================
 
-* Over a half-decade of experience serving as the Chief Scientist and
-  founder of edX, an MIT-Harvard initiative to broadly improve
-  university education.
+* **Over a half-decade of experience serving as the Chief Scientist and
+  co-founder of edX**, an MIT-Harvard initiative to broadly improve
+  university education. In that role, I've interfaced with most of the
+  education research communities, and developed a broad understanding
+  of what does and doesn't work in education
 * Responsible for the creation of a platform and co-development of a
   pedagogy which successfully brought MIT-level curriculum to state
   schools and community colleges, and dramatically improved course
   completion rates in the process (most rigorous experiment showed
-  course completion going from 59% to 91%)
+  course completion going from 59% to 91% for disadvantaged
+  demographics)
 * Experience in education across a diverse range of cultures,
   including in China and Nigeria
 * Co-founder or key early employee at three new organizations, all of
