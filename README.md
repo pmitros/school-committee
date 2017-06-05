@@ -26,11 +26,12 @@ which work.
 What's your background?
 =======================
 
-* **Over a half-decade of experience serving as the Chief Scientist and
-  co-founder of edX**, an MIT-Harvard initiative to broadly improve
-  university education. In that role, I've interfaced with most of the
-  education research communities, and developed a broad understanding
-  of what does and doesn't work in education
+* **Over a half-decade of experience serving as the Chief Scientist
+  and co-founder of edX, an MIT-Harvard education initiative**
+  designed to broadly improve university education. In that role, I've
+  interfaced with most of the education research communities, and
+  developed a broad understanding of what does and doesn't work in
+  education
 * Responsible for the creation of a platform and co-development of a
   pedagogy which successfully brought MIT-level curriculum to state
   schools and community colleges, and dramatically improved course
