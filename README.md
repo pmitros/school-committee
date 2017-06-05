@@ -39,7 +39,9 @@ What's your background?
   course completion going from 59% to 91% for disadvantaged
   demographics)
 * Experience in education across a diverse range of cultures,
-  including in China and Nigeria
+  including in teachinging in China, educational research projects in
+  Nigeria, experimental education projects at MIT, and some experience
+  with education in Mongolia, India, and refugee education in Jordan
 * Co-founder or key early employee at three new organizations, all of
   which crossed the $100 million mark
 * Ph.D from MIT, student of famous computer science educator Jerry
