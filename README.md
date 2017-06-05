@@ -24,19 +24,28 @@ which work.
 
 What's your background?
 
-For the past half-decade, I've served as the Chief Scientist and
-founder of edX, an MIT-Harvard initiative to broadly improve
-university education. The pedagogy I developed in the creation of edX
+* Over a half-decade of experience serving as the Chief Scientist and
+  founder of edX, an MIT-Harvard initiative to broadly improve
+  university education.
+* Responsible for the creation of a platform and co-development of a
+  pedagogy which successfully brought MIT-level curriculum to state
+  schools and community colleges, and dramatically improved course
+  completion rates in the process (most rigorous experiment showed
+  course completion going from 59% to 91%)
+* Experience in education across a diverse range of cultures,
+  including in China and Nigeria
+* Co-founder or key early employee at three new organizations, all of
+  which crossed the $100 million mark
+* Ph.D from MIT, student of famous computer science educator Jerry
+  Sussman, in the intellectual lineage of Seymour Papert
+* CPSD parent
+
+The pedagogy I developed in the creation of edX
 has successfully closed achievement gaps throughout the developing
 world, in community colleges, and at state schools. In that role, I've
 served as an interface to many education research communities --
 psychometricians, constructivists, connectivists, educational policy
 researchers, educational dataminers, and many others. 
-
-Prior to edX, I was an early employee at two startups, one of which is
-valued at over $1 billion, and the other at over $200 million. I hold
-a Ph.D from MIT. As a student, I was involed in educational projects
-in settings as diverse as Nigeria, China, and MIT.
 
 In my time, I've seen good ideas and bad ideas in educational systems
 all around the world, and in working with educational research
