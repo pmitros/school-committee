@@ -113,7 +113,7 @@ What's your platform?
     and streamline rather than to dictate. Organizations can improve
     very quickly when the role of management moves from power and
     control to removing obstacles and empowerment. See [my plan for
-    empowering students, teachers, and parents](empowerment).
+    empowering students, teachers, and parents](empowerment.md).
 
 * **Effective management** 
 
