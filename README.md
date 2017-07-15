@@ -6,8 +6,7 @@ I'm Piotr Mitros, and I'm running for your Cambridge School Committee.
 Why are you running?
 --------------------
 
-While the Cambridge School District is one of the greatest public
-school districts in the nation, it's performing greatly below its
+The Cambridge School District is performing greatly below its
 potential. CPSD spends [$27,569 per
 student](http://profiles.doe.mass.edu/state_report/ppx.aspx) -- more
 than [double](https://nces.ed.gov/fastfacts/display.asp?id=66) the
@@ -18,7 +17,11 @@ Massachusetts. However, CPSD still has several [several failing
 schools](http://profiles.doe.mass.edu/accountability/report/school.aspx?linkid=31&orgcode=00490310&orgtypecode=6&). Many
 high-SES parents are choosing to leave the district, either for the
 suburbs or private schools, while many low-SES children are failing
-basic math and literacy exams.
+basic math and literacy exams. We know how to solve these
+problems. We've solved these problems in many places, and in many
+different ways. I've personally lead many projects which have lead to
+tremendous learning gains, both for disadvantaged and advantaged
+students worldwide.
 
 In short, I think we can do better. I have the experience closing
 achievement gaps, in helping students succeed, and in helping
@@ -99,15 +102,32 @@ communities, I've seen many incredibly diverse approaches to making
 school systems work better. I would like to find a way to integrate
 these to make our school system better.
 
-What's your plan?
+What's your platform?
 -----------------
 
-Well, I believe innovation ought to come from students, parents, and
-teachers. The role of the School Committee should mostly be to
-facilitate, encourage, support, and streamline. As I've been touring
-the Cambridge schools, I've been impressed with the quality of
-teachers here. However, there seemed significant issues with how the
-school is administered centrally.
+* **Bottom-up innovation** Progress ought to come from students,
+    parents, researchers, and teachers. If you've ever tried to
+    improve things in CPSD, you know it's like repeatedly running into
+    a brick wall. The role of the School Committee and the
+    administration should mostly be to facilitate, encourage, support,
+    and streamline rather than to dictate. Organizations can improve
+    very quickly when the role of management moves from power and
+    control to removing obstacles and empowerment. See [my plan for
+    empowering students, teachers, and parents](empowerment).
+
+* **Effective management** 
+
+* **Time in classrooms** Strategic vision and guidance needs to be
+    governed in concrete reality. Before my son attended CPSD, I
+    watched a full day in the classroom he had lotteried into. If
+    elected, I commit to spending at least one in fourteen days of my
+    time in CPSD classrooms, observing what happens.
+
+* **Streamlined processes** 
+
+* **No silver bullets**
+
+
 
 If elected, I will focus on a few areas:
 
