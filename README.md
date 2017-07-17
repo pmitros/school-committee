@@ -60,27 +60,28 @@ What's your background?
   education research communities, and developed a broad understanding
   of what does and doesn't work in education, as well as relationships
   with top researchers in the field.
-
 * **Teaching experience across diverse cultures**. I have experience
-  in education across a diverse range of cultures, including in
-  teaching in China, educational research projects in Nigeria,
-  experimental education projects at MIT, and in many other
-  nations. There are effective practices in serving culturally diverse
-  populations which aren't being applied in CPSD. I believe some of
-  these are responsible for some of the achievement gap we are seeing.
-  
+  in education across a diverse range of cultures, including
+  teaching in [China](http://web.mit.edu/mit-ceti/www/reports/past.htm), educational research projects in
+  [Nigeria](http://mitros.org/p/carnegie_reporter.pdf), experimental
+  education projects at MIT, and in many other nations. There are
+  effective practices in serving culturally diverse populations which
+  aren't being applied in CPSD. I believe some of these are
+  responsible for some of the achievement gap we are seeing.  
 * **Experience with constructivist learning**. I have been involved in
   a range of experiments around project-based and group learning, both
   [in-person](http://tll.mit.edu/sites/default/files/library/files/EvalRept6002ex-Spring03.pdf)
   and
   [on-line](http://davecormier.com/edblog/2014/02/17/building-an-introductory-physics-course-cmooc-meets-xmooc/).
-
 * **Policy experience**. I have served on policy-guiding bodies
-    through the National Science Foundation, the National Academy of
-    Education, and for the European Commission. I served as an expert
-    on issues concerning privacy, assessment, as well as use of big
-    data in education.
-
+    through the [National Science
+    Foundation](http://cra.org/wp-content/uploads/2015/10/CRAEducationReport2015.pdf),
+    the [National Academy of
+    Education](https://naeducation.org/workshop-on-big-data-in-education-balancing-research-needs-and-student-privacy/),
+    and for the [European
+    Commission](https://publications.europa.eu/en/publication-detail/-/publication/94cb5fc8-473e-11e7-aea8-01aa75ed71a1/language-en/format-PDF/source-31396079). I
+    served as an expert on issues concerning privacy, assessment, as
+    well as use of big data in education.
 * **Business experience**. I was a co-founder or key early employee at
   three new organizations, all of which crossed the $100 million
   mark. High-performing organizations require a high degree of
@@ -93,7 +94,8 @@ What's your background?
   Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman) and
   [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert).
 
-* I am a CPSD parent
+* I am a CPSD parent, and have been a resident of Cambridge for most
+  of my life.
 
 The pedagogy I developed in the creation of edX
 has successfully closed achievement gaps throughout the developing
