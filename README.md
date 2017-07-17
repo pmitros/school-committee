@@ -189,8 +189,8 @@ What's not your platform?
 -----------------
 
 * **Universal pre-K**. This is something we do need to do, but it's in
-  city council control. The school committee doesn't have that
-  power. We do have the power to have many less expensive
+  city council control. The school committee doesn't have that power
+  alone. We do have the power to have many less expensive
   interventions with pre-K parents which can get us part of the way
   there in the interrim. I will push for those.
 * **Longer elected terms** The two-year terms mean the school
