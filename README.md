@@ -184,3 +184,16 @@ If elected, I will focus on a few areas:
   the most important part of student outcomes. We need for the schools
   to engage all parents early and bring them into working with the
   system.
+
+What's not your platform?
+-----------------
+
+* **Universal pre-K**. This is something we do need to do, but it's in
+  city council control. The school committee doesn't have that
+  power. We do have the power to have many less expensive
+  interventions with pre-K parents which can get us part of the way
+  there in the interrim. I will push for those.
+* **Longer elected terms** The two-year terms mean the school
+  committee members are constantly competing and campaigning. We ought
+  to at least double the terms, but that is again outside of my
+  control.
