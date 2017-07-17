@@ -188,11 +188,11 @@ If elected, I will focus on a few areas:
 What's not your platform?
 -----------------
 
-* **Universal pre-K**. This is something we do need to do, but it's in
-  city council control. The school committee doesn't have that power
-  alone. We do have the power to have many less expensive
+* **Universal pre-K**. This is something we do need to do, but it
+  requires the city council. The school committee doesn't have that
+  power alone. We do have the power to have many less expensive
   interventions with pre-K parents which can get us part of the way
-  there in the interrim. I will push for those.
+  there in the interrim, and I will push for those.
 * **Longer elected terms** The two-year terms mean the school
   committee members are constantly competing and campaigning. We ought
   to at least double the terms, but that is again outside of my
