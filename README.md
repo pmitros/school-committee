@@ -28,9 +28,10 @@ achievement gaps, in helping students succeed, and in helping
 organization perform at a very high level across a range of
 settings. I'd like to bring that experience to improve your schools. 
 
-I'm also the proud father of a child now entering CPSD. Making
-positive change happen quickly is an absolute top priority for
-me. That's why I'm running.
+I'm also the proud father of a child entering CPSD, and I've already
+seen several things which have concerned me. Making positive change
+happen quickly is an absolute top priority for me. That's why I'm
+running.
 
 How can I help?
 ---------------
@@ -52,20 +53,22 @@ What's your background?
   on final exams in solid state chemistry, with SJSU -- a school
   serving a disadvantage population -- to bring course completion
   rates [from 59% to
-  91%](https://www.edx.org/sites/default/files/upload/ed-tech-paper.pdf),
+  91%](https://www.edx.org/sites/default/files/upload/ed-tech-paper.pdf) (almost entirely closing the achievement gap between SJSU and MIT),
   with schools around the world,
   [online](https://science.mit.edu/news/study-online-classes-really-do-work),
   and with having students at community colleges master materials from
   MIT courses. In this role, I've also interfaced with most of the
-  education research communities, and developed a broad understanding
-  of what does and doesn't work in education, as well as relationships
-  with top researchers in the field.
+  education research communities, including psychometricians,
+  constructivists, connectivists, educational policy researchers,
+  educational dataminers, and many others, and developed a broad
+  understanding of what does and doesn't work in education, as well as
+  relationships with top researchers in the field.
 * **Teaching experience across diverse cultures**. I have experience
   in education across a diverse range of cultures, including
   teaching in [China](http://web.mit.edu/mit-ceti/www/reports/past.htm), educational research projects in
   [Nigeria](http://mitros.org/p/carnegie_reporter.pdf), experimental
   education projects at MIT, and in many other nations. There are
-  effective practices in serving culturally diverse populations which
+  effective practices serving culturally diverse populations worldwide which
   aren't being applied in CPSD. I believe some of these are
   responsible for some of the achievement gap we are seeing.  
 * **Experience with constructivist learning**. I have been involved in
@@ -93,22 +96,12 @@ What's your background?
   includes educators such as [Jerry
   Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman) and
   [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert).
-
 * I am a CPSD parent, and have been a resident of Cambridge for most
   of my life.
 
-The pedagogy I developed in the creation of edX
-has successfully closed achievement gaps throughout the developing
-world, in community colleges, and at state schools. In that role, I've
-served as an interface to many education research communities --
-psychometricians, constructivists, connectivists, educational policy
-researchers, educational dataminers, and many others. 
-
-In my time, I've seen good ideas and bad ideas in educational systems
-all around the world, and in working with educational research
-communities, I've seen many incredibly diverse approaches to making
-school systems work better. I would like to find a way to integrate
-these to make our school system better.
+I've seen good ideas and bad ideas in educational systems all around
+the world, and in diverse educational research communities. I would
+like to work to integrate these to make our school system better.
 
 What's your platform?
 -----------------
