@@ -46,12 +46,17 @@ What's your background?
   university education worldwide. Despite popular press, edX does
   tremendous amounts of on-campus work, and has been incredibly
   effective at accelerating learning across very diverse settings. For
-  example, we were able to work with MIT to quadruple the number of
-  correct answers on final exams in solid state chemistry, with SJSU
-  -- a school serving a disadvantage population -- to bring course
-  completion rates from 59% to 91%, with schools around the world, and
-  with having students at community colleges master materials from MIT
-  courses. In this role, I've also interfaced with most of the
+  example, we were able to work with MIT to [quadruple the number of
+  correct
+  answers](http://web.mit.edu/3.091x/www/3091r%20Final%20report.pdf)
+  on final exams in solid state chemistry, with SJSU -- a school
+  serving a disadvantage population -- to bring course completion
+  rates [from 59% to
+  91%](https://www.edx.org/sites/default/files/upload/ed-tech-paper.pdf),
+  with schools around the world,
+  [online](https://science.mit.edu/news/study-online-classes-really-do-work),
+  and with having students at community colleges master materials from
+  MIT courses. In this role, I've also interfaced with most of the
   education research communities, and developed a broad understanding
   of what does and doesn't work in education, as well as relationships
   with top researchers in the field.
@@ -63,12 +68,12 @@ What's your background?
   nations. There are effective practices in serving culturally diverse
   populations which aren't being applied in CPSD. I believe some of
   these are responsible for some of the achievement gap we are seeing.
-
+  
 * **Experience with constructivist learning**. I have been involved in
-    a range of experiments around project-based and group learning,
-    both
-    [in-person](http://tll.mit.edu/sites/default/files/library/files/EvalRept6002ex-Spring03.pdf)
-    and [on-line](http://davecormier.com/edblog/2014/02/17/building-an-introductory-physics-course-cmooc-meets-xmooc/).
+  a range of experiments around project-based and group learning, both
+  [in-person](http://tll.mit.edu/sites/default/files/library/files/EvalRept6002ex-Spring03.pdf)
+  and
+  [on-line](http://davecormier.com/edblog/2014/02/17/building-an-introductory-physics-course-cmooc-meets-xmooc/).
 
 * **Policy experience**. I have served on policy-guiding bodies
     through the National Science Foundation, the National Academy of
@@ -83,9 +88,10 @@ What's your background?
   districts in this regard, it is well behind where it ought to be. We
   need to do a better job supporting teachers, students, and parents
   who want to improve our school system.
-
 * I hold BS, MS, and Ph.D degrees, all from MIT. My academic lineage
-  includes educators such as Jerry Sussman and Seymour Papert.
+  includes educators such as [Jerry
+  Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman) and
+  [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert).
 
 * I am a CPSD parent
 
@@ -112,21 +118,25 @@ What's your platform?
     administration should mostly be to facilitate, encourage, support,
     and streamline rather than to dictate. Organizations can improve
     very quickly when the role of management moves from power and
-    control to removing obstacles and empowerment. See [my plan for
-    empowering students, teachers, and parents](empowerment.md).
-
-* **Effective management** 
-
+    control to removing obstacles and empowerment, and when there
+    mechanisms to spread best practices. See [my plan for empowering
+    students, teachers, and parents](empowerment.md).
+* **Effective, transparent management** The school district is badly
+    mismanaged. The school committee can barely talk to each
+    other. Decisions are being made in all the wrong places. We have
+    many programs with no real idea whether they work. Organizational
+    processes are defunct. Have you tried going through the school
+    lottery? Registering for afterschool? Simply moving to modern
+    management techniques, improving transparency and communications,
+    and moving towards digital processes can lower costs, save both
+    parents and school employees time (giving more time to interact
+    with students), and make everything work better. See [my plan for
+    streamlining processes](streamline.md).
 * **Time in classrooms** Strategic vision and guidance needs to be
-    governed in concrete reality. Before my son attended CPSD, I
-    watched a full day in the classroom he had lotteried into. If
-    elected, I commit to spending at least one in fourteen days of my
-    time in CPSD classrooms, observing what happens.
-
-* **Streamlined processes** 
-
-* **No silver bullets**
-
+    governed in concrete reality. I've spent time in CPSD classrooms,
+    and if elected, I commit to spending at least one in fourteen days
+    of my time in CPSD classrooms, observing what happens.
+* **No silver bullets** 
 
 
 If elected, I will focus on a few areas:
@@ -144,9 +154,7 @@ If elected, I will focus on a few areas:
   matter what a student wants to do -- journalism, community
   organization, programming, or sports -- the school ought to find
   ways to encourage and support that student to excel at it.
-* **Streamlining processes.** Have you tried going through the school
-  lottery? Registering for afterschool? Figuring out which programs
-  work and which ones don't? All such processes could be made more
+* **Streamlining processes.** All such processes could be made more
   effective.
 * **Increasing transparency, improving communications, and more
   coordination.** This is a quality issue. We have some of the best
