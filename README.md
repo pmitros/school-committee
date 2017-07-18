@@ -13,20 +13,21 @@ than [double](https://nces.ed.gov/fastfacts/display.asp?id=66) the
 national average and the fourth highest in the state, has connections
 to top education researchers at schools such as MIT, Harvard, Lesley,
 and other schools. We have some of the greatest teachers in
-Massachusetts. However, CPSD still has several [several failing
-schools](http://profiles.doe.mass.edu/accountability/report/school.aspx?linkid=31&orgcode=00490310&orgtypecode=6&). Many
-high-SES parents are choosing to leave the district, either for the
-suburbs or private schools, while many low-SES children are failing
-basic math and literacy exams. We know how to solve these
-problems. We've solved these problems in many places, and in many
-different ways. I've personally lead many projects which have lead to
-tremendous learning gains, both for disadvantaged and advantaged
-students worldwide.
+Massachusetts. However, CPSD still has several several failing
+schools. Many high-SES parents are choosing to leave the district,
+either for the suburbs or private schools, while many low-SES children
+are failing basic math and literacy exams. We know how to solve these
+problems. We've solved these problems in [many
+places](https://khanacademy.zendesk.com/hc/en-us/articles/202260264-Is-Khan-Academy-effective-How-is-it-different-than-other-resources-available-),
+and in [many different
+ways](https://www.nytimes.com/2016/11/06/opinion/sunday/schools-that-work.html). I've
+personally lead many projects which have lead to tremendous learning
+gains, both for disadvantaged and advantaged students worldwide.
 
 In short, I think we can do better. I have the experience closing
 achievement gaps, in helping students succeed, and in helping
 organization perform at a very high level across a range of
-settings. I'd like to bring that experience to improve your schools. 
+settings. I'd like to bring that experience to improve your schools.
 
 I'm also the proud father of a child entering CPSD, and I've already
 seen several things which have concerned me. Making positive change
@@ -38,6 +39,12 @@ How can I help?
 
 You can donate to my campaign, help spread the word, and remember to
 vote in November.
+
+My hope is that having learned a lesson from the recent kerfuffle in
+national politics, we can work together to make sure we avoid similar
+ones in local politics. Even if you don't vote for me, please educate
+yourself about the candidates, vote, and encourage others to do so as
+well.
 
 What's your background?
 -----------------------
@@ -121,17 +128,19 @@ What's your platform?
     control to removing obstacles and empowerment, and when there
     mechanisms to spread best practices. See [my plan for empowering
     students, teachers, and parents](empowerment.md).
-* **Effective, transparent management.** The school district is badly
-    mismanaged. The school committee can barely talk to each
-    other. Decisions are being made in all the wrong places. We have
-    many programs with no real idea whether they work. Organizational
-    processes are defunct. Have you tried going through the school
-    lottery? Registering for afterschool? Simply moving to modern
-    management techniques, improving transparency and communications,
-    and moving towards digital processes can lower costs, save both
-    parents and school employees time (giving more time to interact
-    with students), and make everything work better. See [my plan for
-    streamlining processes](streamline.md).
+* **Effective, transparent management.** The school district has
+    several organizational disfunctions, and the school committee, as
+    a body, is ineffective. While I'm impressed with most individuals
+    in the system, the overall organizational dynamics connecting
+    those individuals are broken. Decisions are being made in all the
+    wrong places. We have many programs with no real idea whether they
+    work. Organizational processes are defunct. Have you tried going
+    through the school lottery?  Registering for afterschool? Simply
+    moving to modern management techniques, improving transparency and
+    communications, and moving towards digital processes can lower
+    costs, save both parents and school employees time (giving more
+    time to interact with students), and make everything work
+    better. See [my plan for streamlining processes](streamline.md).
 * **Time in classrooms.** Strategic vision and guidance needs to be
     governed in concrete reality. I've spent time in CPSD classrooms,
     and if elected, I commit to spending at least one in fourteen days
@@ -169,9 +178,8 @@ What's your platform?
 What's not your platform?
 -----------------
 
-These are things I believe in, but which I'm not sure are sufficiently
-within school committee control for me to be able to make any sort of
-commitment:
+These are things I believe in, will support, but which may be out of
+school committee control, so I cannot make any sort of commitment:
 
 * **Universal pre-K**. This is something we do need to do, but it
     requires the city council. The school committee doesn't have that
