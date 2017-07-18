@@ -167,7 +167,7 @@ What's your platform?
     interests -- almost no matter what they are -- will pass basic
     math and writing exams as a side effect. Learning to support all
     the different ways students may want to excel is at the core of
-    resolving many of the diversity issues in the district, and to
+    resolving many of the diversity issues in the district and to
     supporting all learners, regardless of background or level.
 
 What's not your platform?
