@@ -104,13 +104,13 @@ in Cambridge.
 
 Why aren't we making more use of it?
 
-I think part of the answer is that CPSD is difficult for researchers
-to engage with. We have no established processes for doing so, and
-principals and teachers must wing it every time. I don't want to
-dictate a process, but I'd like to provide a default set of guidelines
-so that busy principals and teachers have an easy way to understand
-how to respond to researcher requests, and I'd like to let researchers
-know we're open for business with an understandable set of guidelines.
+Part of the answer is that CPSD is difficult for researchers to engage
+with. We have no established processes for doing so, and principals
+and teachers must wing it every time. I don't want to dictate a
+process, but I'd like to provide a default set of guidelines so that
+busy principals and teachers have an easy way to understand how to
+respond to researcher requests, and I'd like to let researchers know
+we're open for business with an understandable set of guidelines.
 
 Working with Harvard, MIT, Tufts, and others is one of the best ways
 to understand what happens in our district, as well as to bring in new
@@ -133,15 +133,26 @@ School committee politics
 --------
 
 The school committee processes don't work well. Visit a meeting or
-read any Cambridge Day article. I'd like to figure out the extent we
-can shift away from argument, politics, and process to getting real
-work done.
+read any Cambridge Day article. I'd like to shift away from sparring,
+politics, and process to getting real work done.
 
 Organizational roles
 --------
 
-
+The role of the school committee ought to be the same as of a
+corporate board -- high level vision and strategy. The role of the
+school administration ought to be to work with the school committee on
+defining that and to execute on it. Most of the innovation should come
+from the bottom up. The school committee should not micromanage (and
+neither should higher levels of the administration).
 
 Go digital
 --------
 
+Parents should be able to register for the school, afterschool, and
+other activities online, be notified of school events without paper,
+and monitor their childrens' progress. In 2017, virtually everyone,
+including poorer individuals, have at least some internet access. I
+don't disagree with allowing people to manage processes without it,
+but for the most part, we can save huge amounts of peoples' time and
+the district's money by going digital whereever possible. 
