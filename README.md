@@ -71,11 +71,12 @@ What's your background?
     [China](http://web.mit.edu/mit-ceti/www/reports/past.htm),
     educational research projects in
     [Nigeria](http://mitros.org/p/carnegie_reporter.pdf), experimental
-    education projects at MIT, and in many other nations. There are
-    effective practices serving culturally diverse populations
-    worldwide which aren't being applied in CPSD. I believe some of
-    these are responsible for some of the achievement gap we are
-    seeing.
+    education projects at MIT, and in many other nations. I have
+    [business experience](http://mitros.org/p/#cultures) in even more
+    nations. There are effective practices for serving culturally
+    diverse populations worldwide which aren't being applied in
+    CPSD. I believe this is partially responsible for some of the
+    achievement gap we are seeing.
 * **Experience with constructivist learning**. I have been involved in
     a range of experiments around project-based and group learning,
     both
