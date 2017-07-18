@@ -59,4 +59,10 @@ products](https://en.wikipedia.org/wiki/Eating_your_own_dog_food). Employees
 can't make informed decisions otherwise, and teachers, likewise,
 should be able to see how schools impact their own kids. That also
 brings teachers into the community, give teachers a heck of a lot more
-time (whether for work or family), and is just basic decency as an employer.. It's also
+time (whether for work or family), and is just basic decency as an employer.
+
+School committee politics
+--------
+
+Organizational roles
+--------
