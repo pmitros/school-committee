@@ -106,7 +106,7 @@ like to work to integrate these to make our school system better.
 What's your platform?
 -----------------
 
-* **Bottom-up innovation** Progress ought to come from students,
+* **Bottom-up innovation.** Progress ought to come from students,
     parents, researchers, and teachers. If you've ever tried to
     improve things in CPSD, you know it's like repeatedly running into
     a brick wall. The role of the School Committee and the
@@ -116,7 +116,7 @@ What's your platform?
     control to removing obstacles and empowerment, and when there
     mechanisms to spread best practices. See [my plan for empowering
     students, teachers, and parents](empowerment.md).
-* **Effective, transparent management** The school district is badly
+* **Effective, transparent management.** The school district is badly
     mismanaged. The school committee can barely talk to each
     other. Decisions are being made in all the wrong places. We have
     many programs with no real idea whether they work. Organizational
@@ -131,7 +131,7 @@ What's your platform?
     governed in concrete reality. I've spent time in CPSD classrooms,
     and if elected, I commit to spending at least one in fourteen days
     of my time in CPSD classrooms, observing what happens.
-* **Evidence-based education** Over the past few decades, we've
+* **Evidence-based education.** Over the past few decades, we've
     distilled tremendous numbers of theories about what works in
     education to a rigorous, scientifically-validated understanding of
     what helps students learn. There are no silver bullets; education
@@ -148,7 +148,7 @@ What's your platform?
     culture. When I mentioned this to a school committee member, the
     response was that, by definition, not all students can excel (and
     the response was backed by a statement about some students needing
-    to be in low percentiles on achivement scores, by basic
+    to be in low percentiles on achievement scores, by basic
     math). That's not what excellence is about. Excellence comes from
     focus, passion, and interest in specific topics, of which there's
     an infinite variety. It doesn't matter what a student wants to do
@@ -167,7 +167,7 @@ What's not your platform?
   requires the city council. The school committee doesn't have that
   power alone. We do have the power to have many less expensive
   interventions with pre-K parents which can get us part of the way
-  there in the interrim, and I will push for those.
+  there in the interim, and I will push for those.
 * **Longer elected terms** The two-year terms mean the school
   committee members are constantly competing and campaigning. We ought
   to at least double the terms, but that is again outside of my
