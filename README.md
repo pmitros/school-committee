@@ -136,9 +136,9 @@ What's your platform?
     time to interact with students), and make everything work
     better. See [my plan for streamlining processes](streamline.md).
 * **Time in classrooms.** Strategic vision and guidance needs to be
-    governed in concrete reality. I've spent time in CPSD classrooms,
-    and if elected, I commit to spending at least one in fourteen days
-    of my time in CPSD classrooms, observing what happens.
+    guided by concrete reality. I've spent time in CPSD classrooms,
+    and if elected, I commit to spending at least one full day every
+    two weeks in CPSD classrooms, observing what happens.    
 * **Evidence-based education.** Over the past few decades, we've
     distilled tremendous numbers of theories about what works in
     education to a rigorous, scientifically-validated understanding of
