@@ -48,6 +48,13 @@ can't be empowered to act if they don't know what's going on.
 Fix the lottery
 --------
 
+This is a little technical, but the CPSD school algorithm is
+broken. It leads to poor placement, and encourages gaming. We have
+strong evidence of gaming, and indeed, some programs (such as language
+immersion) are virtually impossible to be admitted into without
+gaming. There are matching algorithms which are better by every
+metric; we should put any one of those in. 
+
 Reduce regulation
 --------
 
