@@ -41,3 +41,20 @@ where our teachers are empowered to do a great job. I would like to:
   is just a start of what teachers, parents, and students must deal
   with. Most of these are carefully thought out and very reasonable,
   and would make ideal guidelines.
+
+* **Cheerleading successes.** One of the key roles of the school
+  committee ought to be identifying what works right -- whether in
+  schools, individual classrooms, or even individual students -- and
+  promoting it. That both helps build culture of excellence, and helps
+  such successes spread.
+* **Encouraging student/teacher/parent initiatives.** The most
+  effective innovation comes from the people involved in the system.
+  The school system moves slowly. I would like to empower everyone
+  involved in the process to make the sorts of positive changes we
+  need. Did you know that a CPSD teacher has a $500 annual
+  discretionary budget? That's $25 per student. We need many times
+  that.
+* **Parent, teacher, and community engagement.** Parents are perhaps
+  the most important part of student outcomes. We need for the schools
+  to engage all parents early and bring them into working with the
+  system.

@@ -12,3 +12,18 @@ evaluate what does and doesn't work, and direct our funding and energy
 towards initiatives which demonstrably improve student outcomes. Along
 lines of this, I will work to streamline processes and improve
 transparency, especially to parents.
+
+
+* **Increasing transparency, improving communications, and more
+  coordination.** This is a quality issue. We have some of the best
+  teachers in the world, and we need to find ways to spread best
+  practices. This is an equity issue. Parents without strong networks
+  have a difficult time figuring out what's going on. This is an
+  empowerment issue too. People can't be empowered to act if they don't
+  know what's going on.
+* **Reducing central regulations.** The school district has a
+  tremendous number of very well-thought-out policies. They
+  individually make sense, but together, they're disempowering to
+  teachers and prevent continued improvement and innovation. I would
+  like to convert as many of these as possible from regulations into
+  guidelines.

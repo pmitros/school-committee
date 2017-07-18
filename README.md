@@ -131,59 +131,34 @@ What's your platform?
     governed in concrete reality. I've spent time in CPSD classrooms,
     and if elected, I commit to spending at least one in fourteen days
     of my time in CPSD classrooms, observing what happens.
-* **No silver bullets** 
-
-
-If elected, I will focus on a few areas:
-
-* **Supporting all learners.** Not all learners needs are the
-  same. The school district does a poor job with students outside of
-  the mainstream, be they low-SES, advanced learners, kids with
-  special needs, non-native speakers, or kids with exceptional
-  interests. I want to help the schools support, encourage, and learn
-  from the beautiful diversity we have.
+* **Evidence-based education** Over the past few decades, we've
+    distilled tremendous numbers of theories about what works in
+    education to a rigorous, scientifically-validated understanding of
+    what helps students learn. There are no silver bullets; education
+    is too complex for that. We need to keep students motivated, give
+    them tools to monitor their own learning, and to have feedback and
+    remediate when they make a mistake. Those tools can come from
+    peers, teachers, parents, technology, or other places. Which works
+    best depends on the discipline, age, and economic
+    constraints. Applied effectively, these allow underperforming
+    students to succeed, and more advanced students to excel.
 * **Building a culture of excellence.** I believe every student and
-  teacher in the district should not just succeed, but excel. We have
-  the resources to do that. We don't have the culture to do
-  that. Excellence comes from focus, passion, and interest. It doesn't
-  matter what a student wants to do -- journalism, community
-  organization, programming, or sports -- the school ought to find
-  ways to encourage and support that student to excel at it.
-* **Streamlining processes.** All such processes could be made more
-  effective.
-* **Increasing transparency, improving communications, and more
-  coordination.** This is a quality issue. We have some of the best
-  teachers in the world, and we need to find ways to spread best
-  practices. This is an equity issue. Parents without strong networks
-  have a difficult time figuring out what's going on. This is an
-  empowerment issue too. People can't be empowered to act if they don't
-  know what's going on.
-* **Reducing central regulations.** The school district has a
-  tremendous number of very well-thought-out policies. They
-  individually make sense, but together, they're disempowering to
-  teachers and prevent continued improvement and innovation. I would
-  like to convert as many of these as possible from regulations into
-  guidelines.
-* **Cheerleading successes.** One of the key roles of the school
-  committee ought to be identifying what works right -- whether in
-  schools, individual classrooms, or even individual students -- and
-  promoting it. That both helps build culture of excellence, and helps
-  such successes spread.
-* **Encouraging student/teacher/parent initiatives.** The most
-  effective innovation comes from the people involved in the system.
-  The school system moves slowly. I would like to empower everyone
-  involved in the process to make the sorts of positive changes we
-  need. Did you know that a CPSD teacher has a $500 annual
-  discretionary budget? That's $25 per student. We need many times
-  that.
-* **Focus on evidence-based practice.** We know how to close
-  achievement gaps and how to have students learn more
-  effectively. We've had countless successes. The core issue is
-  they're not being applied. I'd like to fix that.
-* **Parent, teacher, and community engagement.** Parents are perhaps
-  the most important part of student outcomes. We need for the schools
-  to engage all parents early and bring them into working with the
-  system.
+    teacher in the district should not just succeed, but excel. We
+    have the resources to do that. We just don't have the
+    culture. When I mentioned this to a school committee member, the
+    response was that, by definition, not all students can excel (and
+    the response was backed by a statement about some students needing
+    to be in low percentiles on achivement scores, by basic
+    math). That's not what excellence is about. Excellence comes from
+    focus, passion, and interest in specific topics, of which there's
+    an infinite variety. It doesn't matter what a student wants to do
+    -- journalism, community organization, programming, or sports --
+    the school ought to find ways to encourage and support that
+    student to excel at it. Students who do that will pass basic exams
+    as a side effect. Learning to support all the different ways
+    students may want to excel is at the core of resolving many of the
+    diversity issues in the district, and to supporting all learners,
+    regardless of background.
 
 What's not your platform?
 -----------------
