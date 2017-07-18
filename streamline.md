@@ -24,9 +24,9 @@ many things we don't know how to measure, and once assessment is tied
 to incentives, those tend to fall by the wayside. However, used
 correctly, with the understanding that much of evaluation is
 qualitative and needs to be combined with theoretical and
-substantative arguments, more knowledge is better.
+substantive arguments, more knowledge is better.
 
-But used correctly, integrated with different types of evidence, and
+However, used correctly, integrating different types of evidence, and
 not tied to high stakes, students, teachers, and school systems do
 better with testing, monitoring, feedback, and continued
 assessment. That is established science.
@@ -47,6 +47,9 @@ effect](https://www.coursera.org/learn/coaching-teachers). This is an
 equity issue. Parents without strong networks have a difficult time
 figuring out what's going on. This is an empowerment issue too. People
 can't be empowered to act if they don't know what's going on.
+
+As with any other kind of assessment, it's important that such
+processes be judgment-free and geared towards improvement. 
 
 Fix the lottery
 --------
@@ -96,7 +99,21 @@ regulations into guidelines.
 Engage with researchers
 --------
 
+We have some of the best educational research in the world right here
+in Cambridge.
 
+Why aren't we making more use of it?
+
+I think part of the answer is that CPSD is difficult for researchers
+to engage with. We have no established processes for doing so, and
+principals and teachers must wing it every time. I don't want to
+dictate a process, but I'd like to provide a default set of guidelines
+so that busy principals and teachers have an easy way to understand
+how to respond to researcher requests, and I'd like to let researchers
+know we're open for business.
+
+Working with Harvard, MIT, Tufts, and others is one of the best ways
+to understand what happens in our district.
 
 Engage teachers in the community
 --------
@@ -104,7 +121,7 @@ Engage teachers in the community
 Did you know many CPSD teachers can't send their own kids here? The
 wages from the schools no longer support the cost-of-living in
 Cambridge, and the school does not allow employees to send their own
-kids to the sc hool. Good companies have employees [use their own
+kids to the school. Good companies have employees [use their own
 products](https://en.wikipedia.org/wiki/Eating_your_own_dog_food). Employees
 can't make informed decisions otherwise, and teachers, likewise,
 should be able to see how schools impact their own kids. That also
@@ -114,8 +131,16 @@ time (whether for work or family), and is just basic decency as an employer.
 School committee politics
 --------
 
+The school committee processes don't work well. Visit a meeting or
+read any Cambridge Day article. I'd like to figure out the extent we
+can shift away from argument, politics, and process to getting real
+work done.
+
 Organizational roles
 --------
 
+
+
 Go digital
 --------
+
