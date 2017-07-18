@@ -71,7 +71,7 @@ What's your background?
     [China](http://web.mit.edu/mit-ceti/www/reports/past.htm),
     educational research projects in
     [Nigeria](http://mitros.org/p/carnegie_reporter.pdf), experimental
-    education projects at MIT, and in many other nations. I have
+    education projects at MIT, and in many other nations. I have mixed
     [business experience](http://mitros.org/p/#cultures) in even more
     nations. There are effective practices for serving culturally
     diverse populations worldwide which aren't being applied in
