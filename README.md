@@ -40,12 +40,6 @@ How can I help?
 You can donate to my campaign, help spread the word, and remember to
 vote in November.
 
-My hope is that having learned a lesson from the recent kerfuffle in
-national politics, we can work together to make sure we avoid similar
-ones in local politics. Even if you don't vote for me, please educate
-yourself about the candidates, vote, and encourage others to do so as
-well.
-
 What's your background?
 -----------------------
 
@@ -195,3 +189,14 @@ school committee control, so I cannot make any sort of commitment:
     current school day doesn't leave enough time for things like
     recess. While I'll push for this, I'm not sure we'll be able to
     get this done in time.
+
+How else can I help?
+-----------------
+
+My hope is that having learned a lesson from the recent kerfuffle in
+national politics, we can work together to make sure we avoid similar
+ones in local politics. Even if you don't vote for me, please educate
+yourself about the candidates, vote, and especially encourage others
+to do so as well. Anything you can do -- work mailing lists, social
+mailing lists, or otherwise -- to drive people to be knowledgeable and
+involved -- will help make Cambridge a better city. 
