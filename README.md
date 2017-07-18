@@ -175,7 +175,7 @@ What's not your platform?
 -----------------
 
 These are things I believe in, will support, but which may be out of
-school committee control, so I cannot make any sort of commitment:
+school committee control:
 
 * **Universal pre-K**. This is something we do need to do, but it
     requires the city council. The school committee doesn't have that
