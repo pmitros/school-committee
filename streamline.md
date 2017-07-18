@@ -78,9 +78,8 @@ population. In 2017, most people want to be in integrated
 schools. There are some [effects we need to
 manage](http://ncase.me/polygons/), but a 2017 solution can be less
 adversarial than the current system. Prominently starting the school
-by sticking labels like "low-SES" and "high-SES" on kids leads (to
-negative and segregatory
-effects)[https://en.wikipedia.org/wiki/Realistic_conflict_theory#Robbers_cave_study].
+by sticking labels like "low-SES" and "high-SES" on kids leads
+[to negative and segregatory effects](https://en.wikipedia.org/wiki/Realistic_conflict_theory#Robbers_cave_study).
 
 Reduce regulation
 --------
