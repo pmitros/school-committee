@@ -46,7 +46,10 @@ the district. Match Education has used this [to great
 effect](https://www.coursera.org/learn/coaching-teachers). This is an
 equity issue. Parents without strong networks have a difficult time
 figuring out what's going on. This is an empowerment issue too. People
-can't be empowered to act if they don't know what's going on.
+can't be empowered to act if they don't know what's going on. This is
+also a coherency issue. While I wouldn't propose extending control to
+afterschool programs, more mechanisms for voluntary coordination could
+help both sides.
 
 As with any other kind of assessment, it's important that such
 processes be judgment-free and geared towards improvement. 
