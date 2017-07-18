@@ -103,7 +103,8 @@ What's your background?
     MIT. My [academic lineage](http://mitros.org/p/#geneaology)
     includes educators such as [Jerry
     Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman) and
-    [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert).
+    [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert),
+    and I have some [academic background](academic.md) in education.
 * I am a CPSD parent, and have been a resident of Cambridge for most
     of my life.
 
