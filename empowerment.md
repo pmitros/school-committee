@@ -26,7 +26,11 @@ where our teachers are empowered to do a great job. I would like to:
   good things happening in the district from the rooftops! I would
   like to build connections with local newspapers so we can publicize
   many of the great things that happen in the district, and encourage
-  more people to get involved.
+  more people to get involved. One of the key roles of the school
+  committee ought to be identifying what works -- whether in
+  schools, individual classrooms, or even individual students -- and
+  promoting it. Cheerleading successes both helps build culture of
+  excellence, and helps such successes spread.
 * Provide much greater transparency into our schools and into our
   classrooms. If a teacher is doing something which works, we should
   know about it! If an HGSE researcher wants to improve our schools,
@@ -41,20 +45,13 @@ where our teachers are empowered to do a great job. I would like to:
   is just a start of what teachers, parents, and students must deal
   with. Most of these are carefully thought out and very reasonable,
   and would make ideal guidelines.
-
-* **Cheerleading successes.** One of the key roles of the school
-  committee ought to be identifying what works right -- whether in
-  schools, individual classrooms, or even individual students -- and
-  promoting it. That both helps build culture of excellence, and helps
-  such successes spread.
-* **Encouraging student/teacher/parent initiatives.** The most
-  effective innovation comes from the people involved in the system.
-  The school system moves slowly. I would like to empower everyone
-  involved in the process to make the sorts of positive changes we
-  need. Did you know that a CPSD teacher has a $500 annual
-  discretionary budget? That's $25 per student. We need many times
-  that.
-* **Parent, teacher, and community engagement.** Parents are perhaps
-  the most important part of student outcomes. We need for the schools
-  to engage all parents early and bring them into working with the
-  system.
+* Parents are perhaps the most important part of student outcomes. We
+  need for the schools to engage all parents early and bring them into
+  working in collaboration with the school. Before we have universal
+  pre-K, we can do a lot more to get parents involved, even in fairly
+  lightweight ways. The school should offer parenting classes,
+  volunteer opportunities, and build a social engagement. Each parent
+  should have a point of contact -- be that a school employee or a
+  classroom parent -- to walk them through the school lottery and
+  application processes, services the city provides, and any other
+  parenting support they might need from the time a child is born.
