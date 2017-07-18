@@ -43,39 +43,44 @@ What's your background?
 -----------------------
 
 * **Chief Scientist of edX**. A bit over a half-decade ago, I proposed
-  the concept of MITx to MIT, and designed a platform to improve
-  university education worldwide. Despite popular press, edX does
-  tremendous amounts of on-campus work, and has been incredibly
-  effective at accelerating learning across very diverse settings. For
-  example, we were able to work with MIT to [quadruple the number of
-  correct
-  answers](http://web.mit.edu/3.091x/www/3091r%20Final%20report.pdf)
-  on final exams in solid state chemistry, with SJSU -- a school
-  serving a disadvantage population -- to bring course completion
-  rates [from 59% to
-  91%](https://www.edx.org/sites/default/files/upload/ed-tech-paper.pdf) (almost entirely closing the achievement gap between SJSU and MIT),
-  with schools around the world,
-  [online](https://science.mit.edu/news/study-online-classes-really-do-work),
-  and with having students at community colleges master materials from
-  MIT courses. In this role, I've also interfaced with most of the
-  education research communities, including psychometricians,
-  constructivists, connectivists, educational policy researchers,
-  educational dataminers, and many others, and developed a broad
-  understanding of what does and doesn't work in education, as well as
-  relationships with top researchers in the field.
+    the concept of MITx to MIT, and designed a platform to improve
+    university education worldwide. Despite popular press, edX does
+    tremendous amounts of on-campus work, and has been incredibly
+    effective at accelerating learning across very diverse
+    settings. For example, we were able to work with MIT to [quadruple
+    the number of correct
+    answers](http://web.mit.edu/3.091x/www/3091r%20Final%20report.pdf)
+    on final exams in solid state chemistry, with SJSU -- a school
+    serving a disadvantage population -- to bring course completion
+    rates [from 59% to
+    91%](https://www.edx.org/sites/default/files/upload/ed-tech-paper.pdf)
+    (almost entirely closing the achievement gap between SJSU and
+    MIT), with schools around the world,
+    [online](https://science.mit.edu/news/study-online-classes-really-do-work),
+    and with having students at community colleges master materials
+    from MIT courses. In this role, I've also interfaced with most of
+    the education research communities, including psychometricians,
+    constructivists, connectivists, educational policy researchers,
+    educational dataminers, and many others, and developed a broad
+    understanding of what does and doesn't work in education, as well
+    as relationships with top researchers in the field.
 * **Teaching experience across diverse cultures**. I have experience
-  in education across a diverse range of cultures, including
-  teaching in [China](http://web.mit.edu/mit-ceti/www/reports/past.htm), educational research projects in
-  [Nigeria](http://mitros.org/p/carnegie_reporter.pdf), experimental
-  education projects at MIT, and in many other nations. There are
-  effective practices serving culturally diverse populations worldwide which
-  aren't being applied in CPSD. I believe some of these are
-  responsible for some of the achievement gap we are seeing.  
+    in education across a diverse range of cultures, including
+    teaching in
+    [China](http://web.mit.edu/mit-ceti/www/reports/past.htm),
+    educational research projects in
+    [Nigeria](http://mitros.org/p/carnegie_reporter.pdf), experimental
+    education projects at MIT, and in many other nations. There are
+    effective practices serving culturally diverse populations
+    worldwide which aren't being applied in CPSD. I believe some of
+    these are responsible for some of the achievement gap we are
+    seeing.
 * **Experience with constructivist learning**. I have been involved in
-  a range of experiments around project-based and group learning, both
-  [in-person](http://tll.mit.edu/sites/default/files/library/files/EvalRept6002ex-Spring03.pdf)
-  and
-  [on-line](http://davecormier.com/edblog/2014/02/17/building-an-introductory-physics-course-cmooc-meets-xmooc/).
+    a range of experiments around project-based and group learning,
+    both
+    [in-person](http://tll.mit.edu/sites/default/files/library/files/EvalRept6002ex-Spring03.pdf)
+    and
+    [on-line](http://davecormier.com/edblog/2014/02/17/building-an-introductory-physics-course-cmooc-meets-xmooc/).
 * **Policy experience**. I have served on policy-guiding bodies
     through the [National Science
     Foundation](http://cra.org/wp-content/uploads/2015/10/CRAEducationReport2015.pdf),
@@ -86,16 +91,16 @@ What's your background?
     served as an expert on issues concerning privacy, assessment, as
     well as use of big data in education.
 * **Business experience**. I was a co-founder or key early employee at
-  three new organizations, all of which crossed the $100 million
-  mark. High-performing organizations require a high degree of
-  empowerment for individuals. While CPSD is ahead of most school
-  districts in this regard, it is well behind where it ought to be. We
-  need to do a better job supporting teachers, students, and parents
-  who want to improve our school system.
-* I hold BS, MS, and Ph.D degrees, all from MIT. My academic lineage
-  includes educators such as [Jerry
-  Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman) and
-  [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert).
+    three new organizations, all of which crossed the $100 million
+    mark. High-performing organizations require a high degree of
+    empowerment for individuals. While CPSD is ahead of most school
+    districts in this regard, it is well behind where it ought to
+    be. We need to do a better job supporting teachers, students, and
+    parents who want to improve our school system.
+* **Academic experience**. I hold BS, MS, and Ph.D degrees, all from
+    MIT. My academic lineage includes educators such as [Jerry
+    Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman) and
+    [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert).
 * I am a CPSD parent, and have been a resident of Cambridge for most
   of my life.
 
