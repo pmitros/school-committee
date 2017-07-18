@@ -37,8 +37,22 @@ running.
 How can I help?
 ---------------
 
-You can donate to my campaign, help spread the word, and remember to
-vote in November.
+You can [donate to my
+campaign](https://secure.actblue.com/donate/mitros), help spread the
+word, and remember to vote in November.
+
+Local elections are surprisingly expensive; we need money for:
+
+* Mailings. Cambridge has around 100,000 people, of whom about 50,000
+  are registered to vote, and perhaps
+  [13,000](https://www.cctvcambridge.org/node/29005) vote in municipal
+  elections. They need to know who I am.
+* If there's money left over, things like yard signs, business cards,
+  launch parties, and similar really do help
+* If there's money left over after that, there are services which help
+  manage elections. Aside from helping go door-to-door, they help
+  guide me to follow all the election rules, financial reporting
+  guidelines, and keep me out of prison.
 
 What's your background?
 -----------------------
