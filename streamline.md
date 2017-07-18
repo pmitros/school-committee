@@ -22,9 +22,9 @@ been misused in school systems for decades. I would like to address
 this head on: Students, teachers, and school systems generally do
 better with frequent testing, monitoring, feedback, and
 assessment. That is established science. Where assessment fails is
-when it is used in isolation, tied directly to incentives. There are
-many things we don't know how to measure, and once assessment is tied
-to incentives, those tend to fall by the wayside. However, used
+when it is used in isolation or tied directly to incentives. There
+are many things we don't know how to measure, and once assessment is
+tied to incentives, those tend to fall by the wayside. However, used
 correctly, with the understanding that much of evaluation is
 qualitative and needs to be combined with theoretical and
 substantative arguments, more knowledge is better.
@@ -33,11 +33,8 @@ Transparency, communication, and collaboration
 --------
 
 Along lines of this, I will work to improve transparency, especially
-to parents. We 
-
-
-The school should shift to process where everything is open unless
-there is a compelling reason to do otherwise.
+to parents. The school should shift to processes where everything is
+open unless there is a compelling reason to do otherwise. 
 
 This is a quality issue. We have some of the best teachers in the
 world, and we need to find ways to spread best practices. This is an
