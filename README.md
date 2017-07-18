@@ -157,13 +157,14 @@ What's your platform?
     math). That's not what excellence is about. Excellence comes from
     focus, passion, and interest in specific topics, of which there's
     an infinite variety. It doesn't matter what a student wants to do
-    -- journalism, community organization, programming, or sports --
-    the school ought to find ways to encourage and support that
-    student to excel at it. Students who do that will pass basic exams
-    as a side effect. Learning to support all the different ways
-    students may want to excel is at the core of resolving many of the
-    diversity issues in the district, and to supporting all learners,
-    regardless of background.
+    -- journalism, community organization, programming, or languages
+    -- the school ought to find ways to encourage and support that
+    student to excel at it. Students who excel at their academic
+    interests -- almost no matter what they are -- will pass basic
+    math and writing exams as a side effect. Learning to support all
+    the different ways students may want to excel is at the core of
+    resolving many of the diversity issues in the district, and to
+    supporting all learners, regardless of background.
 
 What's not your platform?
 -----------------
