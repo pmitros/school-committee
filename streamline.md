@@ -49,11 +49,14 @@ Fix the lottery
 --------
 
 This is a little technical, but the CPSD school algorithm is
-broken. It leads to poor placement, and encourages gaming. We have
-strong evidence of gaming, and indeed, some programs (such as language
-immersion) are virtually impossible to be admitted into without
-gaming. There are matching algorithms which are better by every
-metric; we should put any one of those in. 
+broken. It leads to poor placement, and encourages gaming.
+[Strong evidence of gaming](https://economics.mit.edu/files/3030)
+in Boston lead Boston Public Schools to shift to a more reasonable
+algorithm. In Cambridge, we have similar evidence. Indeed, some
+programs (such as Chinese language immersion) are virtually impossible
+to be admitted into without gaming. There are matching algorithms
+which are better by every metric; we should shift to any one of
+those.
 
 Reduce regulation
 --------
