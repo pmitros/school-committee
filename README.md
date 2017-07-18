@@ -141,9 +141,9 @@ What's your platform?
     guided by concrete reality. I've spent time in CPSD classrooms,
     and if elected, I commit to spending at least one full day every
     two weeks in CPSD classrooms, observing what happens.    
-* **Evidence-based education.** Over the past few decades, we've
-    distilled tremendous numbers of theories about what works in
-    education to a rigorous, scientifically-validated understanding of
+* **Evidence-based education.** Over the past few decades, [we've
+    distilled](https://www.nap.edu/catalog/9853/how-people-learn-brain-mind-experience-and-school-expanded-edition) tremendous numbers of theories about what works in
+    education to a [rigorous, scientifically-validated understanding](https://visible-learning.org/2016/04/hattie-ranking-backup-of-138-effects/) of
     what helps students learn. There are no silver bullets; education
     is too complex for that. We need to keep students motivated, give
     them tools to monitor their own learning, and to have feedback and
