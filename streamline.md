@@ -68,9 +68,19 @@ choices). Flipping that around, and giving a different set of
 preferences for each school, would lead to both better placements
 *and* eliminate any reason to game.
 
-**For the non-nerds**: We also do a terrible job for kids with parents who
+**For the non-nerds**: We do a terrible job for kids with parents who
 don't do the research. We can do much better with guiding all parents
 to reasonable placements.
+
+**For everyone**: The concept behind the school lottery is based on a
+1960-era goal of desegregation which was adversarial with most of the
+population. In 2017, most people want to be in integrated
+schools. There are some [effects we need to
+manage](http://ncase.me/polygons/), but a 2017 solution can be less
+adversarial than the current system. Prominently starting the school
+by sticking labels like "low-SES" and "high-SES" on kids leads (to
+negative and segregatory
+effects)[https://en.wikipedia.org/wiki/Realistic_conflict_theory#Robbers_cave_study].
 
 Reduce regulation
 --------
