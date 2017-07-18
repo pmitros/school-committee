@@ -100,11 +100,12 @@ What's your background?
     be. We need to do a better job supporting teachers, students, and
     parents who want to improve our school system.
 * **Academic experience**. I hold BS, MS, and Ph.D degrees, all from
-    MIT. My academic lineage includes educators such as [Jerry
+    MIT. My [academic lineage](http://mitros.org/p/#geneaology)
+    includes educators such as [Jerry
     Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman) and
     [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert).
 * I am a CPSD parent, and have been a resident of Cambridge for most
-  of my life.
+    of my life.
 
 I've seen good ideas and bad ideas in educational systems all around
 the world, and in diverse educational research communities. I would
