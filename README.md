@@ -164,11 +164,16 @@ What's not your platform?
 -----------------
 
 * **Universal pre-K**. This is something we do need to do, but it
-  requires the city council. The school committee doesn't have that
-  power alone. We do have the power to have many less expensive
-  interventions with pre-K parents which can get us part of the way
-  there in the interim, and I will push for those.
-* **Longer elected terms** The two-year terms mean the school
-  committee members are constantly competing and campaigning. We ought
-  to at least double the terms, but that is again outside of my
-  control.
+    requires the city council. The school committee doesn't have that
+    power alone. We do have the power to have many less expensive
+    interventions with pre-K parents which can get us part of the way
+    there in the interim, and I will push for those.
+* **Longer elected terms.** The two-year terms mean the school
+    committee members are constantly competing and campaigning. We
+    ought to at least double the terms, but that is again outside of
+    my control.
+* **Longer school days.** We need to lengthen the school day. State
+    regulations mandate minimum structured learning time, and the
+    current school day doesn't leave enough time for things like
+    recess. While I'll push for this, I'm not sure we'll be able to
+    get this done in time.
