@@ -132,7 +132,7 @@ What's your platform?
     parents and school employees time (giving more time to interact
     with students), and make everything work better. See [my plan for
     streamlining processes](streamline.md).
-* **Time in classrooms** Strategic vision and guidance needs to be
+* **Time in classrooms.** Strategic vision and guidance needs to be
     governed in concrete reality. I've spent time in CPSD classrooms,
     and if elected, I commit to spending at least one in fourteen days
     of my time in CPSD classrooms, observing what happens.
