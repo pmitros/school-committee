@@ -76,7 +76,7 @@ What's your background?
     nations. There are effective practices for serving culturally
     diverse populations worldwide which aren't being applied in
     CPSD. I believe this is partially responsible for some of the
-    achievement gap we are seeing.
+    achievement gaps we are seeing.
 * **Experience with constructivist learning**. I have been involved in
     a range of experiments around project-based and group learning,
     both
