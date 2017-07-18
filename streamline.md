@@ -84,11 +84,12 @@ to reasonable placements.
 **For everyone**: The concept behind the school lottery is based on a
 1960-era goal of desegregation which was adversarial with most of the
 population. In 2017, most people want to be in integrated
-schools. There are some [effects we need to
-manage](http://ncase.me/polygons/), but a 2017 solution can be less
-adversarial than the current system. Starting the school
-by prominently sticking labels like "low-SES" and "high-SES" on kids leads
-[to negative and segregatory effects](https://en.wikipedia.org/wiki/Realistic_conflict_theory#Robbers_cave_study).
+schools. While there are some [effects we need to
+manage](http://ncase.me/polygons/), a 2017 solution doesn't need to be
+nearly as strict, harsh, or adversarial. Starting the school by
+prominently sticking labels on kids like "low-SES" and "high-SES" on
+kids leads [to negative and segregatory
+effects](https://en.wikipedia.org/wiki/Realistic_conflict_theory#Robbers_cave_study).
 
 Reduce regulation
 --------
