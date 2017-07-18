@@ -183,8 +183,10 @@ school committee control:
     school district. Those can get us part of the way there in the
     interim at minimal cost. I will push for those.
 * **Longer elected terms.** The two-year terms mean the school
-    committee members are constantly competing and campaigning. We
-    ought to at least double the terms.
+    committee members are constantly competing and campaigning, rather
+    than working to improve our schools. They also aren't long enough
+    to make significant progress. We ought to at least double the
+    terms.
 * **Longer school days.** We need to lengthen the school day. State
     regulations mandate minimum structured learning time, and the
     current school day doesn't leave enough time for things like
