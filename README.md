@@ -142,16 +142,24 @@ What's your platform?
     and if elected, I commit to spending at least one full day every
     two weeks in CPSD classrooms, observing what happens.    
 * **Evidence-based education.** Over the past few decades, [we've
-    distilled](https://www.nap.edu/catalog/9853/how-people-learn-brain-mind-experience-and-school-expanded-edition) tremendous numbers of theories about what works in
-    education to a [rigorous, scientifically-validated understanding](https://visible-learning.org/2016/04/hattie-ranking-backup-of-138-effects/) of
-    what helps students learn. There are no silver bullets; education
-    is too complex for that. We need to keep students motivated, give
-    them tools to monitor their own learning, and to have feedback and
-    remediate when they make a mistake. Those tools can come from
-    peers, teachers, parents, technology, or other places. Which works
-    best depends on the discipline, age, and economic
-    constraints. Applied effectively, these allow underperforming
-    students to succeed, and more advanced students to excel.
+    distilled](https://www.nap.edu/catalog/9853/how-people-learn-brain-mind-experience-and-school-expanded-edition)
+    tremendous numbers of theories about what works in education to a
+    [rigorous, scientifically-validated
+    understanding](https://visible-learning.org/2016/04/hattie-ranking-backup-of-138-effects/)
+    of what helps students learn. There are no silver bullets;
+    education is too complex for that. We need to keep students
+    motivated, give them tools to monitor their own learning, to have
+    feedback and remediate when they make a mistake, and when
+    possible, to move at their own speed until they achieve mastery of
+    a given concept. Those tools can come from peers, teachers,
+    parents, technology, or other places. Which works best depends on
+    the discipline, age, and economic constraints. Applied
+    effectively, these allow underperforming students to succeed, and
+    more advanced students to excel. Applied inappropriately, whether
+    more
+    [computers](https://seii.mit.edu/wp-content/uploads/2016/05/SEII-Discussion-Paper-2016.02-Payne-Carter-Greenberg-and-Walker-2.pdf),
+    [teachers](https://www.youtube.com/watch?v=Fqu2tXLtpO8), or
+    otherwise, we tend to see minimal or no positive effect.
 * **Building a culture of excellence.** I believe every student and
     teacher in the district should not just succeed, but excel. We
     have the resources to do that. We just don't have the
