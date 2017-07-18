@@ -110,10 +110,11 @@ principals and teachers must wing it every time. I don't want to
 dictate a process, but I'd like to provide a default set of guidelines
 so that busy principals and teachers have an easy way to understand
 how to respond to researcher requests, and I'd like to let researchers
-know we're open for business.
+know we're open for business with an understandable set of guidelines.
 
 Working with Harvard, MIT, Tufts, and others is one of the best ways
-to understand what happens in our district.
+to understand what happens in our district, as well as to bring in new
+ideas for how to improve it.
 
 Engage teachers in the community
 --------
