@@ -1,7 +1,7 @@
 Bringing CPSD business practices into the 21st century
 ==========
 
-Evaluation
+Evaluation and assessment
 --------
 
 The school has tremendous numbers of programs and initiatives with no
@@ -9,19 +9,32 @@ real evaluation on return-on-investment or on effectiveness. [More
 than a
 third](http://www.cpsd.us/UserFiles/Servers/Server_3042785/File/departments/administration/financial/budget/fy2018/FY2018_ADOPTED_BUDGET_web.pdf)
 of CPSD employees operate outside of the classroom, including many of
-the most highly paid. Are these roles wildly successful? Or are we
-seeing almost no return here? We don't really know. We need to know so
-we can invest more in things which work and less in things which do
-not.
-
-I would like to put in processes so we may evaluate what does and
+the most highly paid. Are these wildly successful? Are we seeing
+almost no return here? How effective are co-teachers? How much benefit
+do we see from the expensive bussing scheme? We don't really know. I
+would like to put in processes so we may evaluate what does and
 doesn't work, and direct our funding and energy towards initiatives
-which demonstrably improve student outcomes. Along lines of this, I
-will work to streamline processes and improve transparency, especially
-to parents.
+which demonstrably improve student outcomes. We need to know so we can
+invest more in things which work and less in things which do not.
+
+Of course, there are opponents of evaluation and assessment; it has
+been misused in school systems for decades. I would like to address
+this head on: Students, teachers, and school systems generally do
+better with frequent testing, monitoring, feedback, and
+assessment. That is established science. Where assessment fails is
+when it is used in isolation, tied directly to incentives. There are
+many things we don't know how to measure, and once assessment is tied
+to incentives, those tend to fall by the wayside. However, used
+correctly, with the understanding that much of evaluation is
+qualitative and needs to be combined with theoretical and
+substantative arguments, more knowledge is better.
 
 Transparency, communication, and collaboration
 --------
+
+Along lines of this, I will work to improve transparency, especially
+to parents. We 
+
 
 The school should shift to process where everything is open unless
 there is a compelling reason to do otherwise.
@@ -65,4 +78,7 @@ School committee politics
 --------
 
 Organizational roles
+--------
+
+Go digital
 --------
