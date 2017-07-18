@@ -158,8 +158,7 @@ What's your platform?
     culture. When I mentioned this to a school committee member, the
     response was that, by definition, not all students can excel (and
     the response was backed by a statement about some students needing
-    to be in low percentiles on achievement scores, by basic
-    math). That's not what excellence is about. Excellence comes from
+    to be in low percentiles on achievement scores, by definition). That's not what excellence is about. Excellence comes from
     focus, passion, and interest in specific topics, of which there's
     an infinite variety. It doesn't matter what a student wants to do
     -- journalism, community organization, programming, or languages
