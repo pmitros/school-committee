@@ -52,7 +52,7 @@ What's your background?
     the number of correct
     answers](http://web.mit.edu/3.091x/www/3091r%20Final%20report.pdf)
     on final exams in solid state chemistry, with SJSU -- a school
-    serving a disadvantage population -- to bring course completion
+    serving a diverse and disadvantaged population -- to bring course completion
     rates [from 59% to
     91%](https://www.edx.org/sites/default/files/upload/ed-tech-paper.pdf)
     (almost entirely closing the achievement gap between SJSU and
