@@ -13,7 +13,7 @@ where our teachers are empowered to do a great job. I would like to:
 * Enable parents, students, researchers, and teachers to become change
   agents. If you would like to make a change in your child's
   classroom, it should be the role of the school administration to
-  help you make it happen, not to find policies to block you
+  help you make it happen, not to find policies to block you.
 * Dramatically increase the resources for innovation. Did you know
   teachers have a discretionary budget of [just
   $400](http://www.cpsd.us/UserFiles/Servers/Server_3042785/File/departments/administration/hr/employment_info_teachers-admin_a-b.pdf)
@@ -37,7 +37,7 @@ where our teachers are empowered to do a great job. I would like to:
   they should know enough to get started.
 * Build communication channels so that when something is working in
   one classroom, it can spread to other classrooms around the district
-  and beyond
+  and beyond.
 * Convert most of the rules and requirements that the school committee
   has burdened everyone with into guidelines. Between federal, state,
   and district regulations, teachers are tightly boxed in. [This
