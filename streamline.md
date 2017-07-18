@@ -51,10 +51,9 @@ Engage teachers in the community
 Did you know many CPSD teachers can't send their own kids here? The
 wages from the schools no longer support the cost-of-living in
 Cambridge, and the school does not allow employees to send their own
-kids to the school. Good companies have employees [use their own
-products](https://en.wikipedia.org/wiki/Eating_your_own_dog_food). You
-can't make informed decisions otherwise. Teachers need to be able to
-see how schools impact their own kids, and will do better with that
-added reason to be engaged. Aside from that, it will give teachers a
-heck of a lot more time, whether for work or family. It's also just
-basic decency.
+kids to the sc hool. Good companies have employees [use their own
+products](https://en.wikipedia.org/wiki/Eating_your_own_dog_food). Employees
+can't make informed decisions otherwise, and teachers, likewise,
+should be able to see how schools impact their own kids. That also
+brings teachers into the community, give teachers a heck of a lot more
+time (whether for work or family), and is just basic decency as an employer.
