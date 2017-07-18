@@ -163,6 +163,10 @@ What's your platform?
 What's not your platform?
 -----------------
 
+These are things I believe in, but which I'm not sure are sufficiently
+within school committee control for me to be able to make any sort of
+commitment:
+
 * **Universal pre-K**. This is something we do need to do, but it
     requires the city council. The school committee doesn't have that
     power alone. We do have the power to have many less expensive
