@@ -58,6 +58,20 @@ to be admitted into without gaming. There are matching algorithms
 which are better by every metric; we should shift to any one of
 those.
 
+**For the nerds**: The CPSD algorithm is essentially the
+[Gale-Shapley](https://en.wikipedia.org/wiki/Stable_marriage_problem)
+algorithm. Each parent picks schools. The school district assigns each
+student a random number indicating what would be the school's
+preference. The algorithm than optimizes matching. It does so
+backwards (optimizing to the random number rather than parent
+choices). Flipping that around, and giving a different set of
+preferences for each school, would lead to both better placements
+*and* eliminate any reason to game.
+
+**For the non-nerds**: We also do a terrible job for kids with parents who
+don't do the research. We can do much better with guiding all parents
+to reasonable placements.
+
 Reduce regulation
 --------
 
