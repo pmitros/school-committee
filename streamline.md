@@ -1,5 +1,8 @@
-Evaluation
+Bringing CPSD business practices into the 21st century
 ==========
+
+Evaluation
+--------
 
 The school has tremendous numbers of programs and initiatives with no
 real evaluation on return-on-investment or on effectiveness. [More
@@ -18,7 +21,7 @@ will work to streamline processes and improve transparency, especially
 to parents.
 
 Transparency, communication, and collaboration
-============
+--------
 
 The school should shift to process where everything is open unless
 there is a compelling reason to do otherwise.
@@ -31,10 +34,10 @@ can't be empowered to act if they don't know what's going on.
 
 
 Fix the lottery
-=============
+--------
 
 Reduce regulation
-=============
+--------
 
 The school district has a tremendous number of very well-thought-out
 policies. They individually make sense, but together, they're
@@ -43,10 +46,10 @@ innovation. I would like to convert as many of these as possible from
 regulations into guidelines.
 
 Engage with researchers
-=============
+--------
 
 Engage teachers in the community
-=============
+--------
 
 Did you know many CPSD teachers can't send their own kids here? The
 wages from the schools no longer support the cost-of-living in
@@ -56,4 +59,4 @@ products](https://en.wikipedia.org/wiki/Eating_your_own_dog_food). Employees
 can't make informed decisions otherwise, and teachers, likewise,
 should be able to see how schools impact their own kids. That also
 brings teachers into the community, give teachers a heck of a lot more
-time (whether for work or family), and is just basic decency as an employer.
+time (whether for work or family), and is just basic decency as an employer.. It's also
