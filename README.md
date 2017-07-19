@@ -42,11 +42,8 @@ thoughts about how we can make the school district better.
 
 Second, you can [donate to my
 campaign](https://secure.actblue.com/donate/mitros), help spread the
-word, and remember to vote in November.
-
-Finally, you can join my committee and help campaign.
-
-Local elections are surprisingly expensive; we need money for:
+word, and remember to vote in November. Local elections are
+surprisingly expensive; we need money for:
 
 * Mailings. Cambridge has around 100,000 people, of whom about 50,000
   are registered to vote, and perhaps
@@ -59,6 +56,8 @@ Local elections are surprisingly expensive; we need money for:
   I'm going door-to-door, they help follow all the election rules
   (financial reporting guidelines and similar), keeping me out of
   prison.
+
+Finally, you can join my committee and help campaign as a volunteer.
 
 What's your background?
 -----------------------
