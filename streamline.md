@@ -72,10 +72,11 @@ those.
 algorithm. Each parent picks schools. The school district assigns each
 student a random number indicating what would be the school's
 preference. The algorithm than optimizes matching. It does so
-backwards (optimizing to the random number rather than parent
-choices). Flipping that around, and giving a different set of
-preferences for each school, would lead to both better placements
-*and* eliminate any reason to game.
+[backwards](http://web.stanford.edu/~niederle/School%20Matching%20Systems.pdf)
+(optimizing to the random number rather than parent choices). Flipping
+that around, and giving a different set of random numbers for each
+school, would lead to both better placements *and* eliminate any
+reason to game.
 
 **For the non-nerds**: We do a terrible job for kids with parents who
 don't do the research. We can do much better with guiding all parents
