@@ -14,6 +14,9 @@ While I don't have a degree in education, in my time, I've taken a few online co
 * "Instructional Methods in Health Professions Education" from the University of Michigan
 * "Applying Principles of Behavior in the K-12 Classroom" from the University of Houston System
 
-I've also given around twenty keynotes, panel discussions, and other
+I've given around twenty keynotes, panel discussions, and other
 invited talks on education, published about a dozen peer-reviewed
-publications, and chaired a few research conference tracks.
+publications, and chaired a few research conference tracks. I have
+some background in early childhood development, including adapting one
+of my favorite courses (from the University of Washington) into [a
+podcast format](http://podcasts.edx.org/ecfs312x/).
