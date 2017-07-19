@@ -37,9 +37,14 @@ running.
 How can I help?
 ---------------
 
-You can [donate to my
+First, you can talk to me or email me. I'd be interested in your
+thoughts about how we can make the school district better.
+
+Second, you can [donate to my
 campaign](https://secure.actblue.com/donate/mitros), help spread the
 word, and remember to vote in November.
+
+Finally, you can join my committee and help campaign.
 
 Local elections are surprisingly expensive; we need money for:
 
