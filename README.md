@@ -109,7 +109,7 @@ What's your background?
     Education](https://naeducation.org/workshop-on-big-data-in-education-balancing-research-needs-and-student-privacy/),
     and for the [European
     Commission](https://publications.europa.eu/en/publication-detail/-/publication/94cb5fc8-473e-11e7-aea8-01aa75ed71a1/language-en/format-PDF/source-31396079). I
-    served as an expert on issues concerning privacy, assessment, as
+    served as an expert on issues concerning privacy, uses/misuses of assessment, as
     well as use of big data in education.
 * **Business experience**. I was a co-founder or key early employee at
     three new organizations, all of which crossed the $100 million
