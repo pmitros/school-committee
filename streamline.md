@@ -76,11 +76,11 @@ preference. The algorithm than optimizes matching. It does so
 (optimizing to the random number rather than parent choices). Flipping
 that around, and giving a different set of random numbers for each
 school, would lead to both better placements *and* eliminate any
-reason to game.
+incentives to game.
 
-**For the non-nerds**: We do a terrible job for kids with parents who
-don't do the research. We can do much better with guiding all parents
-to reasonable placements.
+**For the non-nerds**: In addition to a bad algorithm, we do a
+terrible job for kids with parents who don't do the research. We can
+do much better with guiding all parents to reasonable placements.
 
 **For everyone**: The concept behind the school lottery is based on a
 1960-era goal of desegregation which was adversarial with most of the
