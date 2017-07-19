@@ -1,6 +1,17 @@
 Bringing CPSD business practices into the 21st century
 ==========
 
+I've been involved in three organizations since finishing my Ph.D. The
+first developed a medical imaging technology which has saved many
+lives. It sold for $200 million. The second developed a technology
+which has helped educate millions. It's valued at over $1 billion. The
+third is edX, an MIT-Harvard education initiative, which has also
+positively impact millions of lives. In those roles, I've learned
+about managing modern, efficient organizations. I've tried to describe
+some of my thoughts about how we ought to bring CPSD management into
+the 21st century, with high levels of empowerment, transparency,
+communications, and rigour. 
+
 Evaluation and assessment
 --------
 
