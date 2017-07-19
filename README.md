@@ -54,10 +54,11 @@ Local elections are surprisingly expensive; we need money for:
   elections. They need to know who I am.
 * If there's money left over, things like yard signs, business cards,
   launch parties, and similar really do help
-* If there's money left over after that, there are services which help
-  manage elections. Aside from helping go door-to-door, they help
-  guide me to follow all the election rules, financial reporting
-  guidelines, and keep me out of prison.
+* If there's money left over after that, there are web services which
+  help manage elections. Aside from having apps which help guide me as
+  I'm going door-to-door, they help follow all the election rules
+  (financial reporting guidelines and similar), keeping me out of
+  prison.
 
 What's your background?
 -----------------------
