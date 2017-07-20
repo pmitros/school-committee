@@ -1,18 +1,33 @@
 Bringing CPSD business practices into the 21st century
 ==========
 
+While I've been impressed with most individuals in the district at all
+levels, the overall organizational dynamics connecting those
+individuals are broken. The school committee, as a body, is
+ineffective. Decisions are being made in all the wrong places. We have
+many programs with no real idea whether they work.
+
+Many organizational processes are defunct. Have you tried going
+through the school lottery?  Registering for afterschool?  Simply
+moving to modern management techniques, improving transparency and
+communications, and moving towards digital processes can lower costs,
+save both parents and school employees time (giving more time to
+interact with students), and make everything work better.
+
 I've been involved in three organizations since finishing my Ph.D. The
 first developed a medical imaging technology which has saved many
 lives. It sold for $200 million. The second developed a technology
 which has helped educate millions. It's valued at over $1 billion. The
 third is edX, an MIT-Harvard education initiative, which has also
 positively impact millions of lives. In those roles, I've learned
-about managing modern, efficient organizations. I've tried to describe
-some of my thoughts about how we ought to bring CPSD management into
-the 21st century, with high levels of empowerment, transparency,
-communications, and rigour. 
+about managing modern, efficient organizations.
 
-Evaluation and assessment
+I'd like to bring that experience to bear to streamline and fix many
+of the organizational processes to have the district function like a
+modern, transparent, easy-to-engage-with organization. The key changes
+I'd like to see are:
+
+Proper use of evaluation and assessment
 --------
 
 The school has tremendous numbers of programs and initiatives with no

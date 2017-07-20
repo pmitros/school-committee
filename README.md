@@ -115,19 +115,13 @@ What's your platform?
 * **Bottom-up innovation.** Progress ought to come from students,
     parents, researchers, and teachers. See [my plan for empowering
     students, teachers, and parents](empowerment.md).
-* **Effective, transparent management.** The school district has
-    several organizational disfunctions, and the school committee, as
-    a body, is ineffective. While I'm impressed with most individuals
-    in the system, the overall organizational dynamics connecting
-    those individuals are broken. Decisions are being made in all the
-    wrong places. We have many programs with no real idea whether they
-    work. Organizational processes are defunct. Have you tried going
-    through the school lottery?  Registering for afterschool? Simply
-    moving to modern management techniques, improving transparency and
-    communications, and moving towards digital processes can lower
-    costs, save both parents and school employees time (giving more
-    time to interact with students), and make everything work
-    better. See [my plan for streamlining processes](streamline.md).
+* **Effective, transparent management.** While I've been impressed
+    with most individuals in the district, the overall organizational
+    dynamics connecting those individuals are broken. I'd like to
+    streamline and fix many of the organizational processes to have
+    the district function like a modern, transparent,
+    easy-to-engage-with organization. See [my plan for streamlining
+    processes](streamline.md).
 * **Time in classrooms.** Strategic vision and guidance needs to be
     guided by concrete reality. I've spent time in CPSD classrooms,
     and if elected, I commit to spending at least one full day every
