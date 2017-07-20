@@ -113,14 +113,7 @@ What's your platform?
 -----------------
 
 * **Bottom-up innovation.** Progress ought to come from students,
-    parents, researchers, and teachers. If you've ever tried to
-    improve things in CPSD, you know it's like repeatedly running into
-    a brick wall. The role of the School Committee and the
-    administration should mostly be to facilitate, encourage, support,
-    and streamline rather than to dictate. Organizations can improve
-    very quickly when the role of management moves from power and
-    control to removing obstacles and empowerment, and when there
-    mechanisms to spread best practices. See [my plan for empowering
+    parents, researchers, and teachers. See [my plan for empowering
     students, teachers, and parents](empowerment.md).
 * **Effective, transparent management.** The school district has
     several organizational disfunctions, and the school committee, as

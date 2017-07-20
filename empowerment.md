@@ -1,11 +1,20 @@
 Empowering Organizational Change
 =========================
 
-As I've read the history of CPSD, what struck me was how many good
-ideas came from the wrong places. The Innovation Agenda was a terrific
-set of ideas. It fell flat on its face because it was forced top-down
-on teachers and parents, and missed many of the realities on the
-ground.
+If you've ever tried to improve things in CPSD, you know it's like
+repeatedly running into a brick wall. That's a broad organizational
+problem. The role of the School Committee and the administration
+should mostly be to facilitate, encourage, support, and streamline
+rather than to dictate. Organizations can improve very quickly when
+the role of management moves from power and control to removing
+obstacles and empowerment, and when there mechanisms to spread best
+practices.
+
+CPSD has had this problem for a long time. As I've learned about the
+history of CPSD, what struck me was how many good ideas came from the
+wrong places. The Innovation Agenda was a terrific set of ideas. It
+fell flat on its face because it was forced top-down on teachers and
+parents, and missed many of the realities on the ground.
 
 I would like to flip CPSD around to behave like a modern organization
 where our teachers are empowered to do a great job. I would like to:
