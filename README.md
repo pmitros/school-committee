@@ -1,6 +1,8 @@
 Hello!
 ======
 
+![Piotr Mitros with Son](pmitros.png)
+
 I'm Piotr Mitros, and I'm running for your Cambridge School Committee.
 
 Why are you running?
