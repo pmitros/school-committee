@@ -96,11 +96,9 @@ What's your background?
     well as use of big data in education.
 * **Business experience**. I was a co-founder or key early employee at
     three new organizations, all of which crossed the $100 million
-    mark. High-performing organizations require a high degree of
-    empowerment for individuals. While CPSD is ahead of most school
-    districts in this regard, it is well behind where it ought to
-    be. We need to do a better job supporting teachers, students, and
-    parents who want to improve our school system.
+    mark. I want to bring that organizational experience back to help
+    empower and support teachers, students, and parents to improve our
+    school system.
 * **Academic experience**. I hold BS, MS, and Ph.D degrees, all from
     MIT. My [academic lineage](http://mitros.org/p/#geneaology)
     includes educators such as [Jerry
