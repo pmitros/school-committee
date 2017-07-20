@@ -6,7 +6,6 @@ Nigeria, I proposed to MIT an initiative based on using technology to
 bring research-based educational best practices to scale. I built that
 platform, and it became Open edX.
 
-
 Despite its image as a MOOC provider in the popular press, edX does
 tremendous amounts of on-campus work, and has been incredibly
 effective at accelerating learning across very diverse settings. For

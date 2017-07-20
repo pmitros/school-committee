@@ -64,11 +64,9 @@ Finally, you can join my committee and help campaign as a volunteer.
 What's your background?
 -----------------------
 
-* **Chief Scientist of edX**. A bit over a half-decade ago, I proposed
-    the concept of MITx to MIT, and designed a platform to improve
-    university education worldwide. The platform became Open edX, and
-    that concept became edX, an MIT-Harvard organization designed to
-    broadly improve quality of and reduce cost of university education
+* **Chief Scientist of edX**. I served for over a half-decade as the
+    Chief Scientist of an MIT-Harvard organization designed to broadly
+    improve quality of and reduce cost of university education
     worldwide. [Read more](edx)
 * **Teaching experience across diverse cultures**. I have experience
     in education across a diverse range of cultures, ranging from
