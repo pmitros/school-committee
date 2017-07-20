@@ -217,6 +217,8 @@ school committee control:
     than working to improve our schools. They also aren't long enough
     to make significant progress. We ought to at least double the
     terms.
+* **Term limits.** The flip side is I'm not sure we need professional
+    politicians. Again, that's not a school committee level reform.
 * **Longer school days.** We need to lengthen the school day. State
     regulations mandate minimum structured learning time, and the
     current school day doesn't leave enough time for things like
