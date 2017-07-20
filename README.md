@@ -114,13 +114,13 @@ What's your platform?
 
 * **Bottom-up innovation.** Progress ought to come from students,
     parents, researchers, and teachers. See [my plan for empowering
-    students, teachers, and parents](empowerment.md).
-* **Effective, transparent management.** While I've been impressed
-    with most individuals in the district, the overall organizational
-    dynamics connecting those individuals are broken. I'd like to
-    streamline and fix many of the organizational processes to have
-    the district function like a modern, transparent,
-    easy-to-engage-with organization. See [my plan for streamlining
+    students, teachers, and parents](empowerment.md).  * **Effective,
+    transparent management.** While I've been impressed with most
+    individuals in the district, the overall organizational dynamics
+    connecting those individuals are broken. I'd like to streamline
+    and fix many of the organizational processes to have the district
+    function like a modern, transparent, easy-to-engage-with,
+    digitally-enabled organization. See [my plan for streamlining
     processes](streamline.md).
 * **Time in classrooms.** Strategic vision and guidance needs to be
     guided by concrete reality. I've spent time in CPSD classrooms,
