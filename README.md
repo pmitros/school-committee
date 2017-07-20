@@ -71,17 +71,14 @@ What's your background?
     broadly improve quality of and reduce cost of university education
     worldwide. [Read more](edx)
 * **Teaching experience across diverse cultures**. I have experience
-    in education across a diverse range of cultures, including
-    teaching in
-    [China](http://web.mit.edu/mit-ceti/www/reports/past.htm),
-    educational research projects in
-    [Nigeria](http://mitros.org/p/carnegie_reporter.pdf), experimental
-    education projects at MIT, and in many other nations. I have mixed
-    [business experience](http://mitros.org/p/#cultures) in even more
+    in education across a diverse range of cultures, ranging from
+    [China](http://web.mit.edu/mit-ceti/www/reports/past.htm), to
+    [Nigeria](http://mitros.org/p/carnegie_reporter.pdf), to Jordan,
+    and in many [international
+    projects](http://mitros.org/p/#cultures) in even more
     nations. There are effective practices for serving culturally
     diverse populations worldwide which aren't being applied in
-    CPSD. I believe this is partially responsible for some of the
-    achievement gaps we are seeing.
+    CPSD which I would like to bring back to CPSD.
 * **Experience with constructivist learning**. I have been involved in
     a range of experiments around project-based and group learning,
     both
