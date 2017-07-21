@@ -155,8 +155,9 @@ school committee control:
 * **Longer elected terms.** So school committee members can get work
     done, rather than constantly competing and campaigning
 * **Term limits.** I'm not sure professional politicians help.
-* **Longer school days.** Why this makes sense requires wading through
-    [piles of state regulations](schoolday).
+* **Longer school days.** Both why this makes sense and why this is
+    hard requires wading through [piles of state
+    regulations](schoolday) and organizational constraints.
 
 Helping Cambridge (even you don't vote for me)
 -----------------
