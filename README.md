@@ -12,14 +12,14 @@ The Cambridge School District is performing greatly below its
 potential. CPSD spends [$27,569 per
 student](http://profiles.doe.mass.edu/state_report/ppx.aspx) -- more
 than [double](https://nces.ed.gov/fastfacts/display.asp?id=66) the
-national average and the fourth highest in the state, has connections
-to top education researchers at schools such as MIT, Harvard, Lesley,
-and other schools. We have some of the greatest teachers in
-Massachusetts. However, CPSD still has several several failing
-schools. Many high-SES parents are choosing to leave the district,
-either for the suburbs or private schools, while many low-SES children
-are failing basic math and literacy exams. We know how to solve these
-problems. We've solved these problems in [many
+national average and the fourth highest in the state. CPSD has
+connections to top education programs at schools such as MIT,
+Harvard, Lesley, and Tufts. We have some of the greatest
+teachers in Massachusetts. However, CPSD still has several several
+failing schools. Many richer parents are choosing to leave the
+district, either for the suburbs or private schools, while many poorer
+children are failing basic math and literacy exams. We know how to
+solve these problems. We've solved these problems in [many
 places](https://khanacademy.zendesk.com/hc/en-us/articles/202260264-Is-Khan-Academy-effective-How-is-it-different-than-other-resources-available-),
 and in [many different
 ways](https://www.nytimes.com/2016/11/06/opinion/sunday/schools-that-work.html). I've
