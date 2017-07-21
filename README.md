@@ -9,13 +9,13 @@ Why I am running
 --------------------
 
 The Cambridge School District is performing greatly below its
-potential. CPSD spends [$27,569 per
+potential. We spend [$27,569 per
 student](http://profiles.doe.mass.edu/state_report/ppx.aspx) -- more
 than [double](https://nces.ed.gov/fastfacts/display.asp?id=66) the
-national average and the fourth highest in the state. CPSD has
+national average and the fourth highest in the state. We have
 connections to top education programs at schools such as MIT,
 Harvard, Lesley, and Tufts. We have some of the greatest
-teachers in Massachusetts. However, CPSD still has several several
+teachers in Massachusetts. However, we still have several several
 failing schools. Many richer parents are choosing to leave the
 district, either for the suburbs or private schools, while many poorer
 children are failing basic math and literacy exams. We know how to
@@ -125,7 +125,7 @@ Platform
 * **Time in classrooms.** Strategic vision and guidance needs to be
     guided by concrete reality. I've spent time in CPSD classrooms,
     and if elected, I commit to spending at least one full day every
-    two weeks in CPSD classrooms, observing what happens.    
+    two weeks in classrooms, observing what happens.    
 * **Evidence-based education.** Over the past few decades, [we've
     distilled](https://www.nap.edu/catalog/9853/how-people-learn-brain-mind-experience-and-school-expanded-edition)
     tremendous numbers of theories about what works in education to a
