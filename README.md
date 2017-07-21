@@ -5,7 +5,7 @@ Hello!
 
 I'm Piotr Mitros, and I'm running for your Cambridge School Committee.
 
-Why are you running?
+Why I am running
 --------------------
 
 The Cambridge School District is performing greatly below its
@@ -36,7 +36,7 @@ seen several things which have concerned me. Making positive change
 happen quickly is an absolute top priority for me. That's why I'm
 running.
 
-How can I help?
+What you can do to help
 ---------------
 
 First, you can talk to me or email me. I'd be interested in your
@@ -61,7 +61,7 @@ surprisingly expensive; we need money for:
 
 Finally, you can join my committee and help campaign as a volunteer.
 
-What's your background?
+My background
 -----------------------
 
 * **Chief Scientist of edX**. I served for over a half-decade as the
@@ -109,7 +109,7 @@ I've seen good ideas and bad ideas in educational systems all around
 the world, and in diverse educational research communities. I would
 like to work to integrate these to make our school system better.
 
-What's your platform?
+Platform
 -----------------
 
 * **Bottom-up innovation.** Progress ought to come from students,
@@ -151,7 +151,7 @@ What's your platform?
     resolving many of the diversity issues in the district and to
     supporting all learners, regardless of background or level.
 
-What's not your platform?
+Ideas I support, but not in my platform
 -----------------
 
 These are things I believe in, will support, but which may be out of
