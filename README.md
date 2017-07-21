@@ -140,7 +140,7 @@ Platform
     with areas of interest and excel in those areas. That's key to
     supporting diversity and leads to passing of basic math and
     literacy exams as a side-effect. The language immersion programs
-    are a validated example of how this can work at CPSD [read
+    are a validated example of how this can work at CPSD. [Read
     more](excellence)
 
 Ideas I support, but not in my platform
