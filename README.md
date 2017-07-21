@@ -131,7 +131,7 @@ Platform
     tremendous numbers of theories about what works in education to a
     [rigorous, scientifically-validated
     understanding](https://visible-learning.org/2016/04/hattie-ranking-backup-of-138-effects/)
-    of what helps students learn. It's a place I'm considered a world expert,
+    of what helps students learn and how much. It's a place I'm considered a world expert,
     and I'd like to bring that to the district. [Read more](evidence)
 * **Building a culture of excellence.** I believe every student and
     teacher in the district should not just succeed, but excel. We
