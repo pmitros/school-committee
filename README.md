@@ -136,20 +136,12 @@ Platform
 * **Building a culture of excellence.** I believe every student and
     teacher in the district should not just succeed, but excel. We
     have the resources to do that. We just don't have the
-    culture. When I mentioned this to a school committee member, the
-    response was that, by definition, not all students can excel (and
-    the response was backed by a statement about some students needing
-    to be in low percentiles on achievement scores, by definition). That's not what excellence is about. Excellence comes from
-    focus, passion, and interest in specific topics, of which there's
-    an infinite variety. It doesn't matter what a student wants to do
-    -- journalism, community organization, programming, or languages
-    -- the school ought to find ways to encourage and support that
-    student to excel at it. Students who excel at their academic
-    interests -- almost no matter what they are -- will pass basic
-    math and writing exams as a side effect. Learning to support all
-    the different ways students may want to excel is at the core of
-    resolving many of the diversity issues in the district and to
-    supporting all learners, regardless of background or level.
+    culture. Excellence comes from having students engage, in-depth,
+    with areas of interest and excel in those areas. That's key to
+    supporting diversity and leads to passing of basic math and
+    literacy exams as a side-effect. The language immersion programs
+    are a validated example of how this can work at CPSD [read
+    more](excellence)
 
 Ideas I support, but not in my platform
 -----------------
@@ -157,27 +149,16 @@ Ideas I support, but not in my platform
 These are things I believe in, will support, but which may be out of
 school committee control:
 
-* **Universal pre-K**. This is something we do need to do, but it
-    requires the city council. The school committee doesn't have that
-    power alone. We do have the power to have many less expensive
-    interventions for engaging pre-K parents before they enter the
-    school district. Those can get us part of the way there in the
-    interim at minimal cost. I will push for those.
-* **Longer elected terms.** The two-year terms mean the school
-    committee members are constantly competing and campaigning, rather
-    than working to improve our schools. They also aren't long enough
-    to make significant progress. We ought to at least double the
-    terms.
-* **Term limits.** The flip side is I'm not sure we need professional
-    politicians. Again, that's not a school committee level reform.
-* **Longer school days.** We need to lengthen the school day. State
-    regulations mandate minimum structured learning time, and the
-    current school day doesn't leave enough time for things like
-    recess. While I'll push for this, it's a complex enough
-    reorganization that I'm not sure we'll be able to get this done
-    this term.
+* **Universal pre-K**. We might not be able to do this without city
+    council, but we do have the power to do a better job of engaging
+    pre-K parents before they enter the school district.
+* **Longer elected terms.** So school committee members can get work
+    done, rather than constantly competing and campaigning
+* **Term limits.** I'm not sure professional politicians help.
+* **Longer school days.** Why this makes sense requires wading through
+    [piles of state regulations](schoolday).
 
-How else can I help?
+Helping Cambridge (even you don't vote for me)
 -----------------
 
 My hope is that having learned a lesson from the recent kerfuffle in
