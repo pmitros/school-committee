@@ -57,7 +57,7 @@ surprisingly expensive; we need money for:
   help manage elections. Aside from having apps which help guide me as
   I'm going door-to-door, they help follow all the election rules
   (financial reporting guidelines and similar), keeping me out of
-  prison.
+  trouble
 
 Finally, you can join my committee and help campaign as a volunteer.
 
