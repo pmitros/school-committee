@@ -39,7 +39,7 @@ too much on students, have proven that students excellening with
 dramatically outperform. Amigos is the top-performing school in the
 district. Chinese Immersion bumped MLK up several tiers. The Ola
 program is small enough that it's hard to have hard numbers, but from
-what I've seen (I spent a day visiting the classroom), it is a
+what I've seen (I spent a day visiting a classroom), it is a
 district-leading program as well.
 
 We just need to spread and expand such models.
