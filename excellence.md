@@ -37,11 +37,12 @@ We have a proof of how programs focused on excellence work in CPSD
 already. The language immersion programs, once criticized for piling
 too much on students, have proven that students excellening with
 dramatically outperform. Amigos is the top-performing school in the
-district. Ola students appear to do great as well, by what information
-I've been able to gather. Chinese Immersion bumped MLK up several
-tiers.
+district. Chinese Immersion bumped MLK up several tiers. The Ola
+program is small enough that it's hard to have hard numbers, but from
+what I've seen (I spent a day visiting the classroom), it is a
+district-leading program as well.
 
-We just need to spread and expand this model.
+We just need to spread and expand such models.
 
 A footnote on diversity
 ----------
