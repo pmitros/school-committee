@@ -4,9 +4,9 @@ Culture of excellence
 I believe every student and teacher in the district should not just
 succeed, but excel. We have the resources to do that. We just don't
 have the culture. When I mentioned this to a school committee member,
-the response was that, by definition, not all students can excel
-(which was backed by a statement about some students needing to be in
-low percentiles on achievement scores, by definition).
+the response was that, by definition, not all students can excel. This
+was backed by a statement about some students needing to be in low
+percentiles on achievement scores, by definition of a percentile.
 
 That's not what excellence is about.
 
@@ -30,19 +30,21 @@ what they are -- will pass basic math and writing exams as a side
 effect. Whether students learn to write on a school newspaper,
 crafting a business model, or writing a grant proposal, they'll learn
 to write *well*, to target an audience, to be clear, and to
-communicate, much better than through synthetic exercise in a
-traditional English course.
+communicate. They'll learn all of these skills better than they would
+through artifical essays in traditional grade school literature
+courses.
 
 We have a proof of how programs focused on excellence work in CPSD
-already. The language immersion programs, once criticized for piling
-too much on students, have proven that students excellening with
-dramatically outperform. Amigos is the top-performing school in the
-district. Chinese Immersion bumped MLK up several tiers. The Ola
-program is small enough that it's hard to have hard numbers, but from
-what I've seen (I spent a day visiting a classroom), it is a
-district-leading program as well.
+already. Amigos is the top-performing school in the district. Chinese
+Immersion bumped MLK up several tiers. The Ola program is small enough
+that it's hard to have hard numbers, but from what I've seen (I spent
+a day visiting a classroom), it is a district-leading program as
+well. The language immersion programs, originally criticized for
+piling too much on students, have proven that students excelling at
+*something* will dramatically outperform students in traditional
+classrooms.
 
-We just need to spread and expand such models.
+Now we need to spread and expand such models.
 
 A footnote on diversity
 ----------
@@ -54,17 +56,26 @@ level.
 
 One school committee member described Cambridge as a town divided
 between town and gown, and further divided on racial lines, further
-among levels of students, and so on. It seemed accurate, but I'm not
-sure [labeling](https://simplypsychology.org/robbers-cave.html)
-students is helpful to resolving the problem. It leads to stereotype
-threat.  [Multiplication is for White
+among levels of students, and so on. Most Cambridge politicans do this
+sort of segmentation. While this seems accurate on a technical level,
+I'm not sure
+[labeling](https://simplypsychology.org/robbers-cave.html) students is
+helpful to resolving the problem. It leads to stereotype threat.
+[Multiplication is for White
 People](https://www.amazon.com/Multiplication-White-People-Expectations-People%C2%92s/dp/1595588981)
-is an excellent book about how this plays out, and the effects it
-has.
+is an excellent book about how this plays out, and the effects it has.
 
-A model which defines diversity in terms of race/gender/LGBTQ/income
-also doesn't support groups which aren't well-labeled or politically
-favorable. Such initiatives miss introverts, closet Republicans,
-religious divides, less disadvantaged immigrants (who are still often
-lonely and isolated), and just about anyone else who doesn't fit one
-of the labeled molds.
+CPSD's model of diversity defines it in terms of race, gender, LGBTQ
+status, and income. This does not support groups which aren't
+well-labeled or currently politically fashionable. Such initiatives
+miss introverts, closet Republicans, closet Christians, less
+disadvantaged immigrants (who are still often lonely and isolated),
+and just about anyone else who doesn't fit one of the labeled
+molds. Perhaps more importantly, it even misses people who only
+partially fit the molds.
+
+What's great about pursuit of excellence as a model is that it fits
+all students by design. Whether a student wishes to develop leadership
+skills by becoming a community activist, delivering a rousing church
+sermon, or teaching in Mexico, that student will be supported by the
+school system.
