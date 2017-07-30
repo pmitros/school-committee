@@ -57,8 +57,8 @@ level.
 One school committee member described Cambridge as a town divided
 between town and gown, and further divided on racial lines, further
 among levels of students, and so on. Most Cambridge politicans do this
-sort of segmentation. While this seems accurate on a technical level,
-I'm not sure
+sort of segmentation. While this segmentation seems technically
+correct, I'm not sure
 [labeling](https://simplypsychology.org/robbers-cave.html) students is
 helpful to resolving the problem. It leads to stereotype threat.
 [Multiplication is for White
@@ -75,7 +75,8 @@ molds. Perhaps more importantly, it even misses people who only
 partially fit the molds.
 
 What's great about pursuit of excellence as a model is that it fits
-all students by design. Whether a student wishes to develop leadership
-skills by becoming a community activist, delivering a rousing church
-sermon, or teaching in Mexico, that student will be supported by the
-school system.
+*all* students by design, regardless of culture, background, or
+group. It integrates rather than divides. Whether a student wishes to
+develop leadership skills by becoming a community activist, delivering
+a rousing church sermon, or teaching in Mexico, that student will be
+supported by the school system.
