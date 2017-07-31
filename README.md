@@ -57,7 +57,7 @@ My background
 * **Chief Scientist of edX**. I served for over a half-decade as the
     Chief Scientist of an MIT-Harvard organization designed to broadly
     improve quality of and reduce cost of university education
-    worldwide. [Read more](edx)
+    worldwide. ( [Read more](edx) )
 * **Teaching experience across diverse cultures**. I have experience
     in education across a diverse range of cultures, ranging from
     [China](http://web.mit.edu/mit-ceti/www/reports/past.htm), to
@@ -91,7 +91,7 @@ My background
     MIT. My [academic lineage](http://mitros.org/p/#geneaology)
     includes educators such as [Jerry
     Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman) and
-    [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert). [Read more](academic.md)
+    [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert). ( [Read more](academic.md) )
 * I am a CPSD parent, and have been a resident of Cambridge for most
     of my life.
 
@@ -122,14 +122,14 @@ Platform
     [rigorous, scientifically-validated
     understanding](https://visible-learning.org/2016/04/hattie-ranking-backup-of-138-effects/)
     of what helps students learn and how much. It's a place I'm considered a world expert,
-    and I'd like to bring that to the district. [Read more](evidence)
+    and I'd like to bring that to the district. ( [Read more](evidence) )
 * **Building a culture of excellence.** I believe every student and
     teacher in the district should not just succeed, but excel. We
     have the resources to do that. We just don't have the
     culture. Excellence comes from having students engage, in-depth,
     with areas of interest and excel in those areas. That's key to
     supporting diversity and leads to passing of basic math and
-    literacy exams as a side-effect. [Read more](excellence)
+    literacy exams as a side-effect. ( [Read more](excellence) )
 
 Ideas I support, but not in my platform
 -----------------
