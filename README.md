@@ -45,19 +45,9 @@ thoughts about how we can make the school district better.
 Second, you can [donate to my
 campaign](https://secure.actblue.com/donate/mitros), help spread the
 word, and remember to vote in November. Local elections are
-surprisingly expensive; we need money for:
-
-* Mailings. Cambridge has around 100,000 people, of whom about 50,000
-  are registered to vote, and perhaps
-  [13,000](https://www.cctvcambridge.org/node/29005) vote in municipal
-  elections. They need to know who I am.
-* If there's money left over, things like yard signs, business cards,
-  launch parties, and similar really do help
-* If there's money left over after that, there are web services which
-  help manage elections. Aside from having apps which help guide me as
-  I'm going door-to-door, they help follow all the election rules
-  (financial reporting guidelines and similar), keeping me out of
-  trouble
+surprisingly expensive (consider the cost of even a single mailing to
+the about 50,000 registered voters, or even just the
+[13,000](https://www.cctvcambridge.org/node/29005) active voters)
 
 Finally, you can join my committee and help campaign as a volunteer.
 
