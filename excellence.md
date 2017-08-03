@@ -68,11 +68,11 @@ is an excellent book about how this plays out, and the effects it has.
 CPSD's model of diversity defines it in terms of race, gender, LGBTQ
 status, and income. This does not support groups which aren't
 well-labeled or currently politically fashionable. Such initiatives
-miss introverts, closet Republicans, closet Christians, less
-disadvantaged immigrants (who are still often lonely and isolated),
-and just about anyone else who doesn't fit one of the labeled
-molds. Perhaps more importantly, it even misses people who only
-partially fit the molds.
+miss introverts, closet Republicans, members of less politically popular
+religions, less disadvantaged immigrants (who are still often lonely
+and isolated), and just about anyone else who doesn't fit one of the
+labeled molds. Perhaps more importantly, it even misses people who
+only partially fit the molds.
 
 What's great about pursuit of excellence as a model is that it fits
 *all* students by design, regardless of culture, background, or
