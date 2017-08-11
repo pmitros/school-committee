@@ -60,11 +60,20 @@ assessment. That is established science.
 Transparency, communication, and collaboration
 --------
 
-Along lines of this, I will work to improve transparency. The school
-should shift to processes where everything is open unless there is a
-compelling reason to do otherwise, and where it's not only open, but
-where the school takes proactive steps to spread and share information
-about the school system.
+Along lines of this, I will work to improve transparency. As ground rules:
+
+* All school employees should be free to engage in public civic
+  discourse on the school system, engage in conversations with
+  parents, and with all levels of the administration without fear of
+  reprisal
+* The school should promptly respond to all legal FOIA requests
+* Presenters in the public comment periods should have the option
+  of adding written text included with the meeting minutes
+
+From there, the school should shift to processes where everything is
+open unless there is a compelling reason to do otherwise, and where
+it's not only open, but where the school takes proactive steps to
+spread and share information about the school system.
 
 This is a quality issue. We have some of the best teachers in the
 world, and we need to find ways to spread best practices throughout
@@ -78,7 +87,8 @@ afterschool programs, more mechanisms for voluntary coordination could
 help both sides.
 
 As with any other kind of assessment, it's important that such
-processes be judgment-free and geared towards improvement. 
+processes be judgment-free and geared towards improvement.
+
 
 Fix the lottery
 --------
