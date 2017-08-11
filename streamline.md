@@ -62,6 +62,8 @@ Transparency, communication, and collaboration
 
 Along lines of this, I will work to improve transparency. As ground rules:
 
+* The school committee should articulate firm support for first amendment
+  rights for students, teachers, and other school employees. 
 * All school employees should be free to engage in public civic
   discourse on the school system, engage in conversations with
   parents, and with all levels of the administration without fear of
