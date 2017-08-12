@@ -70,7 +70,10 @@ Along lines of this, I will work to improve transparency. As ground rules:
   reprisal
 * The school should promptly respond to all legal FOIA requests
 * Presenters in the public comment periods should have the option
-  of adding written text included with meeting minutes
+  of adding written text included with published meeting minutes
+* School employment policies should be modeled after university
+  policies, designed to protect freedom of speech, academic inquiry,
+  and teachers, rather than the administration
 
 From there, the school should shift to processes where everything is
 open unless there is a compelling reason to do otherwise, and where
