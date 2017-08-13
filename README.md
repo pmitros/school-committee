@@ -134,8 +134,8 @@ Platform
 Ideas I support, but not in my platform
 -----------------
 
-These are things I believe in, will support, but which may be out of
-school committee control:
+These are things I believe in, will work towards, but which may be out
+of school committee control:
 
 * **Universal pre-K**. We might not be able to do this without city
     council, but we do have the power to do a better job of engaging
