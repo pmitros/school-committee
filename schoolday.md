@@ -22,13 +22,13 @@ six hours is not reasonable. Would you want to do that?
 If I had my druthers, I'd reduce the state regulations, and we could
 have a discussion about the best way to structure our school year and
 school day. As is, our hands are tied in many ways, and we do need to
-lengthen the school day to make the school experience more enjoyable
-to students.
+lengthen the school day to make the school experience more pleasant
+and less stressful for our children.
 
 So why don't we just do it?
 -----------
 
-Teachers need a break too. A forty hour work week with six hours of
+Teachers need a break too. An eight hour workday with six hours of
 classroom time leaves just two hours for lesson preparation, grading,
 administratoin, and all the other things teachers do. Coming up with a
 way to lengthen the day without placing unreasonable burden on our
@@ -37,7 +37,12 @@ development.
 
 It is possible but it's a big job. There are quite a few places we can
 work to make teachers' lives more pleasant and efficient, freeing up
-some time. There is a lot we can do with how we structure
-afterschool. There are many places we can improve things. But there
-are many things which we want to plan out and organize so this change
-doesn't do more harm than good.
+some time. Interacting with students is more fun than grading or
+meetings. There is a lot we can do with how we structure
+afterschool. There are many places we can improve things. But this
+change needs to be planned out and organized so that it doesn't do
+more harm than good.
+
+While we're reworking the structure of the teacher workday, we also
+want to think through other programs which take time, especially
+around professional development and teacher mentorship. 

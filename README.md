@@ -155,4 +155,4 @@ ones in local politics. Even if you don't vote for me, please educate
 yourself about the candidates, vote, and especially encourage others
 to do so as well. Anything you can do -- work mailing lists, social
 mailing lists, or otherwise -- to drive people to be knowledgeable and
-involved -- will help make Cambridge a better city. 
+involved -- will help make Cambridge a better city.
