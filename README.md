@@ -15,7 +15,7 @@ than [double](https://nces.ed.gov/fastfacts/display.asp?id=66) the
 national average and the fourth highest in the state. We have
 connections to top education programs at schools such as MIT,
 Harvard, Lesley, and Tufts. We have some of the greatest
-teachers in Massachusetts. However, we still have several several
+teachers in Massachusetts. However, we still have several
 failing schools. Many richer parents are choosing to leave the
 district, either for the suburbs or private schools, while many poorer
 children are failing basic math and literacy exams. We know how to
@@ -28,7 +28,7 @@ gains, both for disadvantaged and advantaged students worldwide.
 
 In short, I think we can do better. I have the experience closing
 achievement gaps, in helping students succeed, and in helping
-organization perform at a very high level across a range of
+organizations perform at a very high level across a range of
 settings. I'd like to bring that experience to improve your schools.
 
 I'm also the proud father of a child entering CPSD, and I've already
@@ -49,19 +49,19 @@ surprisingly expensive (consider the cost of even a single mailing to
 the about 50,000 registered voters, or even just the
 [13,000](https://www.cctvcambridge.org/node/29005) active voters)
 
-Finally, you can join my committee and help campaign as a volunteer.
+Finally, you can join my committee and help the campaign as a volunteer.
 
 My background
 -----------------------
 
 * **Chief Scientist of edX**. I served for over a half-decade as the
     Chief Scientist of an MIT-Harvard organization designed to broadly
-    improve quality of and reduce cost of university education
+    improve the quality of and reduce the cost of university education
     worldwide. ( [Read more](edx) )
 * **Teaching experience across diverse cultures**. I have experience
     in education across a diverse range of cultures, ranging from
-    [China](http://web.mit.edu/mit-ceti/www/reports/past.htm), to
-    [Nigeria](http://mitros.org/p/carnegie_reporter.pdf), to Jordan,
+    [China](http://web.mit.edu/mit-ceti/www/reports/past.htm) to
+    [Nigeria](http://mitros.org/p/carnegie_reporter.pdf) to Jordan
     and in many [international
     projects](http://mitros.org/p/#cultures) in even more
     nations. There are effective practices for serving culturally
@@ -72,7 +72,7 @@ My background
     both
     [in-person](http://tll.mit.edu/sites/default/files/library/files/EvalRept6002ex-Spring03.pdf)
     and
-    [on-line](http://davecormier.com/edblog/2014/02/17/building-an-introductory-physics-course-cmooc-meets-xmooc/).
+    [online](http://davecormier.com/edblog/2014/02/17/building-an-introductory-physics-course-cmooc-meets-xmooc/).
 * **Policy experience**. I have served on policy-guiding bodies
     through the [National Science
     Foundation](http://cra.org/wp-content/uploads/2015/10/CRAEducationReport2015.pdf),
@@ -81,18 +81,18 @@ My background
     and for the [European
     Commission](https://publications.europa.eu/en/publication-detail/-/publication/94cb5fc8-473e-11e7-aea8-01aa75ed71a1/language-en/format-PDF/source-31396079). I
     served as an expert on issues concerning privacy, uses/misuses of assessment, as
-    well as use of big data in education.
+    well as the use of big data in education.
 * **Business experience**. I was a co-founder or key early employee at
     three new organizations, all of which crossed the $100 million
     mark. I want to bring that organizational experience back to help
     empower and support teachers, students, and parents to improve our
     school system.
-* **Academic experience**. I hold BS, MS, and Ph.D degrees, all from
+* **Academic experience**. I hold BS, MS, and Ph.D. degrees, all from
     MIT. My [academic lineage](http://mitros.org/p/#geneaology)
     includes educators such as [Jerry
     Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman) and
     [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert). ( [Read more](academic.md) )
-* I am a CPSD parent, and have been a resident of Cambridge for most
+* I am a CPSD parent and have been a resident of Cambridge for most
     of my life.
 
 I've seen good ideas and bad ideas in educational systems all around
@@ -112,7 +112,7 @@ Platform
     the district function like a modern, transparent,
     easy-to-engage-with, digitally-enabled organization. See [my plan
     for streamlining processes](streamline.md).
-* **Time in classrooms.** Strategic vision and guidance needs to be
+* **Time in classrooms.** Strategic vision and guidance ought to be
     guided by concrete reality. I've spent time in CPSD classrooms,
     and if elected, I commit to spending at least one full day every
     two weeks in classrooms, observing what happens.    
