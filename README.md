@@ -27,7 +27,7 @@ personally lead many projects which have lead to tremendous learning
 gains, both for disadvantaged and advantaged students worldwide.
 
 In short, I think we can do better. I have the experience closing
-achievement gaps, in helping students succeed, and in helping
+outcome gaps, in helping students succeed, and in helping
 organizations perform at a very high level across a range of
 settings. I'd like to bring that experience to improve your schools.
 
@@ -130,6 +130,13 @@ Platform
     with areas of interest and excel in those areas. That's key to
     supporting diversity and leads to passing of basic math and
     literacy exams as a side-effect. ( [Read more](excellence) )
+
+A few more thoughts
+-----------------
+
+* I did a [quick analysis](gap) of the gap in outcomes between
+  low-income and non-low incomes students in CPSD. Did you know one of
+  our schools has no gap?
 
 Ideas I support, but not in my platform
 -----------------
