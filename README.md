@@ -135,7 +135,7 @@ A few more thoughts
 -----------------
 
 * I did a [quick analysis](gap) of the gap in outcomes between
-  low-income and non-low incomes students in CPSD. Did you know one of
+  low-income and non-low income students in CPSD. Did you know one of
   our schools has no gap?
 
 Ideas I support, but not in my platform
