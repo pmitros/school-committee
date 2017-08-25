@@ -8,7 +8,7 @@ I'm Piotr Mitros, and I'm running for your Cambridge School Committee.
 Why I am running
 --------------------
 
-The Cambridge School District is performing greatly below its
+The Cambridge School District is performing well, but greatly below its
 potential. We spend [$27,569 per
 student](http://profiles.doe.mass.edu/state_report/ppx.aspx) -- more
 than [double](https://nces.ed.gov/fastfacts/display.asp?id=66) the
