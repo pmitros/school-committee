@@ -23,7 +23,11 @@ culture at many schools. My high school had that culture in its
 journalism program. Students pursued whatever they were doing -- be it
 editorial writing, news reporting, graphic design, advertising,
 business development, photography, IT, or otherwise -- with passion
-and excellence.
+and excellence. MIT students succeed based on that culture, combined
+with a very strong [Pygmalion
+Effect](http://discovermagazine.com/2015/dec/14-great-expectations),
+where everyone believes they will succeed. The demographic differences
+count for much less than one might think.
 
 Students who excel at their academic interests -- almost no matter
 what they are -- will pass basic math and writing exams as a side
@@ -54,11 +58,10 @@ is at the core of resolving many of the diversity issues in the
 district and supporting all learners, regardless of background or
 level.
 
-One school committee member described Cambridge as a town divided
+Several school committee members describe Cambridge as a town divided
 between town and gown, and further divided on racial lines, further
-among levels of students, and so on. Most Cambridge politicans do this
-sort of segmentation. While this segmentation seems technically
-correct, I'm not sure
+among levels of students, and so on. While this segmentation seems
+technically correct, I'm not sure
 [labeling](https://simplypsychology.org/robbers-cave.html) students is
 helpful to resolving the problem. It leads to stereotype threat.
 [Multiplication is for White
@@ -66,13 +69,13 @@ People](https://www.amazon.com/Multiplication-White-People-Expectations-People%C
 is an excellent book about how this plays out, and the effects it has.
 
 CPSD's model of diversity defines it in terms of race, gender, LGBTQ
-status, and income. This does not support groups which aren't
-well-labeled or currently politically fashionable. Such initiatives
-miss introverts, closet Republicans, members of less politically
-popular religions, less disadvantaged immigrants (who are still often
-lonely and isolated), and just about anyone else who doesn't fit one
-of the labeled molds. Perhaps more importantly, it even misses people
-who only partially fit the molds from population studies. 
+status, and income. This segmentation misses groups which aren't
+well-labeled or currently politically fashionable: introverts, closet
+Republicans, members of less politically popular religions, less
+disadvantaged immigrants (who are still often lonely and isolated),
+and just about anyone else who doesn't fit one of the labeled
+molds. Perhaps more importantly, it even misses people who only
+partially fit the molds of the population studies.
 
 What's great about pursuit of excellence as a model is that it fits
 *all* students by design, regardless of culture, background, or

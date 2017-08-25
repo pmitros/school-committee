@@ -1,6 +1,8 @@
 What does FMA do, in depth
 ======
 
+This is as footnote for the page on the [gap](gap).
+
 <ul>
    <li> Deep understanding of individual students and families. For example: </li>
    <ul>
