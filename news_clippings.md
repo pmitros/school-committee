@@ -28,17 +28,9 @@ meetings, and did a very good job summarizing them:
 Curriculum
 ----
 
+Curriculum was discussed quite a bit. I'll omit many articles on specific classes added and removed, but there was a series of articles on the Common Core and the change from MCAS to PARCC as it pertains to CRLS. The Oct 2013 issue explained the overall change ([pg 1](news-clippings/2013_oct_common_core_1.png), [pg 2](news-clippings/2013_oct_common_core_2.png)). There was a critique of how [such common standards](news-clippings/2014_jan_common_core.png) sometimes failed to meet the individual needs of different students, and [some notes](news-clippings/2014_mar_cambridge_common_core.png) about how it moves algebra to later grades and testing online. 
 
-
-
-Curriculum was discussed quite a bit. I'll omit many articles on specific classes added and removed, but there was a series of articles on the common core.
-[2013_oct_common_core_1.png](news-clippings/2013_oct_common_core_1.png)
-[2013_oct_common_core_2.png](news-clippings/2013_oct_common_core_2.png)
-[2014_jan_common_core.png](news-clippings/2014_jan_common_core.png)
-[2014_mar_cambridge_common_core.png](news-clippings/2014_mar_cambridge_common_core.png)
-
-There were a few articles suggesting required classes around topics such as [civics](news-clippings/2015_april_civics_requirement.png), philosophy, or diversity
-
+Of the proposed changes to curriculum, the one I did find intriguing was suggesting a required [civics course](news-clippings/2015_april_civics_requirement.png). There were several similar arguments for philosophy, as well as a range of diversity-related classes, especially in regards to moving history to be [less focused on Europe](news-clippings/2014_mar_history_curriculum.png) .
 
 * There was a long series on the policy on punishing students for missed attendance. [2012_Nov_AVF.pdf](news-clippings/2012_Nov_AVF.pdf) [2013_dec_crls_avf_policy.png](news-clippings/2013_dec_crls_avf_policy.png) [2015_feb_avf_buyback.png](news-clippings/2015_feb_avf_buyback.png)
 
@@ -104,7 +96,6 @@ notably missing).
 [2014_jan_mentoring_1.png](news-clippings/2014_jan_mentoring_1.png)
 [2014_jan_mentoring_2.png](news-clippings/2014_jan_mentoring_2.png)
 [2014_mar_environmental_ed.png](news-clippings/2014_mar_environmental_ed.png)
-[2014_mar_history_curriculum.png](news-clippings/2014_mar_history_curriculum.png)
 [2014_mar_revamp_sat.png](news-clippings/2014_mar_revamp_sat.png)
 [2014_mar_vacation_break.png](news-clippings/2014_mar_vacation_break.png)
 [2014_mat_crls_renovations_arts.png](news-clippings/2014_mat_crls_renovations_arts.png)
@@ -192,8 +183,6 @@ notably missing).
 [2017_march_tenure_1.png](news-clippings/2017_march_tenure_1.png)
 [2017_march_tenure_2.png](news-clippings/2017_march_tenure_2.png)
 [2017_may_gender_theory.png](news-clippings/2017_may_gender_theory.png)
-[2017_may_history_club.png](news-clippings/2017_may_history_club.png)
-[2017_may_history.png](news-clippings/2017_may_history.png)
 [2017_may_president.png](news-clippings/2017_may_president.png)
 [2019_sept_welcome.png](news-clippings/2019_sept_welcome.png)
 
