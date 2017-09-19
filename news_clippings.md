@@ -28,7 +28,15 @@ may help guide policy decisions:
   literature which showed a correlation between how much homework
   students did and test scores (rather than research literature which
   showed no correlation between how much homework was assigned and
-  test scores).
+  test scores). A [second survey](news-clippings/2016_homework.png)
+  did note the research consensus, and found 70% of CRLS students
+  found homework to be a source of stress, and 60% a source of sleep
+  deprivation and exhaustion. Qualitatively, students didn't like
+  [homework over
+  break](news-clippings/2016_jan_homework_over_break.png). Of course,
+  reducing or removing homework isn't a question of simply not
+  assigning it; homework-free classes need a pretty significant
+  restructuring so the same learning happens in class.
 * The [vast majority](news-clippings/2013_april_neap.png) -- 82% -- of
   CRLS students find classes to be rigorous enough. Only 7% thought
   they should be more challenging.
@@ -123,6 +131,9 @@ Another article which jumped out at me, not so much for the proposed course but 
 
 Of course, adding more to the curriculum may require a [longer school day](news-clippings/2013_sept_school_day.png), as was debated in 2013, but shot down due to lack of specificity, or [restructuring vacation breaks](news-clippings/2014_mar_vacation_break.png)
 
+[2015_may_school_dat.png](news-clippings/2015_may_school_dat.png)
+[2016_feb_block_schedule.png](news-clippings/2016_feb_block_schedule.png)
+
 
 [2013_feb_electives.png](news-clippings/2013_feb_electives.png)
 [2017_may_history_club.png](news-clippings/2017_may_history_club.png)
@@ -156,6 +167,9 @@ Digital
 
 The school adopted Chromebooks in 2013. Overall, 70% of students [were satisified](news-clippings/2013_jan_chromebooks.png). Most of the rationale was around workflow improvements. Curiously, there was no discussion about putting in a consumption technology in education, a process fundamentally about construction which many would argue is better suited to a full computer. There was also little discussion about how these impacted student outcomes. The school filters the internet, something students are [overwhelmingly supportive of](news-clippings/2013_april_firewall.png). For the most part, students considered [cyberbullying bad, but did not hold social media sites responsible](news-clippings/2013_april_cyberbully.png).
 
+[2015_nov_tech.png](news-clippings/2015_nov_tech.png)
+
+
 Attendance
 ----
 
@@ -173,9 +187,10 @@ Programs and organizations
 [2014_jan_mentoring_2.png](news-clippings/2014_jan_mentoring_2.png)
 [2014_nov_friends_of_crls_2.png](news-clippings/2014_nov_friends_of_crls_2.png)
 [2014_nov_friends_of_crls.png](news-clippings/2014_nov_friends_of_crls.png)
+[2014_apr_friends_of_crls.png](news-clippings/2014_apr_friends_of_crls.png)
 
-Still sorting
-=====
+[511 plans for students with disabilities](news-clippings/2011_june_411_on_504_plans.png),
+
 
 Standardized tests
 ----
@@ -192,8 +207,15 @@ Standardized tests
 School divisions
 ----
 
-Articles talk about [freshman-senior divides](news-clippings/2013_nov_freshman_senior_divide.png), issues facing foreign students ([pg 1](news-clippings/2013_nov_international_1.png)
-[pg 2](news-clippings/2013_nov_international_2.png))
+Articles talk about [freshman-senior
+divides](news-clippings/2013_nov_freshman_senior_divide.png), issues
+facing foreign students in 2014 ([pg
+1](news-clippings/2013_nov_international_1.png) [pg
+2](news-clippings/2013_nov_international_2.png)) and again [in
+2017](news-clippings/2016_jan_foreign_students.png) (which suggest
+need for better on-boarding and expectation-setting, as well as better
+support for ESL students)
+
 
 
 [2013_feb_race.png](news-clippings/2013_feb_race.png)
@@ -202,7 +224,8 @@ Articles talk about [freshman-senior divides](news-clippings/2013_nov_freshman_s
 School climate
 ----
 
-In addition, one can find good background on many programs, such as [511 plans for students with disabilities](news-clippings/2011_june_411_on_504_plans.png),
+
+[2016_feb_sitting_desks.png](news-clippings/2016_feb_sitting_desks.png)
 
 
 CEA
@@ -218,13 +241,14 @@ Interviews
 [2016_may_police_interview.png](news-clippings/2016_may_police_interview.png)
 [2014_may_nadeem.png](news-clippings/2014_may_nadeem.png)
 
-
+Still sorting
+=====
 
 [2013_dec_english_student_math_world.png](news-clippings/2013_dec_english_student_math_world.png)
 [2013_feb_bubble.png](news-clippings/2013_feb_bubble.png)
 
 
-[2014_apr_friends_of_crls.png](news-clippings/2014_apr_friends_of_crls.png)
+
 [2014_april_class_size.png](news-clippings/2014_april_class_size.png)
 [2014_dec_do_protests_work.png](news-clippings/2014_dec_do_protests_work.png)
 [2014_dec_entrepreneurship.png](news-clippings/2014_dec_entrepreneurship.png)
@@ -254,15 +278,8 @@ Interviews
 [2015_may_depression.png](news-clippings/2015_may_depression.png)
 [2015_may_expectations.png](news-clippings/2015_may_expectations.png)
 [2015_may_humanities.png](news-clippings/2015_may_humanities.png)
-[2015_may_school_dat.png](news-clippings/2015_may_school_dat.png)
-[2015_nov_tech.png](news-clippings/2015_nov_tech.png)
 [2015_oct_voting.png](news-clippings/2015_oct_voting.png)
 [2015_sept_voter_registration.png](news-clippings/2015_sept_voter_registration.png)
-[2016_feb_block_schedule.png](news-clippings/2016_feb_block_schedule.png)
-[2016_feb_sitting_desks.png](news-clippings/2016_feb_sitting_desks.png)
-[2016_homework.png](news-clippings/2016_homework.png)
-[2016_jan_foreign_students.png](news-clippings/2016_jan_foreign_students.png)
-[2016_jan_homework_over_break.png](news-clippings/2016_jan_homework_over_break.png)
 [2016_march_racial_diversity.png](news-clippings/2016_march_racial_diversity.png)
 [2016_may_diversity_1.png](news-clippings/2016_may_diversity_1.png)
 [2016_may_diversity_2.png](news-clippings/2016_may_diversity_2.png)
