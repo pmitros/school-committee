@@ -73,9 +73,27 @@ may help guide policy decisions:
   gender-binary](news-clippings/2014_feb_gender_binary_poll.png). In
   recent years, topics of diversity formed the plurality of articles
   in the Register Forum, so this result might be different today.
-* [2014_april_stress.png](news-clippings/2014_april_stress.png) [2014_nov_stress_2.png](news-clippings/2014_nov_stress_2.png)
-
-* [2014_nov_roots_of_prejudice.png](news-clippings/2014_nov_roots_of_prejudice.png)
+  
+* A striking 54% of students feel they have [more stress they can
+  manage](news-clippings/2014_april_stress.png), with 62% considering
+  school to be the greatest stressor. Students have a number of coping
+  strategies, mostly negative ([pg
+  1](news-clippings/2014_nov_crls_stress.png) [pg
+  2](news-clippings/2014_nov_stress_2.png)).  One of the key questions
+  is whether school is fundamentally too stressful, or whether we do
+  not do enough to develop resilience and coping strategies.
+* Unsurprsingly, most students felt
+  [stereotyped](news-clippings/2014_nov_roots_of_prejudice.png) at
+  some point in their lives.
+* In 2014, [two-thirds of
+  students](news-clippings/2014_april_class_size.png) believed classes
+  were too large. At the time, 48% of classes had over 20 students,
+  while 53% of AP/Honors classes had over 25 students. Absent from the
+  discussion were what should be traded off to reduce class size
+  (teacher salary, number of teachers per classroom, support/admin
+  staff, etc.). Absent from the broader discussion is also the format
+  of classes which often have drastically different staffing
+  requirements.
 
 Student Government Candidate Profiles
 ----
@@ -142,6 +160,8 @@ Of course, adding more to the curriculum may require a [longer school day](news-
 [2014_feb_honors_gap.png](news-clippings/2014_feb_honors_gap.png)
 [2014_nov_ap_education_gap.png](news-clippings/2014_nov_ap_education_gap.png)
 
+[2017_jan_best_courses.png](news-clippings/2017_jan_best_courses.png)
+[2015_may_humanities.png](news-clippings/2015_may_humanities.png)
 
 Underlying curriculum is the purpose of school: [pg 1](news-clippings/2013_jan_why_school_1.png) [pg 2](news-clippings/2013_jan_why_school_2.png). 
 
@@ -249,7 +269,7 @@ Still sorting
 
 
 
-[2014_april_class_size.png](news-clippings/2014_april_class_size.png)
+
 [2014_dec_do_protests_work.png](news-clippings/2014_dec_do_protests_work.png)
 [2014_dec_entrepreneurship.png](news-clippings/2014_dec_entrepreneurship.png)
 [2014_dec_walkout_1.png](news-clippings/2014_dec_walkout_1.png)
@@ -261,7 +281,6 @@ Still sorting
 [2014_may_crls_nhs_2.png](news-clippings/2014_may_crls_nhs_2.png)
 [2014_may_cultural_appropriation.png](news-clippings/2014_may_cultural_appropriation.png)
 [2014_no_he_meets_she.png](news-clippings/2014_no_he_meets_she.png)
-[2014_nov_crls_stress.png](news-clippings/2014_nov_crls_stress.png)
 [2014_sept_boston_ranking_1.png](news-clippings/2014_sept_boston_ranking_1.png)
 [2014_sept_boston_ranking_2.png](news-clippings/2014_sept_boston_ranking_2.png)
 [2015_april_cultural_appropriation.png](news-clippings/2015_april_cultural_appropriation.png)
@@ -277,7 +296,6 @@ Still sorting
 [2015_june_transgender.png](news-clippings/2015_june_transgender.png)
 [2015_may_depression.png](news-clippings/2015_may_depression.png)
 [2015_may_expectations.png](news-clippings/2015_may_expectations.png)
-[2015_may_humanities.png](news-clippings/2015_may_humanities.png)
 [2015_oct_voting.png](news-clippings/2015_oct_voting.png)
 [2015_sept_voter_registration.png](news-clippings/2015_sept_voter_registration.png)
 [2016_march_racial_diversity.png](news-clippings/2016_march_racial_diversity.png)
@@ -293,7 +311,6 @@ Still sorting
 [2016_sept_lunch_b.png](news-clippings/2016_sept_lunch_b.png)
 [2017_april_conservative.png](news-clippings/2017_april_conservative.png)
 [2017_feb_ap.png](news-clippings/2017_feb_ap.png)
-[2017_jan_best_courses.png](news-clippings/2017_jan_best_courses.png)
 [2017_jan_class_reps.png](news-clippings/2017_jan_class_reps.png)
 [2017_jan_level_up.png](news-clippings/2017_jan_level_up.png)
 [2017_jan_paus.png](news-clippings/2017_jan_paus.png)
