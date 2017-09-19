@@ -101,13 +101,14 @@ Student Government Candidate Profiles
 Among my favorite articles we saw the reasons many students ran for
 student council. As with the school committee, diversity and the
 achievement gap were the plurality reason for running, followed by
-dress code, but otherwise, choice quotes:
+dress code, but otherwise, choice quotes from the [2015 candidate
+profiles](news-clippings/2015_may_candidate_profiles.png):
 
 * "'Trust.' There are students who don't trust their teachers, but students should trust that their teachers have their back."
 * "The AVF policy is problematic"
 *
 
-[2015_may_candidate_profiles.png](news-clippings/2015_may_candidate_profiles.png)
+
 
 School Committee
 ----
