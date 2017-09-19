@@ -14,6 +14,20 @@ may help guide policy decisions:
 * CRLS is [quite religiously diverse](news-clippings/2012_Nov_religious_diversity.png), with atheists/agnostics at 46%, Christians at 31%, Jewish at 12%, and Muslim at 7%. [More than 70%](news-clippings/2013_april_religion.png) support seperation of church and state in schools.
 * However, there is little [political diversity](news-clippings/2016_oct_political_diversity.png). 80% of the student supported Clinton, followed by Sanders. Under 3% of students supported Trump.
 
+School Committee
+----
+
+The Register Forum recently started reporting on school committee
+meetings, and did a very good job summarizing them:
+
+* At the [December 6, 2016 meeting](news-clippings/2016_dec_school_committee.png), the school committee discussed menstrual hygine products in bathrooms (something students pushed hard on and won (article 1 [(pg 1)](news-clippings/2017_feb_hygiene_1.png)/[(pg 2)](news-clippings/2017_feb_hygiene_2.png) and [article 2](news-clippings/2016_dec_feminine.png))), the Cambridge fire, and athletics coach evaluation
+* The [March 2017](news-clippings/2017_march_school_committee.png) discussed union contract negotiations, 9th grade leveling up, lack of space and teachers for science classes, and expanding mediation. 
+* The [May 2017](news-clippings/2017_may_school_committee_extension.png) meeting discussed equality in athletics, strategic initiatives, and recognized student reps.
+* The [June 2017](news-clippings/2017_june_school_committee.png) meeting discussed the extensions school, and why it was helpful to many students, sexual assault plans, and the process around hiring a coach. 
+
+Curriculum
+----
+
 
 
 
@@ -38,10 +52,7 @@ There were a few articles suggesting required classes around topics such as [civ
 
 
 
-* The Register Forum reported on several school committee meetings. [2016_dec_school_committee.png](news-clippings/2016_dec_school_committee.png)
-[2017_march_school_committee.png](news-clippings/2017_march_school_committee.png)
-[2017_june_school_committee.png](news-clippings/2017_june_school_committee.png)
-[2017_may_school_committee_extension.png](news-clippings/2017_may_school_committee_extension.png)
+
 
 In addition, one can find good background on many programs, such as [511 plans for students with disabilities](news-clippings/2011_june_411_on_504_plans.png),
 
@@ -142,7 +153,6 @@ notably missing).
 [2015_sc_election.png](news-clippings/2015_sc_election.png)
 [2015_sept_voter_registration.png](news-clippings/2015_sept_voter_registration.png)
 [2016_april_free_speech.png](news-clippings/2016_april_free_speech.png)
-[2016_dec_feminine.png](news-clippings/2016_dec_feminine.png)
 [2016_feb_block_schedule.png](news-clippings/2016_feb_block_schedule.png)
 [2016_feb_no_free_speech.png](news-clippings/2016_feb_no_free_speech.png)
 [2016_feb_sitting_desks.png](news-clippings/2016_feb_sitting_desks.png)
@@ -171,8 +181,6 @@ notably missing).
 [2017_april_conservative.png](news-clippings/2017_april_conservative.png)
 [2017_april_mandatory_civics.png](news-clippings/2017_april_mandatory_civics.png)
 [2017_feb_ap.png](news-clippings/2017_feb_ap.png)
-[2017_feb_hygiene_1.png](news-clippings/2017_feb_hygiene_1.png)
-[2017_feb_hygiene_2.png](news-clippings/2017_feb_hygiene_2.png)
 [2017_jan_best_courses.png](news-clippings/2017_jan_best_courses.png)
 [2017_jan_class_reps.png](news-clippings/2017_jan_class_reps.png)
 [2017_jan_level_up.png](news-clippings/2017_jan_level_up.png)
