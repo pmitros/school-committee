@@ -73,7 +73,6 @@ may help guide policy decisions:
   gender-binary](news-clippings/2014_feb_gender_binary_poll.png). In
   recent years, topics of diversity formed the plurality of articles
   in the Register Forum, so this result might be different today.
-  
 * A striking 54% of students feel they have [more stress they can
   manage](news-clippings/2014_april_stress.png), with 62% considering
   school to be the greatest stressor. Students have a number of coping
