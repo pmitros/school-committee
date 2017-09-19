@@ -101,13 +101,13 @@ Among my favorite articles we saw the reasons many students ran for
 student council. As with the school committee, diversity and the
 achievement gap were the plurality reason for running, followed by
 dress code, but otherwise, choice quotes from the [2015 candidate
-profiles](news-clippings/2015_may_candidate_profiles.png):
+profiles](news-clippings/2015_may_candidate_profiles.png) and the [2016](news-clippings/2016_may_gov_1.png)
+[ones](news-clippings/2016_may_gov_2.png):
 
 * "'Trust.' There are students who don't trust their teachers, but students should trust that their teachers have their back."
 * "The AVF policy is problematic"
-*
-
-
+* "The stigma surrounding CP and Honors classes ... Honors students are automatically the 'smart kids'"
+* "Students are not given enough of a role in making the decisions that affect them. While student complaints are listened to, they are rarely addressed"
 
 School Committee
 ----
@@ -237,6 +237,7 @@ need for better on-boarding and expectation-setting, as well as better
 support for ESL students)
 
 
+[2014_dec_ward_rivalries.png](news-clippings/2014_dec_ward_rivalries.png)
 
 [2013_feb_race.png](news-clippings/2013_feb_race.png)
 [2017_jan_superficial_diversity.png](news-clippings/2017_jan_superficial_diversity.png)
@@ -274,7 +275,6 @@ Still sorting
 [2014_dec_entrepreneurship.png](news-clippings/2014_dec_entrepreneurship.png)
 [2014_dec_walkout_1.png](news-clippings/2014_dec_walkout_1.png)
 [2014_dec_walkout_2.png](news-clippings/2014_dec_walkout_2.png)
-[2014_dec_ward_rivalries.png](news-clippings/2014_dec_ward_rivalries.png)
 [2014_mat_crls_renovations_arts.png](news-clippings/2014_mat_crls_renovations_arts.png)
 [2014_may_crls_mission_statement.png](news-clippings/2014_may_crls_mission_statement.png)
 [2014_may_crls_nhs_1.png](news-clippings/2014_may_crls_nhs_1.png)
@@ -301,8 +301,6 @@ Still sorting
 [2016_march_racial_diversity.png](news-clippings/2016_march_racial_diversity.png)
 [2016_may_diversity_1.png](news-clippings/2016_may_diversity_1.png)
 [2016_may_diversity_2.png](news-clippings/2016_may_diversity_2.png)
-[2016_may_gov_1.png](news-clippings/2016_may_gov_1.png)
-[2016_may_gov_2.png](news-clippings/2016_may_gov_2.png)
 [2016_nov_pres.png](news-clippings/2016_nov_pres.png)
 [2016_oct_no_on_2.png](news-clippings/2016_oct_no_on_2.png)
 [2016_oct_rebell.png](news-clippings/2016_oct_rebell.png)
