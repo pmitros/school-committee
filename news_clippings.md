@@ -38,6 +38,13 @@ Another article which jumped out at me, not so much for the proposed course but 
 [2017_may_history_club.png](news-clippings/2017_may_history_club.png)
 [2017_may_history.png](news-clippings/2017_may_history.png)
 
+Elections
+----
+
+[2015_sc_election.png](news-clippings/2015_sc_election.png)
+[2015_nov_student_government.png](news-clippings/2015_nov_student_government.png)
+
+
 Free speech
 ----
 
@@ -45,6 +52,8 @@ Digital
 ----
 [2013_april_cyberbully.png](news-clippings/2013_april_cyberbully.png)
 [2013_april_firewall.png](news-clippings/2013_april_firewall.png)
+[2013_jan_chromebooks.png](news-clippings/2013_jan_chromebooks.png)
+[2015_may_electronics_academic.png](news-clippings/2015_may_electronics_academic.png)
 
 Attendance
 ----
@@ -63,6 +72,13 @@ Standardized tests
 [2012_Nov_NEASC_2.png](news-clippings/2012_Nov_NEASC_2.png)
 [2014_april_standardized_testing.png](news-clippings/2014_april_standardized_testing.png)
 [2015_nov_testing.png](news-clippings/2015_nov_testing.png)
+
+Free speech
+----
+
+[2015_jan_free_speech.png](news-clippings/2015_jan_free_speech.png)
+[2016_april_free_speech.png](news-clippings/2016_april_free_speech.png)
+[2016_feb_no_free_speech.png](news-clippings/2016_feb_no_free_speech.png)
 
 
 
@@ -86,7 +102,6 @@ notably missing).
 [2013_feb_bubble.png](news-clippings/2013_feb_bubble.png)
 
 [2013_feb_race.png](news-clippings/2013_feb_race.png)
-[2013_jan_chromebooks.png](news-clippings/2013_jan_chromebooks.png)
 [2013_jan_why_school_1.png](news-clippings/2013_jan_why_school_1.png)
 [2013_jan_why_school_2.png](news-clippings/2013_jan_why_school_2.png)
 [2013_nov_achievement_gap.png](news-clippings/2013_nov_achievement_gap.png)
@@ -140,7 +155,6 @@ notably missing).
 [2015_candidate_profiles_2.png](news-clippings/2015_candidate_profiles_2.png)
 [2015_dec_bay_shine_2.png](news-clippings/2015_dec_bay_shine_2.png)
 [2015_dec_bay_shine.png](news-clippings/2015_dec_bay_shine.png)
-[2015_jan_free_speech.png](news-clippings/2015_jan_free_speech.png)
 [2015_jan_liberal_cambridge.png](news-clippings/2015_jan_liberal_cambridge.png)
 [2015_jan_us_china_testing.png](news-clippings/2015_jan_us_china_testing.png)
 [2015_june_affirmative_action.png](news-clippings/2015_june_affirmative_action.png)
@@ -154,18 +168,13 @@ notably missing).
 [2015_may_candidate_profiles.png](news-clippings/2015_may_candidate_profiles.png)
 [2015_may_common_core.png](news-clippings/2015_may_common_core.png)
 [2015_may_depression.png](news-clippings/2015_may_depression.png)
-[2015_may_electronics_academic.png](news-clippings/2015_may_electronics_academic.png)
 [2015_may_expectations.png](news-clippings/2015_may_expectations.png)
 [2015_may_humanities.png](news-clippings/2015_may_humanities.png)
 [2015_may_school_dat.png](news-clippings/2015_may_school_dat.png)
-[2015_nov_student_government.png](news-clippings/2015_nov_student_government.png)
 [2015_nov_tech.png](news-clippings/2015_nov_tech.png)
 [2015_oct_voting.png](news-clippings/2015_oct_voting.png)
-[2015_sc_election.png](news-clippings/2015_sc_election.png)
 [2015_sept_voter_registration.png](news-clippings/2015_sept_voter_registration.png)
-[2016_april_free_speech.png](news-clippings/2016_april_free_speech.png)
 [2016_feb_block_schedule.png](news-clippings/2016_feb_block_schedule.png)
-[2016_feb_no_free_speech.png](news-clippings/2016_feb_no_free_speech.png)
 [2016_feb_sitting_desks.png](news-clippings/2016_feb_sitting_desks.png)
 [2016_homework.png](news-clippings/2016_homework.png)
 [2016_jan_foreign_students.png](news-clippings/2016_jan_foreign_students.png)
