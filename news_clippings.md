@@ -30,13 +30,35 @@ Curriculum
 
 Curriculum was discussed quite a bit. I'll omit many articles on specific classes added and removed, but there was a series of articles on the Common Core and the change from MCAS to PARCC as it pertains to CRLS. The Oct 2013 issue explained the overall change ([pg 1](news-clippings/2013_oct_common_core_1.png), [pg 2](news-clippings/2013_oct_common_core_2.png)). There was a critique of how [such common standards](news-clippings/2014_jan_common_core.png) sometimes failed to meet the individual needs of different students, and [some notes](news-clippings/2014_mar_cambridge_common_core.png) about how it moves algebra to later grades and testing online. 
 
-Of the proposed changes to curriculum, the one I did find intriguing was suggesting a required [civics course](news-clippings/2015_april_civics_requirement.png). There were several similar arguments for philosophy, as well as a range of diversity-related classes, especially in regards to moving history to be [less focused on Europe](news-clippings/2014_mar_history_curriculum.png) .
+Of the proposed changes to curriculum, the one I did find intriguing was suggesting a required [civics course](news-clippings/2015_april_civics_requirement.png). There were several similar arguments for philosophy, as well as a range of diversity-related classes, especially in regards to moving history to be [less focused on Europe](news-clippings/2014_mar_history_curriculum.png).
 
-* There was a long series on the policy on punishing students for missed attendance. [2012_Nov_AVF.pdf](news-clippings/2012_Nov_AVF.pdf) [2013_dec_crls_avf_policy.png](news-clippings/2013_dec_crls_avf_policy.png) [2015_feb_avf_buyback.png](news-clippings/2015_feb_avf_buyback.png)
+Another article which jumped out at me, not so much for the proposed course but for the language used to describe it, was [gender theory](news-clippings/2017_may_gender_theory.png)
 
-* Much of the push for the new dress code came from a series of a long student drive, including no fewer than five articles in the Register, including [2014_nov_dress_code.png](news-clippings/2014_nov_dress_code.png). [2015_june_dress_code.png](news-clippings/2015_june_dress_code.png) [2015_may_dress_code.png](news-clippings/2015_may_dress_code.png) [2015_sept_sexist_dress.png](news-clippings/2015_sept_sexist_dress.png) [2016_june_dress_code_divides.png](news-clippings/2016_june_dress_code_divides.png)
+[2013_feb_electives.png](news-clippings/2013_feb_electives.png)
+[2017_may_history_club.png](news-clippings/2017_may_history_club.png)
+[2017_may_history.png](news-clippings/2017_may_history.png)
 
-* Standardized tests
+Free speech
+----
+
+Digital
+----
+[2013_april_cyberbully.png](news-clippings/2013_april_cyberbully.png)
+[2013_april_firewall.png](news-clippings/2013_april_firewall.png)
+
+Attendance
+----
+
+There was a long series on the policy on punishing students for missed attendance. [2012_Nov_AVF.pdf](news-clippings/2012_Nov_AVF.pdf) [2013_dec_crls_avf_policy.png](news-clippings/2013_dec_crls_avf_policy.png) [2015_feb_avf_buyback.png](news-clippings/2015_feb_avf_buyback.png)
+
+Dress code
+----
+
+Much of the push for the new dress code came from a series of a long student drive, including no fewer than five articles in the Register, including [2014_nov_dress_code.png](news-clippings/2014_nov_dress_code.png). [2015_june_dress_code.png](news-clippings/2015_june_dress_code.png) [2015_may_dress_code.png](news-clippings/2015_may_dress_code.png) [2015_sept_sexist_dress.png](news-clippings/2015_sept_sexist_dress.png) [2016_june_dress_code_divides.png](news-clippings/2016_june_dress_code_divides.png)
+
+Standardized tests
+----
+
 [2012_Nov_NEASC_1.png](news-clippings/2012_Nov_NEASC_1.png)
 [2012_Nov_NEASC_2.png](news-clippings/2012_Nov_NEASC_2.png)
 [2014_april_standardized_testing.png](news-clippings/2014_april_standardized_testing.png)
@@ -56,15 +78,13 @@ notably missing).
 
 [2017_jan_superficial_diversity.png](news-clippings/2017_jan_superficial_diversity.png)
 
-[2013_april_cyberbully.png](news-clippings/2013_april_cyberbully.png)
-[2013_april_firewall.png](news-clippings/2013_april_firewall.png)
 [2013_april_homework.png](news-clippings/2013_april_homework.png)
 [2013_april_neap.png](news-clippings/2013_april_neap.png)
 [2013_april_suspension.png](news-clippings/2013_april_suspension.png)
 [2013_april_union.png](news-clippings/2013_april_union.png)
 [2013_dec_english_student_math_world.png](news-clippings/2013_dec_english_student_math_world.png)
 [2013_feb_bubble.png](news-clippings/2013_feb_bubble.png)
-[2013_feb_electives.png](news-clippings/2013_feb_electives.png)
+
 [2013_feb_race.png](news-clippings/2013_feb_race.png)
 [2013_jan_chromebooks.png](news-clippings/2013_jan_chromebooks.png)
 [2013_jan_why_school_1.png](news-clippings/2013_jan_why_school_1.png)
@@ -182,7 +202,6 @@ notably missing).
 [2017_march_censor.png](news-clippings/2017_march_censor.png)
 [2017_march_tenure_1.png](news-clippings/2017_march_tenure_1.png)
 [2017_march_tenure_2.png](news-clippings/2017_march_tenure_2.png)
-[2017_may_gender_theory.png](news-clippings/2017_may_gender_theory.png)
 [2017_may_president.png](news-clippings/2017_may_president.png)
 [2019_sept_welcome.png](news-clippings/2019_sept_welcome.png)
 
