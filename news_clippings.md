@@ -4,15 +4,17 @@ CRLS Register Forum News Clippings
 Student voices are important. The CRLS Register Forum is the oldest
 student newspaper in the nation and provides some of those voices.
 
-The Register Forum ran a number of important surveys providing key
-data for policy decisions. For example:
+Data
+----
+
+The Register Forum ran a number of surveys providing key data which
+may help guide policy decisions:
 
 * Most CRLS students [speak another language fluently](news-clippings/2011_Dec_Bilingual.png), and find that it helps in their day-to-day lives.
-* [2012_Nov_religious_diversity.png](news-clippings/2012_Nov_religious_diversity.png)
-[2013_april_religion.png](news-clippings/2013_april_religion.png)
-[2016_oct_political_diversity.png](news-clippings/2016_oct_political_diversity.png)
+* CRLS is [quite religiously diverse](news-clippings/2012_Nov_religious_diversity.png), with atheists/agnostics at 46%, Christians at 31%, Jewish at 12%, and Muslim at 7%. [More than 70%](news-clippings/2013_april_religion.png) support seperation of church and state in schools.
+* However, there is little [political diversity](news-clippings/2016_oct_political_diversity.png). 80% of the student supported Clinton, followed by Sanders. Under 3% of students supported Trump.
 
-[2017_jan_superficial_diversity.png](news-clippings/2017_jan_superficial_diversity.png)
+
 
 
 Curriculum was discussed quite a bit. I'll omit many articles on specific classes added and removed, but there was a series of articles on the common core.
@@ -48,6 +50,8 @@ The Register Forum looked at [tests versus student
 perception](news-clippings/2011_june_good_teachers.png) as means of
 assessing teacher effectiveness (although peer evaluations were were
 notably missing).
+
+[2017_jan_superficial_diversity.png](news-clippings/2017_jan_superficial_diversity.png)
 
 [2013_april_cyberbully.png](news-clippings/2013_april_cyberbully.png)
 [2013_april_firewall.png](news-clippings/2013_april_firewall.png)
