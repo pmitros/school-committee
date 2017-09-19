@@ -128,6 +128,9 @@ Dress code
 
 Much of the push for the new dress code came from a series of a long student drive, including no fewer than five articles in the Register, including [2014_nov_dress_code.png](news-clippings/2014_nov_dress_code.png). [2015_june_dress_code.png](news-clippings/2015_june_dress_code.png) [2015_may_dress_code.png](news-clippings/2015_may_dress_code.png) [2015_sept_sexist_dress.png](news-clippings/2015_sept_sexist_dress.png) [2016_june_dress_code_divides.png](news-clippings/2016_june_dress_code_divides.png)
 
+Still sorting
+=====
+
 Standardized tests
 ----
 
