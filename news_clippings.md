@@ -115,7 +115,7 @@ School Committee
 The Register Forum recently started reporting on school committee
 meetings, and did a very good job summarizing them:
 
-* At the [December 6, 2016 meeting](news-clippings/2016_dec_school_committee.png), the school committee discussed menstrual hygine products in bathrooms (something students pushed hard on and won (article 1 [(pg 1)](news-clippings/2017_feb_hygiene_1.png)/[(pg 2)](news-clippings/2017_feb_hygiene_2.png) and [article 2](news-clippings/2016_dec_feminine.png))), the Cambridge fire, and athletics coach evaluation
+* At the [December 6, 2016 meeting](news-clippings/2016_dec_school_committee.png), the school committee discussed menstrual hygine products in bathrooms (something students pushed hard on and won (article 1 [(pg 1)](news-clippings/2017_feb_hygiene_1.png)/[(pg 2)](news-clippings/2017_feb_hygiene_2.png) and [article 2](news-clippings/2016_dec_feminine.png)), the Cambridge fire, and athletics coach evaluation
 * The [March 2017](news-clippings/2017_march_school_committee.png) discussed union contract negotiations, 9th grade leveling up, lack of space and teachers for science classes, and expanding mediation. 
 * The [May 2017](news-clippings/2017_may_school_committee_extension.png) meeting discussed equality in athletics, strategic initiatives, and recognized student reps.
 * The [June 2017](news-clippings/2017_june_school_committee.png) meeting discussed the extensions school, and why it was helpful to many students, sexual assault plans, and the process around hiring a coach. 
