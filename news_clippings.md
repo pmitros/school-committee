@@ -5,8 +5,8 @@ Student voices are important. The CRLS Register Forum is the oldest
 student newspaper in the nation and provides some of those voices.
 
 This is my set of clippings from the Register Forum. I thought I'd
-share it in case others found it helpful. Please note the commentary
-is not proof-read and likely contains typos, errors, misreads,
+share it in case others found it helpful. Please note the summaries
+are not proof-read and likely contains typos, errors, misreads,
 exaggerated claims, mistypes, and similar issues. Please treat this
 page as a resource to the extent it is helpful, but not as a statement
 of my opinions or my platform. Indeed, I'd go as far to say as I'd
