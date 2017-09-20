@@ -69,7 +69,7 @@ may help guide policy decisions:
 * Most students feel their friends, homeroom, classes, and after-school
   activities are at least [somewhat
   diverse](news-clippings/2013_nov_diverse_friends.png), or at least felt
-  this way in 2013. By all accounts, we're seeing more in-school segregation today than when the article was written.
+  this way in 2013 (many people I've spoken to have observed that we see more in-school segregation today than in 2013).
 * Overall, students thought that [better teachers should be paid
   more](news-clippings/2011_june_good_teachers.png), with a bit of a
   discussion about tests and student feedback as a means of
@@ -88,7 +88,7 @@ may help guide policy decisions:
   term
   gender-binary](news-clippings/2014_feb_gender_binary_poll.png). In
   recent years, topics of diversity formed the plurality of articles
-  in the Register Forum, so this result might be different today.
+  in the Register Forum, so this result might be different today (note to older readers: If you don't know what this means, don't feel ignorant. These are part of a jargon which was popularized around the time of the millenials. Most people I know over the age of 35 do not know any of this jargon, whereas almost all people I know under 25 do).
 * A striking 54% of students feel they have [more stress they can
   manage](news-clippings/2014_april_stress.png), with 62% considering
   school to be the greatest stressor. Students have a number of coping
