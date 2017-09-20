@@ -39,17 +39,12 @@ running.
 What you can do to help
 ---------------
 
-First, you can talk to me or email me. I'd be interested in your
-thoughts about how we can make the school district better.
+You can talk to me or email me. I'd be interested in your thoughts
+about how we can make the school district better. You can [donate to
+my campaign](https://secure.actblue.com/donate/mitros), help spread
+the word, and remember to vote in November. Finally, you can join my
+committee and help the campaign as a volunteer.
 
-Second, you can [donate to my
-campaign](https://secure.actblue.com/donate/mitros), help spread the
-word, and remember to vote in November. Local elections are
-surprisingly expensive (consider the cost of even a single mailing to
-the about 50,000 registered voters, or even just the
-[13,000](https://www.cctvcambridge.org/node/29005) active voters)
-
-Finally, you can join my committee and help the campaign as a volunteer.
 
 My background
 -----------------------
