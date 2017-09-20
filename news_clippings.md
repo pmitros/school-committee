@@ -121,6 +121,7 @@ meetings, and did a very nice job summarizing them:
 * The [March 2017](news-clippings/2017_march_school_committee.png) discussed union contract negotiations, 9th grade leveling up, lack of space and teachers for science classes, and expanding mediation
 * The [May 2017](news-clippings/2017_may_school_committee_extension.png) meeting discussed equality in athletics, strategic initiatives, and recognized student reps
 * The [June 2017](news-clippings/2017_june_school_committee.png) meeting discussed the extensions school, and why it was helpful to many students, sexual assault plans, and the process around hiring a coach
+* The [January 2017](news-clippings/2017_jan_paus.png) meeting discussed PAUS performing in the 14th percentile of Massachusetts schools, student government data collection on demographics of extracurriculars, and an update from the superintendent
 * The [November 2016](news-clippings/2016_nov_sc_tracking.png) meeting discussed leveling up, crew funding, CPAC, the achievement gap, and a report from the superintendent.
 * The [October 2016](news-clippings/2016_oct_sc_update.png) meeting talked about special needs students, student government activities, failing algebra programs, and no-cut sports teams
 * The [September 2016](news-clippings/2016_sept_sc_update.png) meeting discussed dress code, junior kindergarten, overcrowding, chronic absenteeism, and the student government's work on the achievement gap 
@@ -255,6 +256,8 @@ Interviews
 [2016_may_young.png](news-clippings/2016_may_young.png)
 [2016_may_police_interview.png](news-clippings/2016_may_police_interview.png)
 [2014_may_nadeem.png](news-clippings/2014_may_nadeem.png)
+[2017_jan_salim.png](news-clippings/2017_jan_salim.png)
+[2017_jan_will_macarthur.png](news-clippings/2017_jan_will_macarthur.png)
 
 Still sorting
 =====
@@ -301,9 +304,6 @@ Still sorting
 [2017_feb_ap.png](news-clippings/2017_feb_ap.png)
 [2017_jan_class_reps.png](news-clippings/2017_jan_class_reps.png)
 [2017_jan_level_up.png](news-clippings/2017_jan_level_up.png)
-[2017_jan_paus.png](news-clippings/2017_jan_paus.png)
-[2017_jan_salim.png](news-clippings/2017_jan_salim.png)
-[2017_jan_will_macarthur.png](news-clippings/2017_jan_will_macarthur.png)
 [2017_june_socioemotional.png](news-clippings/2017_june_socioemotional.png)
 [2017_march_censor.png](news-clippings/2017_march_censor.png)
 [2017_march_tenure_1.png](news-clippings/2017_march_tenure_1.png)
