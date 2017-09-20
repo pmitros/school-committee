@@ -153,21 +153,9 @@ There was a series of articles on the Common Core and the change from MCAS to PA
 
 Of the proposed changes to curriculum, one which came up [several times](news-clippings/2017_april_mandatory_civics.png) was a required [civics course](news-clippings/2015_april_civics_requirement.png) (and there were several similar arguments for philosophy, as well as a range of diversity-related classes, especially in regards to moving history to be [less focused on Europe](news-clippings/2014_mar_history_curriculum.png)). Another article which jumped out at me, not so much for the proposed course but for the language used to describe it, was [gender theory](news-clippings/2017_may_gender_theory.png)
 
-Otherwise, students were saddened by the [loss of some courses](news-clippings/2013_feb_electives.png), spoke of importance of [history](news-clippings/2017_may_history.png), [twice](news-clippings/2015_may_humanities.png), described their [favorite courses](news-clippings/2017_jan_best_courses.png) (AP English Language, Foundations of Art, AP Statistics, and AP US History), 
+Otherwise, students were saddened by the [loss of some courses](news-clippings/2013_feb_electives.png), spoke of importance of [history](news-clippings/2017_may_history.png), [twice](news-clippings/2015_may_humanities.png) and [its impact](news-clippings/2017_may_history_club.png), described their [favorite courses](news-clippings/2017_jan_best_courses.png) (AP English Language, Foundations of Art, AP Statistics, and AP US History), 
 
-
-
-Of course, adding more to the curriculum may require a [longer school day](news-clippings/2013_sept_school_day.png), as was debated in 2013, but shot down due to lack of specificity. It was brought up again [in 2015](news-clippings/2015_may_school_dat.png), with students generally opposed. [Restructuring vacation breaks](news-clippings/2014_mar_vacation_break.png), as was the [block schedule](news-clippings/2016_feb_block_schedule.png). 
-
-
-
-[2017_may_history_club.png](news-clippings/2017_may_history_club.png)
-
-
-[2014_feb_honors_gap.png](news-clippings/2014_feb_honors_gap.png)
-[2014_nov_ap_education_gap.png](news-clippings/2014_nov_ap_education_gap.png)
-
-
+Of course, adding more to the curriculum may require a [longer school day](news-clippings/2013_sept_school_day.png), as was debated in 2013, but shot down due to lack of specificity. It was brought up again [in 2015](news-clippings/2015_may_school_dat.png), with students generally opposed. Other structural discussions included [restructuring vacation breaks](news-clippings/2014_mar_vacation_break.png), as was the [block schedule](news-clippings/2016_feb_block_schedule.png). 
 
 Underlying curriculum is the purpose of school: [pg 1](news-clippings/2013_jan_why_school_1.png) [pg 2](news-clippings/2013_jan_why_school_2.png). 
 
@@ -234,14 +222,17 @@ support for ESL students), rivalaries based on
 people talk about [stereotyping and superficial
 diversity](news-clippings/2017_jan_superficial_diversity.png).
 
+The [tracks lead to division as
+well](news-clippings/2014_feb_honors_gap.png): "if you take all Honors
+and AP, you essentially don't know anyone who doesn't take those level
+classes." Much of this division [is racial](news-clippings/2014_nov_ap_education_gap.png)
+
 On the "standard" divides, we see them in
 [extracurriculars](news-clippings/2016_march_racial_diversity.png),
 [sports and classes](news-clippings/2015_june_segregation.png). We
 have calls for addressing
 [sexism](news-clippings/2015_june_sexism.png), [transgender
 issues](news-clippings/2015_june_transgender.png),
-
-
 
 Bubbles
 ----
