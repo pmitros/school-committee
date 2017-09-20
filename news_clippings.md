@@ -29,7 +29,8 @@ may help guide policy decisions:
   students supported Trump. Likewise, the student body is
   [split](news-clippings/2017_april_conservative.png) between
   'liberal' and 'very liberal,' with a few moderates. The conservative
-  minority is often threatened.
+  minority is often threatened and
+  [stereotyped](news-clippings/2015_jan_liberal_cambridge.png].
 * Only about [half](news-clippings/2013_april_homework.png) of
   students find homework useful. Curiously, the article cited research
   literature which showed a correlation between how much homework
@@ -174,6 +175,7 @@ Underlying curriculum is the purpose of school: [pg 1](news-clippings/2013_jan_w
 [2017_june_socioemotional.png](news-clippings/2017_june_socioemotional.png)
 [2017_jan_level_up.png](news-clippings/2017_jan_level_up.png)
 
+The Register Forum [reported on](clippings/2014_dec_entrepreneurship.png) Mr. Rubin running an illegal class on entrepreneurship at CPSD, with students Nur, Ngo, Scalzi, Watson, Jean-Babtiste, and many others violating CPSD policies against commercial activity on campus. Indeed, posting this issue of the Register Forum on the web site, or creating it on CPSD computers, violated school policy and ought to be taken down immediately.
 
 Student rights
 ----
@@ -261,11 +263,10 @@ who don't already agree with you, and visible in a positive way. My
 take on many protests is summarized in [this
 video](https://www.youtube.com/watch?v=rE3j_RHkqJc).
 
-School climate
+School environment
 ----
 
-
-[2016_feb_sitting_desks.png](news-clippings/2016_feb_sitting_desks.png)
+Students called for [standing desks](news-clippings/2016_feb_sitting_desks.png)
 
 
 Cambridge Education Association
@@ -300,7 +301,6 @@ Still sorting
 [2015_april_cultural_appropriation.png](news-clippings/2015_april_cultural_appropriation.png)
 [2015_dec_bay_shine_2.png](news-clippings/2015_dec_bay_shine_2.png)
 [2015_dec_bay_shine.png](news-clippings/2015_dec_bay_shine.png)
-[2015_jan_liberal_cambridge.png](news-clippings/2015_jan_liberal_cambridge.png)
 [2015_jan_us_china_testing.png](news-clippings/2015_jan_us_china_testing.png)
 [2015_june_affirmative_action.png](news-clippings/2015_june_affirmative_action.png)
 [2015_june_goodbye_1.png](news-clippings/2015_june_goodbye_1.png)
