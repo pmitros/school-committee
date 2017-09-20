@@ -9,8 +9,10 @@ share it in case others found it helpful. Please note the commentary
 is not proof-read and likely contains typos, errors, misreads, as well
 as occasional cynical commentary.
 
-This goes without saying, but the views on this page also don't
-always represent my own. 
+This goes without saying, but the views on this page don't always
+represent my own both since they came from students and since it's
+really hard to not give the wrong implications in writing without
+*extensive* proofreading on a topic this loaded .
 
 Data
 ----
@@ -47,8 +49,8 @@ may help guide policy decisions:
   [homework over
   break](news-clippings/2016_jan_homework_over_break.png). Of course,
   reducing or removing homework isn't a question of simply not
-  assigning it; homework-free classes need a pretty significant
-  restructuring so the same learning happens in class. Some of the above is tied back to [student happiness](news-clippings/2015_may_expectations.png) and possibly [depression](news-clippings/2015_may_depression.png).
+  assigning it; homework-free classes are based on a pretty significant
+  restructuring so much more learning happens in classrooms. Some of the above is tied back to [student happiness](news-clippings/2015_may_expectations.png) and possibly [depression](news-clippings/2015_may_depression.png).
 * The [vast majority](news-clippings/2013_april_neap.png) -- 82% -- of
   CRLS students find classes to be rigorous enough. Only 7% thought
   they should be more challenging.
@@ -65,21 +67,21 @@ may help guide policy decisions:
 * Most students feel their friends, homeroom, classes, and afterschool
   activities are at least [somewhat
   diverse](news-clippings/2013_nov_diverse_friends.png), or at least felt
-  this way in 2013.
+  this way in 2013. By all accounts, we're seeing more in-school segregation today than when the article was written.
 * Overall, students thought that [better teachers should be paid
   more](news-clippings/2011_june_good_teachers.png), with a bit of a
-  discussion about tests versus student perception as a means of
+  discussion about tests and student feedback as a means of
   evaluating teachers (missing were peer or administor
   evaluations). An article a few years later looked at [what students
   valued in
   teachers](news-clippings/2013_nov_what_students_value_in_classes.png). Top
-  was caring about the topic, followed by being available to students.
+  was "caring about the topic", followed by "being available to students."
 * There was an [overwhelming
   correlation](news-clippings/2015_may_electronics_academic.png)
   between unplugging digital devices and school performance. 95% of
   kids who had GPAs below 90 used digital devices at least three hours
   per day, while only 14% of those with GPAs above 90 did so. This
-  result is strong enough and important enough to be publication-worthy.
+  result is strong enough and important enough to be publication-worthy and calls into question the structure of some of the digital initiatives.
 * Surprisingly, in a 2014 survey, [56% of students didn't know the
   term
   gender-binary](news-clippings/2014_feb_gender_binary_poll.png). In
@@ -93,7 +95,7 @@ may help guide policy decisions:
   2](news-clippings/2014_nov_stress_2.png)).  One of the key questions
   is whether school is fundamentally too stressful, or whether we do
   not do enough to develop resilience and coping strategies.
-* Unsurprsingly, most students felt
+* Unsurprisingly, most students felt
   [stereotyped](news-clippings/2014_nov_roots_of_prejudice.png) at
   some point in their lives.
 * In 2014, [two-thirds of
@@ -103,8 +105,8 @@ may help guide policy decisions:
   discussion were what should be traded off to reduce class size
   (teacher salary, number of teachers per classroom, support/admin
   staff, etc.). Absent from the broader discussion is also the format
-  of classes which often have drastically different staffing
-  requirements.
+  of classes. Classes often have drastically different staffing
+  requirements based on use of lecture versus groupwork versus technology versus other modes.
 
 Student Government
 ----
@@ -113,8 +115,8 @@ Among my favorite articles we saw the reasons many students ran for
 student council. As with the school committee, diversity and the
 achievement gap were the plurality reason for running, followed by
 dress code, but otherwise, choice quotes from the [2015 candidate
-profiles](news-clippings/2015_may_candidate_profiles.png) and the [2016](news-clippings/2016_may_gov_1.png)
-[ones](news-clippings/2016_may_gov_2.png):
+profiles](news-clippings/2015_may_candidate_profiles.png) and the [2016 ones](news-clippings/2016_may_gov_1.png)
+[(pg 2)](news-clippings/2016_may_gov_2.png):
 
 * "'Trust.' There are students who don't trust their teachers, but students should trust that their teachers have their back."
 * "The AVF policy is problematic"
@@ -133,13 +135,13 @@ meetings, and did a very nice job summarizing them:
 
 * At the [December 6, 2016 meeting](news-clippings/2016_dec_school_committee.png), the school committee discussed menstrual hygine products in bathrooms (something students pushed hard on and won (article 1 [(pg 1)](news-clippings/2017_feb_hygiene_1.png)/[(pg 2)](news-clippings/2017_feb_hygiene_2.png) and [article 2](news-clippings/2016_dec_feminine.png)), the Cambridge fire, and athletics coach evaluation
 * The [March 2017](news-clippings/2017_march_school_committee.png) discussed union contract negotiations, 9th grade leveling up, lack of space and teachers for science classes, and expanding mediation
-* The [May 2017](news-clippings/2017_may_school_committee_extension.png) meeting discussed equality in athletics, strategic initiatives, and recognized student reps
-* The [June 2017](news-clippings/2017_june_school_committee.png) meeting discussed the extensions school, and why it was helpful to many students, sexual assault plans, and the process around hiring a coach
-* The [January 2017](news-clippings/2017_jan_paus.png) meeting discussed PAUS performing in the 14th percentile of Massachusetts schools, student government data collection on demographics of extracurriculars, and an update from the superintendent
-* The [November 2016](news-clippings/2016_nov_sc_tracking.png) meeting discussed leveling up, crew funding, CPAC, the achievement gap, and a report from the superintendent.
-* The [October 2016](news-clippings/2016_oct_sc_update.png) meeting talked about special needs students, student government activities, failing algebra programs, and no-cut sports teams
-* The [September 2016](news-clippings/2016_sept_sc_update.png) meeting discussed dress code, junior kindergarten, overcrowding, chronic absenteeism, and the student government's work on the achievement gap 
-* The [June 2016](news-clippings/2016_jube_sc_diversity.png) meeting focused on issues of race, with much empathy, but little specific action
+* The [May 2017](news-clippings/2017_may_school_committee_extension.png) discussed equality in athletics, strategic initiatives, and recognized student reps
+* The [June 2017](news-clippings/2017_june_school_committee.png) discussed the extension school and why it was helpful to many students, sexual assault plans, and the process around hiring a coach
+* The [January 2017](news-clippings/2017_jan_paus.png) discussed PAUS performing in the 14th percentile of Massachusetts schools, student government data collection on demographics of extracurriculars, and an update from the superintendent
+* The [November 2016](news-clippings/2016_nov_sc_tracking.png) discussed leveling up, crew funding, CPAC, the achievement gap, and a report from the superintendent.
+* The [October 2016](news-clippings/2016_oct_sc_update.png) talked about special needs students, student government activities, failing algebra programs, and no-cut sports teams
+* The [September 2016](news-clippings/2016_sept_sc_update.png) discussed dress code, junior kindergarten, overcrowding, chronic absenteeism, and the student government's work on the achievement gap 
+* The [June 2016](news-clippings/2016_jube_sc_diversity.png) focused on issues of race, with much empathy, but little specific action
 * Many people raised issues of recruitment of faculty of color at the May 2016 session [pg 1](news-clippings/2016_may_diversity_1.png) [pg 2](news-clippings/2016_may_diversity_2.png)
 * The [major issues](news-clippings/2016_nov_sc_rep.png) addressed by the commmittee in 2016 were leveling-up, dress code revisions, school climate, teacher diversity, sexual assauly, and creating safe spaces.
 
@@ -148,7 +150,7 @@ There was also some coverage of the past two elections:
 * In 2015, there were [two](news-clippings/2015_candidate_profiles_1.png) [pages](news-clippings/2015_candidate_profiles_2.png) of candidate profiles, and we [were fortunate](news-clippings/2015_sc_election.png) to have Emily Dexter and Manikka Bowman add their talents to the school committee. Issues identified were perception of the school system, lack of inclusiveness, and lack of diversity in honors classes.
 * In 2013, we [were fortunate](news-clippings/2013_nov_new_sc_1.png) to have Fran Cronin and Kathleen Kelly add their talents to the school committee. Will MacArthur [expressed skepticism](news-clippings/2013_nov_new_sc_2.png) about both.
 
-Curiously, the [CRLS Mission Statement](news-clippings/2014_may_crls_mission_statement.png) was developed by teachers, a parent (Emily Dexter, pre-election) and a student after the school was criticized for not having enough homogeny under the previous one.
+Curiously, the [CRLS Mission Statement](news-clippings/2014_may_crls_mission_statement.png) was developed by teachers, a parent (Emily Dexter, pre-election) and a student.
 
 Curriculum
 ----
