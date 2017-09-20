@@ -128,6 +128,14 @@ Platform
 A few more thoughts
 -----------------
 
+* I read the past few years of the CRLS school newspaper, and made a
+  page of [news clippings](news_clippings). Student voices are
+  important, but most kids won't talk to strangers, and the newspaper
+  gives a lot of insights. Most fascinating were the student surveys
+  which give tremendous insights into our policies on punishment,
+  bilingual education, rigor of classes, use of digital devices, and
+  many other topics. This page is quite rough -- these are my personal
+  notes -- but I thought I'd share.
 * I did a [quick analysis](gap) of the gap in outcomes between
   low-income and non-low income students in CPSD. Did you know one of
   our schools has no gap?

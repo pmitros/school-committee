@@ -9,7 +9,9 @@ share it in case others found it helpful. Please note the commentary
 is not proof-read and likely contains typos, errors, misreads,
 exaggerated claims, mistypes, and similar issues. Please treat this
 page as a resource to the extent it is helpful, but not as a statement
-of my opinions or my platform.
+of my opinions or my platform. Indeed, I'd go as far to say as I'd
+suggest thinking of this more as an index or table of contents (click
+on links for primary sources) than as a summary.
 
 This goes without saying, but the views on this page don't always
 represent my own both since they came from students and since it's
