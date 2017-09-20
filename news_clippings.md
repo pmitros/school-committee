@@ -6,13 +6,15 @@ student newspaper in the nation and provides some of those voices.
 
 This is my set of clippings from the Register Forum. I thought I'd
 share it in case others found it helpful. Please note the commentary
-is not proof-read and likely contains typos, errors, misreads, as well
-as occasional cynical commentary.
+is not proof-read and likely contains typos, errors, misreads,
+exaggerated claims, mistypes, and similar issues. Please treat this
+page as a resource to the extent it is helpful, but not as a statement
+of my opinions or my platform.
 
 This goes without saying, but the views on this page don't always
 represent my own both since they came from students and since it's
 really hard to not give the wrong implications in writing without
-*extensive* proofreading on a topic this loaded .
+*extensive* proofreading, especially on the occasional loaded topics.
 
 Data
 ----
