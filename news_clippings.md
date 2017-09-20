@@ -291,7 +291,7 @@ Cambridge Education Association
 
 An article gave an overview of [teachers' unions](news-clippings/2013_april_union.png) nationwide. In 2014, the contract negotiations became a little bit heated ([pg 1](news-clippings/2014_feb_cea_union_1.png) [pg 2](news-clippings/2014_feb_cea_union_2.png)). I'm still trying to figure out the major points of contention.
 
-What is clear is that the CEA, and Cambridge Teachers, operate differently from most unions. This is backed [by](news-clippings/2017_march_tenure_1.png) [data](news-clippings/2017_march_tenure_2.png). The majority of CRLS teachers have reservations about the professional tenure system. This was one of the strongest articles I've read in the Register Forum!
+What is clear is that the CEA, and Cambridge Teachers, operate differently from most unions. This is backed [by](news-clippings/2017_march_tenure_1.png) [data](news-clippings/2017_march_tenure_2.png). The majority of CRLS teachers have reservations about the professional tenure system. The linked article was one of the strongest articles I've read in the Register Forum, and well worth reading beyond the soundbite summary. 
 
 
 Interviews
@@ -303,13 +303,16 @@ Interviews
 * In a [later interview](news-clippings/2017_jan_salim.png), superintendent Salim said a bit more. At this point, he had visited all eighteen schools, and was able to accurately identify issues and start to prioritize. I'd summarize, but there's a bit too much -- it's worth a read.
 * And, former Register Forum editor [Will MacArthur](news-clippings/2017_jan_will_macarthur.png) was interviewed when he announced his candidacy
 
-Hellos and farewells
+Hellos, farewells, and similar
 ----
 
+These give a bit of idea of student sentiment, but aside from the first one, little substance:
+
+* From the [student body president](news-clippings/2016_nov_pres.png) on the November election. It's a good article. Choice quotes: "Another fear that I have seen debilitate our entire community is the fear to speak one's truth. For me, I have been afraid to tell my black friends that I disagree with them on certain issues for fear that I'll be ostracized or deemed an Uncle Tom. ... Others might be afraid that speaking their mind will result in being deemed ratchet or even a silencer of free speech." "And for students, I challenge you to engage in conversation with fearlessness."
 * Quotes from [students](news-clippings/2015_june_goodbye_1.png) [and others](news-clippings/2015_june_goodbye_2.png) end-of-school 2015
 * ['16-'17 class president](news-clippings/2017_may_president.png) reflects on their time here. Points of note included: (1) realizing how deeply teachers and administrators cared. (2) how students who don't advocate for themselves may end up marginalized. (3) a strong, constant pull from the community to be complacent
 * A [class of 2019 welcome](news-clippings/2019_sept_welcome.png) to new students talks about some of the adjustments freshman face.
-* From the [student body president](news-clippings/2016_nov_pres.png) on the November election. It's a good article. Choice quotes: "Another fear that I have seen debilitate our entire community is the fear to speak one's truth. For me, I have been afraid to tell my black friends that I disagree with them on certain issues for fear that I'll be ostracized or deemed an Uncle Tom. ... Others might be afraid that speaking their mind will result in being deemed ratchet or even a silencer of free speech." "And for students, I challenge you to engage in conversation with fearlessness."
+
 
 State and national school politics
 ----
