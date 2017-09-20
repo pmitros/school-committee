@@ -178,9 +178,7 @@ The Register Forum is in favor of free speech, except [in school](news-clippings
 Digital
 ----
 
-The school adopted Chromebooks in 2013. Overall, 70% of students [were satisified](news-clippings/2013_jan_chromebooks.png). Most of the rationale was around workflow improvements. Curiously, there was no discussion about putting in a consumption technology in education, a process fundamentally about construction which many would argue is better suited to a full computer. There was also little discussion about how these impacted student outcomes. The school filters the internet, something students are [overwhelmingly supportive of](news-clippings/2013_april_firewall.png). For the most part, students considered [cyberbullying bad, but did not hold social media sites responsible](news-clippings/2013_april_cyberbully.png).
-
-[2015_nov_tech.png](news-clippings/2015_nov_tech.png)
+The school adopted Chromebooks in 2013. Overall, 70% of students [were satisified](news-clippings/2013_jan_chromebooks.png). Most of the rationale was around workflow improvements. Curiously, there was no discussion about putting in a consumption technology in education, a process fundamentally about construction which many would argue is better suited to a full computer. There was also little discussion about how these impacted student outcomes. The school filters the internet, something students are [overwhelmingly supportive of](news-clippings/2013_april_firewall.png). For the most part, students considered [cyberbullying bad, but did not hold social media sites responsible](news-clippings/2013_april_cyberbully.png). Students are also starting to notice technology [can be hurtful](news-clippings/2015_nov_tech.png)
 
 
 Attendance
