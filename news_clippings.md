@@ -293,13 +293,13 @@ Interviews
 * In a [later interview](news-clippings/2017_jan_salim.png), superintendent Salim said a bit more. At this point, he had visited all eighteen schools, and was able to accurately identify issues and start to prioritize. I'd summarize, but there's a bit too much -- it's worth a read.
 * And, former Register Forum editor [Will MacArthur](news-clippings/2017_jan_will_macarthur.png) was interviewed when he announced his candidacy
 
-Presidential Addresses
+Hellos and farewells
 ----
-[2015_june_goodbye_1.png](news-clippings/2015_june_goodbye_1.png)
-[2015_june_goodbye_2.png](news-clippings/2015_june_goodbye_2.png)
-[2017_may_president.png](news-clippings/2017_may_president.png)
-[2019_sept_welcome.png](news-clippings/2019_sept_welcome.png)
-[2016_nov_pres.png](news-clippings/2016_nov_pres.png)
+
+* Quotes from [students](news-clippings/2015_june_goodbye_1.png) [and others](news-clippings/2015_june_goodbye_2.png) end-of-school 2015
+* ['16-'17 class president](news-clippings/2017_may_president.png) reflects on their time here. Points of note included: (1) realizing how deeply teachers and administrators cared. (2) how students who don't advocate for themselves may end up marginalized. (3) a strong, constant pull from the community to be complacent
+* A [class of 2019 welcome](news-clippings/2019_sept_welcome.png) to new students talks about some of the adjustments freshman face.
+* From the [student body president](news-clippings/2016_nov_pres.png) on the November election. It's a good article. A choice quote: "Another fear that I have seen debilitate our entire community is the fear to speak one's truth. For me, I have been afraid to tell my black friends that I disagree with them on certain issues for fear that I'll be ostracized or deemed an Uncle Tom. ... Others might be afraid that speaking their mind will result in being deemed ratchet or even a silencer of free speech."
 
 National politics
 ----
