@@ -34,7 +34,7 @@ may help guide policy decisions:
   [split](news-clippings/2017_april_conservative.png) between
   'liberal' and 'very liberal,' with a few moderates. The conservative
   minority is often threatened and
-  [stereotyped](news-clippings/2015_jan_liberal_cambridge.png].
+  [stereotyped](news-clippings/2015_jan_liberal_cambridge.png).
 * Only about [half](news-clippings/2013_april_homework.png) of
   students find homework useful. Curiously, the article cited research
   literature which showed a correlation between how much homework
