@@ -141,7 +141,7 @@ meetings, and did a very nice job summarizing them:
 There was also some coverage of the past two elections:
 
 * In 2015, there were [two](news-clippings/2015_candidate_profiles_1.png) [pages](news-clippings/2015_candidate_profiles_2.png) of candidate profiles, and we [were fortunate](news-clippings/2015_sc_election.png) to have Emily Dexter and Manikka Bowman add their talents to the school committee. Issues identified were perception of the school system, lack of inclusiveness, and lack of diversity in honors classes.
-* In 2013, we [were fortunate](news-clippings/2013_nov_new_sc_1.png) to have Fran Cronin and Kathleen Kelly add their talents to the school committee. Will MacArthur (expressed skepticism)[2013_nov_new_sc_2.png](news-clippings/2013_nov_new_sc_2.png) about both.
+* In 2013, we [were fortunate](news-clippings/2013_nov_new_sc_1.png) to have Fran Cronin and Kathleen Kelly add their talents to the school committee. Will MacArthur [expressed skepticism](news-clippings/2013_nov_new_sc_2.png) about both.
 
 
 Curriculum
