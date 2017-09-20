@@ -4,6 +4,10 @@ CRLS Register Forum News Clippings
 Student voices are important. The CRLS Register Forum is the oldest
 student newspaper in the nation and provides some of those voices.
 
+This is my set of clippings from the Register Forum. I thought I'd
+share it in case others found it helpful. Please note the commentary
+is not proof-read and likely contains typos and errors.
+
 Data
 ----
 
