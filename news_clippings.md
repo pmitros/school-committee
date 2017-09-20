@@ -26,7 +26,10 @@ may help guide policy decisions:
 * However, there is little [political
   diversity](news-clippings/2016_oct_political_diversity.png). 80% of
   the student supported Clinton, followed by Sanders. Under 3% of
-  students supported Trump.
+  students supported Trump. Likewise, the student body is
+  [split](news-clippings/2017_april_conservative.png) between
+  'liberal' and 'very liberal,' with a few moderates. The conservative
+  minority is often threatened.
 * Only about [half](news-clippings/2013_april_homework.png) of
   students find homework useful. Curiously, the article cited research
   literature which showed a correlation between how much homework
@@ -130,6 +133,7 @@ meetings, and did a very nice job summarizing them:
 * The [October 2016](news-clippings/2016_oct_sc_update.png) meeting talked about special needs students, student government activities, failing algebra programs, and no-cut sports teams
 * The [September 2016](news-clippings/2016_sept_sc_update.png) meeting discussed dress code, junior kindergarten, overcrowding, chronic absenteeism, and the student government's work on the achievement gap 
 * The [June 2016](news-clippings/2016_jube_sc_diversity.png) meeting focused on issues of race, with much empathy, but little specific action
+* Many people raised issues of recruitment of faculty of color at the May 2016 session [pg 1](news-clippings/2016_may_diversity_1.png) [pg 2](news-clippings/2016_may_diversity_2.png)
 * The [major issues](news-clippings/2016_nov_sc_rep.png) addressed by the commmittee in 2016 were leveling-up, dress code revisions, school climate, teacher diversity, sexual assauly, and creating safe spaces.
 
 There was also some coverage of the past two elections:
@@ -167,13 +171,17 @@ Of course, adding more to the curriculum may require a [longer school day](news-
 Underlying curriculum is the purpose of school: [pg 1](news-clippings/2013_jan_why_school_1.png) [pg 2](news-clippings/2013_jan_why_school_2.png). 
 
 [2014_mar_environmental_ed.png](news-clippings/2014_mar_environmental_ed.png)
+[2017_june_socioemotional.png](news-clippings/2017_june_socioemotional.png)
+[2017_jan_level_up.png](news-clippings/2017_jan_level_up.png)
+
 
 Student rights
 ----
 
 CRLS is monitored by [45 cameras](news-clippings/2013_nov_crls_surveillance.png). The 69% of students who are even aware of this seem generally okay with this level of surveillance. 8% have had their posessions searched on campus. Indeed, most students would rather have [more security](news-clippings/2013_nov_safety_perception.png) rather than more privacy, despite already feeling safe.
 
-The Register Forum is in favor of free speech, except [in school](news-clippings/2015_jan_free_speech.png). An [editorial](news-clippings/2016_april_free_speech.png) disagreed, and said we shouldn't have free speech where speech might be offensive. Another piece said [we should have free speech](news-clippings/2016_feb_no_free_speech.png), although without commenting on that right in the context of school.
+The Register Forum is in favor of free speech, except [in school](news-clippings/2015_jan_free_speech.png). An [editorial](news-clippings/2016_april_free_speech.png) disagreed, and said we shouldn't have free speech where speech might be offensive. Another piece said [we should have free speech](news-clippings/2016_feb_no_free_speech.png), although without commenting on that right in the context of school. Fortunately, a 2017 article describes how devestating such mental [censorship is in schools](news-clippings/2017_march_censor.png), and how without being able to discuss offensive views, it's impossible to learn to reason critically.
+
 
 Digital
 ----
@@ -208,9 +216,11 @@ Standardized tests, accreditation, rankings
 School divisions
 ----
 
-Many articles talk about [racial
+Many articles talk about [racial/gender/LGBTQ
 divides](news-clippings/2013_feb_race.png), but other divides are
-raised as well. Articles talk about [freshman-senior
+raised as well.
+
+Articles talk about [freshman-senior
 divides](news-clippings/2013_nov_freshman_senior_divide.png), issues
 facing foreign students in 2014 ([pg
 1](news-clippings/2013_nov_international_1.png) [pg
@@ -221,6 +231,35 @@ support for ESL students), rivalaries based on
 [wards](news-clippings/2014_dec_ward_rivalries.png). And, of course,
 people talk about [stereotyping and superficial
 diversity](news-clippings/2017_jan_superficial_diversity.png).
+
+On the "standard" divides, we see them in
+[extracurriculars](news-clippings/2016_march_racial_diversity.png),
+[sports and classes](news-clippings/2015_june_segregation.png). We
+have calls for addressing
+[sexism](news-clippings/2015_june_sexism.png), [transgender
+issues](news-clippings/2015_june_transgender.png),
+
+
+
+Bubbles
+----
+
+An article pointed out the [Cambridge
+Bubble](news-clippings/2013_feb_bubble.png) makes people unfit to
+operate outside of Cambridge. The sentiment around needing to "have to
+teach my beliefs" is almost identical to that expressed by some
+Christians I've interacted with in the south, albeit with a very
+different set of values which must be taught.
+
+There was a fair bit of coverage of the 2014 walk-out ([pg
+1](news-clippings/2014_dec_walkout_1.png) [pg
+2](news-clippings/2014_dec_walkout_2.png)). An article points out that
+[protests work, but not on their
+own](news-clippings/2014_dec_do_protests_work.png). Missing from the
+article is that for protests to work, they must be visible to people
+who don't already agree with you, and visible in a positive way. My
+take on many protests is summarized in [this
+video](https://www.youtube.com/watch?v=rE3j_RHkqJc).
 
 School climate
 ----
@@ -247,11 +286,9 @@ Still sorting
 =====
 
 [2013_dec_english_student_math_world.png](news-clippings/2013_dec_english_student_math_world.png)
-[2013_feb_bubble.png](news-clippings/2013_feb_bubble.png)
-[2014_dec_do_protests_work.png](news-clippings/2014_dec_do_protests_work.png)
+
+
 [2014_dec_entrepreneurship.png](news-clippings/2014_dec_entrepreneurship.png)
-[2014_dec_walkout_1.png](news-clippings/2014_dec_walkout_1.png)
-[2014_dec_walkout_2.png](news-clippings/2014_dec_walkout_2.png)
 [2014_mat_crls_renovations_arts.png](news-clippings/2014_mat_crls_renovations_arts.png)
 [2014_may_crls_mission_statement.png](news-clippings/2014_may_crls_mission_statement.png)
 [2014_may_crls_nhs_1.png](news-clippings/2014_may_crls_nhs_1.png)
@@ -268,30 +305,20 @@ Still sorting
 [2015_june_affirmative_action.png](news-clippings/2015_june_affirmative_action.png)
 [2015_june_goodbye_1.png](news-clippings/2015_june_goodbye_1.png)
 [2015_june_goodbye_2.png](news-clippings/2015_june_goodbye_2.png)
-[2015_june_segregation.png](news-clippings/2015_june_segregation.png)
-[2015_june_sexism.png](news-clippings/2015_june_sexism.png)
-[2015_june_transgender.png](news-clippings/2015_june_transgender.png)
 [2015_may_depression.png](news-clippings/2015_may_depression.png)
 [2015_may_expectations.png](news-clippings/2015_may_expectations.png)
 [2015_oct_voting.png](news-clippings/2015_oct_voting.png)
 [2015_sept_voter_registration.png](news-clippings/2015_sept_voter_registration.png)
-[2016_march_racial_diversity.png](news-clippings/2016_march_racial_diversity.png)
-[2016_may_diversity_1.png](news-clippings/2016_may_diversity_1.png)
-[2016_may_diversity_2.png](news-clippings/2016_may_diversity_2.png)
+
 [2016_nov_pres.png](news-clippings/2016_nov_pres.png)
 [2016_oct_no_on_2.png](news-clippings/2016_oct_no_on_2.png)
 [2016_oct_rebell.png](news-clippings/2016_oct_rebell.png)
 [2016_sept_ap_update.png](news-clippings/2016_sept_ap_update.png)
 [2016_sept_ed_on_ed.png](news-clippings/2016_sept_ed_on_ed.png)
 [2016_sept_lunch_b.png](news-clippings/2016_sept_lunch_b.png)
-[2017_april_conservative.png](news-clippings/2017_april_conservative.png)
 [2017_feb_ap.png](news-clippings/2017_feb_ap.png)
 [2017_jan_class_reps.png](news-clippings/2017_jan_class_reps.png)
-[2017_jan_level_up.png](news-clippings/2017_jan_level_up.png)
-[2017_june_socioemotional.png](news-clippings/2017_june_socioemotional.png)
-[2017_march_censor.png](news-clippings/2017_march_censor.png)
 [2017_march_tenure_1.png](news-clippings/2017_march_tenure_1.png)
 [2017_march_tenure_2.png](news-clippings/2017_march_tenure_2.png)
 [2017_may_president.png](news-clippings/2017_may_president.png)
 [2019_sept_welcome.png](news-clippings/2019_sept_welcome.png)
-
