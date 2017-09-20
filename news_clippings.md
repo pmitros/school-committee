@@ -113,24 +113,22 @@ School Committee
 ----
 
 The Register Forum recently started reporting more on school committee
-meetings, and did a very good job summarizing them:
+meetings, and did a very nice job summarizing them:
 
 * At the [December 6, 2016 meeting](news-clippings/2016_dec_school_committee.png), the school committee discussed menstrual hygine products in bathrooms (something students pushed hard on and won (article 1 [(pg 1)](news-clippings/2017_feb_hygiene_1.png)/[(pg 2)](news-clippings/2017_feb_hygiene_2.png) and [article 2](news-clippings/2016_dec_feminine.png)), the Cambridge fire, and athletics coach evaluation
-* The [March 2017](news-clippings/2017_march_school_committee.png) discussed union contract negotiations, 9th grade leveling up, lack of space and teachers for science classes, and expanding mediation. 
-* The [May 2017](news-clippings/2017_may_school_committee_extension.png) meeting discussed equality in athletics, strategic initiatives, and recognized student reps.
-* The [June 2017](news-clippings/2017_june_school_committee.png) meeting discussed the extensions school, and why it was helpful to many students, sexual assault plans, and the process around hiring a coach. 
+* The [March 2017](news-clippings/2017_march_school_committee.png) discussed union contract negotiations, 9th grade leveling up, lack of space and teachers for science classes, and expanding mediation
+* The [May 2017](news-clippings/2017_may_school_committee_extension.png) meeting discussed equality in athletics, strategic initiatives, and recognized student reps
+* The [June 2017](news-clippings/2017_june_school_committee.png) meeting discussed the extensions school, and why it was helpful to many students, sexual assault plans, and the process around hiring a coach
+* The [November 2016](news-clippings/2016_nov_sc_tracking.png) meeting discussed leveling up, crew funding, CPAC, the achievement gap, and a report from the superintendent.
+* The [October 2016](news-clippings/2016_oct_sc_update.png) meeting talked about special needs students, student government activities, failing algebra programs, and no-cut sports teams
+* The [September 2016](news-clippings/2016_sept_sc_update.png) meeting discussed dress code, junior kindergarten, overcrowding, chronic absenteeism, and the student government's work on the achievement gap 
+* The [June 2016](news-clippings/2016_jube_sc_diversity.png) meeting focused on issues of race, with much empathy, but little specific action
+* The [major issues](news-clippings/2016_nov_sc_rep.png) addressed by the commmittee in 2016 were leveling-up, dress code revisions, school climate, teacher diversity, sexual assauly, and creating safe spaces.
 
-[2016_jube_sc_diversity.png](news-clippings/2016_jube_sc_diversity.png)
+There was also some coverage of the past two elections:
 
-[2015_sc_election.png](news-clippings/2015_sc_election.png)
-[2013_nov_new_sc_1.png](news-clippings/2013_nov_new_sc_1.png)
-[2013_nov_new_sc_2.png](news-clippings/2013_nov_new_sc_2.png)
-[2016_nov_sc_rep.png](news-clippings/2016_nov_sc_rep.png)
-[2016_nov_sc_tracking.png](news-clippings/2016_nov_sc_tracking.png)
-[2016_oct_sc_update.png](news-clippings/2016_oct_sc_update.png)
-[2016_sept_sc_update.png](news-clippings/2016_sept_sc_update.png)
-[2015_candidate_profiles_1.png](news-clippings/2015_candidate_profiles_1.png)
-[2015_candidate_profiles_2.png](news-clippings/2015_candidate_profiles_2.png)
+* In 2015, there were [two](news-clippings/2015_candidate_profiles_1.png) [pages](news-clippings/2015_candidate_profiles_2.png) of candidate profiles, and we [were fortunate](news-clippings/2015_sc_election.png) to have Emily Dexter and Manikka Bowman add their talents to the school committee. Issues identified were perception of the school system, lack of inclusiveness, and lack of diversity in honors classes.
+* In 2013, we [were fortunate](news-clippings/2013_nov_new_sc_1.png) to have Fran Cronin and Kathleen Kelly add their talents to the school committee. Will MacArthur (expressed skepticism)[2013_nov_new_sc_2.png](news-clippings/2013_nov_new_sc_2.png) about both.
 
 
 Curriculum
@@ -267,10 +265,6 @@ Still sorting
 
 [2013_dec_english_student_math_world.png](news-clippings/2013_dec_english_student_math_world.png)
 [2013_feb_bubble.png](news-clippings/2013_feb_bubble.png)
-
-
-
-
 [2014_dec_do_protests_work.png](news-clippings/2014_dec_do_protests_work.png)
 [2014_dec_entrepreneurship.png](news-clippings/2014_dec_entrepreneurship.png)
 [2014_dec_walkout_1.png](news-clippings/2014_dec_walkout_1.png)
