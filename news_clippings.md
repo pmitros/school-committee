@@ -106,7 +106,7 @@ may help guide policy decisions:
   of classes which often have drastically different staffing
   requirements.
 
-Student Government Candidate Profiles
+Student Government
 ----
 
 Among my favorite articles we saw the reasons many students ran for
@@ -120,6 +120,8 @@ profiles](news-clippings/2015_may_candidate_profiles.png) and the [2016](news-cl
 * "The AVF policy is problematic"
 * "The stigma surrounding CP and Honors classes ... Honors students are automatically the 'smart kids'"
 * "Students are not given enough of a role in making the decisions that affect them. While student complaints are listened to, they are rarely addressed"
+
+On the other hand, actual student government efforts have been more focused on [fundraising and events](news-clippings/2017_jan_class_reps.png).
 
 And, of course, there are efforts to [reform the school elections](news-clippings/2015_nov_student_government.png).
 
@@ -210,6 +212,7 @@ Standardized tests, accreditation, rankings
 * The [SAT was redesigned](news-clippings/2015_nov_testing.png) to make it more meaninful in 2014, with more changes [coming in 2016](news-clippings/2014_apr_sat_changes.png). It still drew a harsh [critique](news-clippings/2014_mar_revamp_sat.png).
 * CRLS did poorly in the [Boston Magazine](news-clippings/2014_sept_boston_ranking_1.png) [ranking](news-clippings/2014_sept_boston_ranking_2.png), for reasons which were suspect and highlighted some of the issues with overreliance on simple measures such as test scores and student:teacher ratios.
 * In contrast, Massachusetts as a whole did [very](news-clippings/2015_dec_bay_shine.png) [well](news-clippings/2015_dec_bay_shine_2.png) on the PISA exam. PISA is a little better than the MCAS, since there's a bit less teaching-to-the-test, and tends to be used a little more sensibly.
+* The AP program doubled from [2012 to 2016](news-clippings/2016_sept_ap_update.png), and students passed at high rates. On the other hand, an editorial writer bring up some [excellent criticisms](news-clippings/2017_feb_ap.png) of the AP program (albeit without a clear expression of good alternatives; all education systems have some flaws)
 
 School divisions
 ----
@@ -305,20 +308,7 @@ Hellos and farewells
 * A [class of 2019 welcome](news-clippings/2019_sept_welcome.png) to new students talks about some of the adjustments freshman face.
 * From the [student body president](news-clippings/2016_nov_pres.png) on the November election. It's a good article. Choice quotes: "Another fear that I have seen debilitate our entire community is the fear to speak one's truth. For me, I have been afraid to tell my black friends that I disagree with them on certain issues for fear that I'll be ostracized or deemed an Uncle Tom. ... Others might be afraid that speaking their mind will result in being deemed ratchet or even a silencer of free speech." "And for students, I challenge you to engage in conversation with fearlessness."
 
-National politics
+State and national school politics
 ----
 
-There was much discussion about national politics, most unrelated to education, but there were some discussions about [declining rates of voting among students](news-clippings/2015_oct_voting.png), unfortunately, without a survey of CRLS, [voter registration](news-clippings/2015_sept_voter_registration.png), and similar in 2015. 
-
-Still sorting
-=====
-
-[2016_oct_no_on_2.png](news-clippings/2016_oct_no_on_2.png)
-
-[2016_sept_ap_update.png](news-clippings/2016_sept_ap_update.png)
-[2016_sept_ed_on_ed.png](news-clippings/2016_sept_ed_on_ed.png)
-
-[2017_feb_ap.png](news-clippings/2017_feb_ap.png)
-[2017_jan_class_reps.png](news-clippings/2017_jan_class_reps.png)
-
-
+There was much discussion about national politics, most unrelated to education, but there were some discussions about [declining rates of voting among students](news-clippings/2015_oct_voting.png), unfortunately, without a survey of CRLS, [voter registration](news-clippings/2015_sept_voter_registration.png), and similar. In addition, there was an editorial against [charter schools](news-clippings/2016_oct_no_on_2.png). And, I am extremely sorry to have missed what appears to have been an [exceptionally fascinating show](news-clippings/2016_sept_ed_on_ed.png).
