@@ -45,7 +45,6 @@ my campaign](https://secure.actblue.com/donate/mitros), help spread
 the word, and remember to vote in November. Finally, you can join my
 committee and help the campaign as a volunteer.
 
-
 My background
 -----------------------
 

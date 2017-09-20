@@ -222,20 +222,19 @@ Standardized tests
 School divisions
 ----
 
-Articles talk about [freshman-senior
+Many articles talk about [racial
+divides](news-clippings/2013_feb_race.png), but other divides are
+raised as well. Articles talk about [freshman-senior
 divides](news-clippings/2013_nov_freshman_senior_divide.png), issues
 facing foreign students in 2014 ([pg
 1](news-clippings/2013_nov_international_1.png) [pg
 2](news-clippings/2013_nov_international_2.png)) and again [in
 2017](news-clippings/2016_jan_foreign_students.png) (which suggest
 need for better on-boarding and expectation-setting, as well as better
-support for ESL students)
-
-
-[2014_dec_ward_rivalries.png](news-clippings/2014_dec_ward_rivalries.png)
-
-[2013_feb_race.png](news-clippings/2013_feb_race.png)
-[2017_jan_superficial_diversity.png](news-clippings/2017_jan_superficial_diversity.png)
+support for ESL students), rivalaries based on
+[wards](news-clippings/2014_dec_ward_rivalries.png). And, of course,
+people talk about [stereotyping and superficial
+diversity](news-clippings/2017_jan_superficial_diversity.png).
 
 School climate
 ----
