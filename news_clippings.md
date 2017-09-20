@@ -137,11 +137,7 @@ There was also some coverage of the past two elections:
 Curriculum
 ----
 
-Curriculum was discussed quite a bit. I'll omit many articles on specific classes added and removed, but there was a series of articles on the Common Core and the change from MCAS to PARCC as it pertains to CRLS. The Oct 2013 issue explained the overall change ([pg 1](news-clippings/2013_oct_common_core_1.png), [pg 2](news-clippings/2013_oct_common_core_2.png)). There was a critique of how [such common standards](news-clippings/2014_jan_common_core.png) sometimes failed to meet the individual needs of different students, and [some notes](news-clippings/2014_mar_cambridge_common_core.png) about how it moves algebra to later grades and testing online. 
-
-[2015_april_common_core.png](news-clippings/2015_april_common_core.png)
-[2015_april_survey_common_core.png](news-clippings/2015_april_survey_common_core.png)
-[2015_may_common_core.png](news-clippings/2015_may_common_core.png)
+Curriculum was discussed quite a bit. I'll omit many articles on specific classes added and removed, but there was a series of articles on the Common Core and the change from MCAS to PARCC as it pertains to CRLS. The Oct 2013 issue explained the overall change ([pg 1](news-clippings/2013_oct_common_core_1.png), [pg 2](news-clippings/2013_oct_common_core_2.png)). There was a critique of how [such common standards](news-clippings/2014_jan_common_core.png) sometimes failed to meet the individual needs of different students, and [some notes](news-clippings/2014_mar_cambridge_common_core.png) about how it moves algebra to later grades and testing online. In 2015, an article ([pg 1](news-clippings/2015_june_parcc.png) [pg 2](news-clippings/2015_june_parcc_2.png)) discussed how the district flip-flopped, and decided not to adopt PARCC. The rationale for the flip-flop, as presented in the article, felt rock-solid. Patty Nolan pointed out that the PARCC "is being developed and run by a for-profit company, which may lead to greater costs and less transparency." We already spend far too much on testing, and the whole point of such testing is increased transparency. Common core was confused with [No Child Left Behind](news-clippings/2015_april_common_core.png). This was disentangled in another article which pointed out that teachers were universally in [favor of Common Core](news-clippings/2015_april_survey_common_core.png), but opposed to the high-stakes testing which went with it. Despite the coverage, most students [knew fairly little](news-clippings/2015_may_common_core.png) about Common Core.
 
 
 Of the proposed changes to curriculum, one which came up [several times](news-clippings/2017_april_mandatory_civics.png) was a required [civics course](news-clippings/2015_april_civics_requirement.png) (and there were several similar arguments for philosophy, as well as a range of diversity-related classes, especially in regards to moving history to be [less focused on Europe](news-clippings/2014_mar_history_curriculum.png)).
@@ -202,18 +198,12 @@ Programs and organizations
 * Friends of CRLS funds many programs and links to HSBA [1](news-clippings/2014_apr_friends_of_crls.png) [2.1](news-clippings/2014_nov_friends_of_crls.png)/[2.2](news-clippings/2014_nov_friends_of_crls_2.png)
 * The school has [511 plans for students with disabilities](news-clippings/2011_june_411_on_504_plans.png),
 
-
-Standardized tests
+Standardized tests, accreditation, rankings
 ----
 
-[2012_Nov_NEASC_1.png](news-clippings/2012_Nov_NEASC_1.png)
-[2012_Nov_NEASC_2.png](news-clippings/2012_Nov_NEASC_2.png)
-[2014_april_standardized_testing.png](news-clippings/2014_april_standardized_testing.png)
-[2015_nov_testing.png](news-clippings/2015_nov_testing.png)
-[2014_apr_sat_changes.png](news-clippings/2014_apr_sat_changes.png)
-[2014_mar_revamp_sat.png](news-clippings/2014_mar_revamp_sat.png)
-[2015_june_parcc_2.png](news-clippings/2015_june_parcc_2.png)
-[2015_june_parcc.png](news-clippings/2015_june_parcc.png)
+* CRLS was accredited by NEASC, which holds a standard higher than stte/federal. It went on probabation in 2014 ([pg 1](news-clippings/2012_Nov_NEASC_1.png) [pg 2](news-clippings/2012_Nov_NEASC_2.png))
+* A [2014 article](news-clippings/2014_april_standardized_testing.png) talks about how curriculum standards and tests scare off good teachers and discourage risk taking.
+* The [SAT was redesigned](news-clippings/2015_nov_testing.png) to make it more meaninful in 2014, with more changes [coming in 2016](news-clippings/2014_apr_sat_changes.png). It still drew a harsh [critique](news-clippings/2014_mar_revamp_sat.png).
 
 School divisions
 ----
