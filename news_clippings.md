@@ -204,22 +204,22 @@ Programs and organizations
 
 * Upperclassmen mentor freshman. [pg 1](news-clippings/2014_jan_mentoring_1.png) [pg 2](news-clippings/2014_jan_mentoring_2.png)
 * Friends of CRLS funds many programs and links to HSBA [1](news-clippings/2014_apr_friends_of_crls.png) [2.1](news-clippings/2014_nov_friends_of_crls.png)/[2.2](news-clippings/2014_nov_friends_of_crls_2.png)
-* The school has [511 plans for students with disabilities](news-clippings/2011_june_411_on_504_plans.png),
+* The school has [511 plans for students with disabilities](news-clippings/2011_june_411_on_504_plans.png).
 
 Standardized tests, accreditation, rankings
 ----
 
-* CRLS was accredited by NEASC, which holds a standard higher than stte/federal. It went on probabation in 2014 ([pg 1](news-clippings/2012_Nov_NEASC_1.png) [pg 2](news-clippings/2012_Nov_NEASC_2.png))
-* A [2014 article](news-clippings/2014_april_standardized_testing.png) talks about how curriculum standards and tests scare off good teachers and discourage risk taking.
+* CRLS was accredited by NEASC, which holds a standard higher than state/federal. It went on probabation in 2014 ([pg 1](news-clippings/2012_Nov_NEASC_1.png) [pg 2](news-clippings/2012_Nov_NEASC_2.png))
+* A [2014 article](news-clippings/2014_april_standardized_testing.png) talks about how curriculum standards and tests scare off good teachers and discourage risk taking. Not mentioned is the abundant evidence for how such risk taking is essential to good education systems. 
 * The [SAT was redesigned](news-clippings/2015_nov_testing.png) to make it more meaninful in 2014, with more changes [coming in 2016](news-clippings/2014_apr_sat_changes.png). It still drew a harsh [critique](news-clippings/2014_mar_revamp_sat.png).
-* CRLS did poorly in the [Boston Magazine](news-clippings/2014_sept_boston_ranking_1.png) [ranking](news-clippings/2014_sept_boston_ranking_2.png), for reasons which were suspect and highlighted some of the issues with overreliance on simple measures such as test scores and student:teacher ratios.
-* In contrast, Massachusetts as a whole did [very](news-clippings/2015_dec_bay_shine.png) [well](news-clippings/2015_dec_bay_shine_2.png) on the PISA exam. PISA is a little better than the MCAS, since there's a bit less teaching-to-the-test, and tends to be used a little more sensibly.
-* The AP program doubled from [2012 to 2016](news-clippings/2016_sept_ap_update.png), and students passed at high rates. On the other hand, an editorial writer bring up some [excellent criticisms](news-clippings/2017_feb_ap.png) of the AP program (albeit without a clear expression of good alternatives; all education systems have some flaws)
+* CRLS did poorly in the [Boston Magazine](news-clippings/2014_sept_boston_ranking_1.png) [ranking](news-clippings/2014_sept_boston_ranking_2.png), for reasons which were suspect and which highlighted some of the issues with overreliance on simple measures such as test scores and student:teacher ratios.
+* In contrast, Massachusetts as a whole did [very](news-clippings/2015_dec_bay_shine.png) [well](news-clippings/2015_dec_bay_shine_2.png) on the PISA exam. PISA is a little better than the MCAS since there's a bit less teaching-to-the-test and tends to be used a little more sensibly since there is no associated loss of school funding.
+* The AP program doubled from [2012 to 2016](news-clippings/2016_sept_ap_update.png), and students passed at high rates. On the other hand, an editorial writer bring up some [excellent criticisms](news-clippings/2017_feb_ap.png) of the AP program (albeit without a clear expression of good alternatives)
 
 School divisions
 ----
 
-Many articles talk about [racial/gender/LGBTQ
+Many articles talk about the well-explored [racial/gender/LGBTQ
 divides](news-clippings/2013_feb_race.png), but other divides are
 raised as well.
 
@@ -231,18 +231,19 @@ facing foreign students in 2014 ([pg
 2017](news-clippings/2016_jan_foreign_students.png) (which suggest
 need for better on-boarding and expectation-setting, as well as better
 support for ESL students), rivalaries based on
-[wards](news-clippings/2014_dec_ward_rivalries.png). And, of course,
-people talk about [stereotyping and superficial
-diversity](news-clippings/2017_jan_superficial_diversity.png).
-
-The three lunches introduce a [different kind of division](news-clippings/2016_sept_lunch_b.png)
+[wards](news-clippings/2014_dec_ward_rivalries.png) and part of the
+city kids live in. Of course, people talk about [stereotyping and
+superficial
+diversity](news-clippings/2017_jan_superficial_diversity.png) as
+well. The three lunches introduce a [different kind of
+division](news-clippings/2016_sept_lunch_b.png).
 
 The [tracks lead to division as
 well](news-clippings/2014_feb_honors_gap.png): "if you take all Honors
 and AP, you essentially don't know anyone who doesn't take those level
-classes." Much of this division [is racial](news-clippings/2014_nov_ap_education_gap.png)
+classes." Much of this division [is racial](news-clippings/2014_nov_ap_education_gap.png).
 
-On the "standard" divides, we see them in
+On the race/gender/LGBTQ/ethnic divides, we see them in
 [extracurriculars](news-clippings/2016_march_racial_diversity.png),
 [sports and classes](news-clippings/2015_june_segregation.png). We
 have calls for addressing
@@ -255,8 +256,8 @@ movement](news-clippings/2014_no_he_meets_she.png), keeping
 [affirmative action](news-clippings/2015_june_affirmative_action.png),
 and so on.
 
-Curiously, despite the push for integration, the school supports
-prestige clubs such as the [National
+Curiously, despite the push for integration, the school continues to
+support prestige clubs such as the [National
 Honor](news-clippings/2014_may_crls_nhs_1.png)
 [Society](news-clippings/2014_may_crls_nhs_2.png)
 
