@@ -229,11 +229,10 @@ School climate
 [2016_feb_sitting_desks.png](news-clippings/2016_feb_sitting_desks.png)
 
 
-CEA
+Cambridge Education Association
 ----
-[2013_april_union.png](news-clippings/2013_april_union.png)
-[2014_feb_cea_union_1.png](news-clippings/2014_feb_cea_union_1.png)
-[2014_feb_cea_union_2.png](news-clippings/2014_feb_cea_union_2.png)
+
+An article gave an overview of [teachers' unions](news-clippings/2013_april_union.png) nationwide. In 2014, the contract negotiations became a little bit heated ([pg 1](news-clippings/2014_feb_cea_union_1.png) [pg 2](news-clippings/2014_feb_cea_union_2.png)). I'm still trying to figure out the major points of contention.
 
 Interviews
 ----
