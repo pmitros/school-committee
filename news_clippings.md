@@ -173,9 +173,7 @@ Student rights
 
 CRLS is monitored by [45 cameras](news-clippings/2013_nov_crls_surveillance.png). The 69% of students who are even aware of this seem generally okay with this level of surveillance. 8% have had their posessions searched on campus. Indeed, most students would rather have [more security](news-clippings/2013_nov_safety_perception.png) rather than more privacy, despite already feeling safe.
 
-[2015_jan_free_speech.png](news-clippings/2015_jan_free_speech.png)
-[2016_april_free_speech.png](news-clippings/2016_april_free_speech.png)
-[2016_feb_no_free_speech.png](news-clippings/2016_feb_no_free_speech.png)
+The Register Forum is in favor of free speech, except [in school](news-clippings/2015_jan_free_speech.png). An [editorial](news-clippings/2016_april_free_speech.png) disagreed, and said we shouldn't have free speech where speech might be offensive. Another piece said [we should have free speech](news-clippings/2016_feb_no_free_speech.png), although without commenting on that right in the context of school.
 
 Digital
 ----
