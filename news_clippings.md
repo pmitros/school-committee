@@ -45,7 +45,7 @@ may help guide policy decisions:
   break](news-clippings/2016_jan_homework_over_break.png). Of course,
   reducing or removing homework isn't a question of simply not
   assigning it; homework-free classes need a pretty significant
-  restructuring so the same learning happens in class.
+  restructuring so the same learning happens in class. Some of the above is tied back to [student happiness](news-clippings/2015_may_expectations.png) and possibly [depression](news-clippings/2015_may_depression.png).
 * The [vast majority](news-clippings/2013_april_neap.png) -- 82% -- of
   CRLS students find classes to be rigorous enough. Only 7% thought
   they should be more challenging.
@@ -118,7 +118,7 @@ profiles](news-clippings/2015_may_candidate_profiles.png) and the [2016](news-cl
 * "The stigma surrounding CP and Honors classes ... Honors students are automatically the 'smart kids'"
 * "Students are not given enough of a role in making the decisions that affect them. While student complaints are listened to, they are rarely addressed"
 
-And, of course, there are efforts to [reform the elections](news-clippings/2015_nov_student_government.png).
+And, of course, there are efforts to [reform the school elections](news-clippings/2015_nov_student_government.png).
 
 School Committee
 ----
@@ -143,6 +143,7 @@ There was also some coverage of the past two elections:
 * In 2015, there were [two](news-clippings/2015_candidate_profiles_1.png) [pages](news-clippings/2015_candidate_profiles_2.png) of candidate profiles, and we [were fortunate](news-clippings/2015_sc_election.png) to have Emily Dexter and Manikka Bowman add their talents to the school committee. Issues identified were perception of the school system, lack of inclusiveness, and lack of diversity in honors classes.
 * In 2013, we [were fortunate](news-clippings/2013_nov_new_sc_1.png) to have Fran Cronin and Kathleen Kelly add their talents to the school committee. Will MacArthur [expressed skepticism](news-clippings/2013_nov_new_sc_2.png) about both.
 
+Curiously, the [CRLS Mission Statement](news-clippings/2014_may_crls_mission_statement.png) was developed by teachers, a parent (Emily Dexter, pre-election) and a student after the school was criticized for not having enough homogeny under the previous one.
 
 Curriculum
 ----
@@ -151,7 +152,7 @@ Curriculum was discussed quite a bit.
 
 There was a series of articles on the Common Core and the change from MCAS to PARCC as it pertains to CRLS. The Oct 2013 issue explained the overall change ([pg 1](news-clippings/2013_oct_common_core_1.png), [pg 2](news-clippings/2013_oct_common_core_2.png)). There was a critique of how [such common standards](news-clippings/2014_jan_common_core.png) sometimes failed to meet the individual needs of different students, and [some notes](news-clippings/2014_mar_cambridge_common_core.png) about how it moves algebra to later grades and testing online. In 2015, an article ([pg 1](news-clippings/2015_june_parcc.png) [pg 2](news-clippings/2015_june_parcc_2.png)) discussed how the district flip-flopped, and decided not to adopt PARCC. The rationale for the flip-flop, as presented in the article, felt rock-solid. Patty Nolan pointed out that the PARCC "is being developed and run by a for-profit company, which may lead to greater costs and less transparency." We already spend far too much on testing, and the whole point of such testing is increased transparency. Common core was confused with [No Child Left Behind](news-clippings/2015_april_common_core.png). This was disentangled in another article which pointed out that teachers were universally in [favor of Common Core](news-clippings/2015_april_survey_common_core.png), but opposed to the high-stakes testing which went with it. Despite the coverage, most students [knew fairly little](news-clippings/2015_may_common_core.png) about Common Core.
 
-The most major curriculum change the school has been trying to push is a move from tracked education to kids in the same classroom. The [level up](news-clippings/2017_jan_level_up.png) program moved all freshman English and history kids into the same "honors" classroom. The goal of leveling up is to "decrease the biased, at times capricious, leveling of students," which is a goal I agree with. The means -- teaching all kids the same thing regardless of level or background -- seems biased, at times capricious, depending on the diversity of backgrounds and skills children comes in with. Some kids will be bored, and others, left behind. Differentiated instruction requires a bit more than just putting kids in the same classrooms...
+The most major curriculum change the school has been trying to push is a move from tracked education to kids in the same classroom. The [level up](news-clippings/2017_jan_level_up.png) program moved all freshman English and history kids into the same "honors" classroom. The goal of leveling up is to "decrease the biased, at times capricious, leveling of students," which is a goal I agree with. The means -- teaching all kids the same thing regardless of level or background -- seems biased, at times capricious, depending on the diversity of backgrounds and skills children comes in with. Some kids will be bored, and others, left behind. Differentiated instruction requires a bit more than just putting kids in the same classrooms. [An English Student in a Math World](news-clippings/2013_dec_english_student_math_world.png) talks about how little support is given to kids who want to excel in English. Without a means to do that, kids can develop emotional and social problems. The author concluded she was "not as smart as [her] peers."
 
 Of the proposed changes to curriculum, one which came up [several times](news-clippings/2017_april_mandatory_civics.png) was a required [civics course](news-clippings/2015_april_civics_requirement.png) (and there were several similar arguments for philosophy, as well as a range of diversity-related classes, especially in regards to moving history to be [less focused on Europe](news-clippings/2014_mar_history_curriculum.png)). Another article which jumped out at me, not so much for the proposed course but for the language used to describe it, was [gender theory](news-clippings/2017_may_gender_theory.png)
 
@@ -233,6 +234,13 @@ On the "standard" divides, we see them in
 have calls for addressing
 [sexism](news-clippings/2015_june_sexism.png), [transgender
 issues](news-clippings/2015_june_transgender.png),
+[cultural](news-clippings/2014_may_cultural_appropriation.png)
+[appropriation](news-clippings/2015_april_cultural_appropriation.png),
+[female-dominance of the feminist
+movement](news-clippings/2014_no_he_meets_she.png), keeping
+[affirmative action](news-clippings/2015_june_affirmative_action.png),
+and so on.
+
 
 Bubbles
 ----
@@ -254,11 +262,10 @@ who don't already agree with you, and visible in a positive way. My
 take on many protests is summarized in [this
 video](https://www.youtube.com/watch?v=rE3j_RHkqJc).
 
-School environment
+Physical school environment
 ----
 
-Students called for [standing desks](news-clippings/2016_feb_sitting_desks.png)
-
+Students called for [standing desks](news-clippings/2016_feb_sitting_desks.png). They praised how the [school renovation helped the arts program](news-clippings/2014_mat_crls_renovations_arts.png).
 
 Cambridge Education Association
 ----
@@ -274,32 +281,32 @@ Interviews
 * In a [later interview](news-clippings/2017_jan_salim.png), superintendent Salim said a bit more. At this point, he had visited all eighteen schools, and was able to accurately identify issues and start to prioritize. I'd summarize, but there's a bit too much -- it's worth a read.
 * And, former Register Forum editor [Will MacArthur](news-clippings/2017_jan_will_macarthur.png) was interviewed when he announced his candidacy
 
+National politics
+----
+
+There was much discussion about national politics, most unrelated to education, but there were some discussions about [declining rates of voting among students](news-clippings/2015_oct_voting.png), unfortunately, without a survey of CRLS, [voter registration](news-clippings/2015_sept_voter_registration.png), and similar in 2015. 
+
 Still sorting
 =====
 
-[2013_dec_english_student_math_world.png](news-clippings/2013_dec_english_student_math_world.png)
 
 
-[2014_dec_entrepreneurship.png](news-clippings/2014_dec_entrepreneurship.png)
-[2014_mat_crls_renovations_arts.png](news-clippings/2014_mat_crls_renovations_arts.png)
-[2014_may_crls_mission_statement.png](news-clippings/2014_may_crls_mission_statement.png)
+
+
 [2014_may_crls_nhs_1.png](news-clippings/2014_may_crls_nhs_1.png)
 [2014_may_crls_nhs_2.png](news-clippings/2014_may_crls_nhs_2.png)
-[2014_may_cultural_appropriation.png](news-clippings/2014_may_cultural_appropriation.png)
-[2014_no_he_meets_she.png](news-clippings/2014_no_he_meets_she.png)
 [2014_sept_boston_ranking_1.png](news-clippings/2014_sept_boston_ranking_1.png)
 [2014_sept_boston_ranking_2.png](news-clippings/2014_sept_boston_ranking_2.png)
-[2015_april_cultural_appropriation.png](news-clippings/2015_april_cultural_appropriation.png)
 [2015_dec_bay_shine_2.png](news-clippings/2015_dec_bay_shine_2.png)
 [2015_dec_bay_shine.png](news-clippings/2015_dec_bay_shine.png)
 [2015_jan_us_china_testing.png](news-clippings/2015_jan_us_china_testing.png)
-[2015_june_affirmative_action.png](news-clippings/2015_june_affirmative_action.png)
+
 [2015_june_goodbye_1.png](news-clippings/2015_june_goodbye_1.png)
 [2015_june_goodbye_2.png](news-clippings/2015_june_goodbye_2.png)
-[2015_may_depression.png](news-clippings/2015_may_depression.png)
-[2015_may_expectations.png](news-clippings/2015_may_expectations.png)
-[2015_oct_voting.png](news-clippings/2015_oct_voting.png)
-[2015_sept_voter_registration.png](news-clippings/2015_sept_voter_registration.png)
+
+
+
+
 
 [2016_nov_pres.png](news-clippings/2016_nov_pres.png)
 [2016_oct_no_on_2.png](news-clippings/2016_oct_no_on_2.png)
