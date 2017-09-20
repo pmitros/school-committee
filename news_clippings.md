@@ -112,7 +112,7 @@ profiles](news-clippings/2015_may_candidate_profiles.png) and the [2016](news-cl
 School Committee
 ----
 
-The Register Forum recently started reporting on school committee
+The Register Forum recently started reporting more on school committee
 meetings, and did a very good job summarizing them:
 
 * At the [December 6, 2016 meeting](news-clippings/2016_dec_school_committee.png), the school committee discussed menstrual hygine products in bathrooms (something students pushed hard on and won (article 1 [(pg 1)](news-clippings/2017_feb_hygiene_1.png)/[(pg 2)](news-clippings/2017_feb_hygiene_2.png) and [article 2](news-clippings/2016_dec_feminine.png)), the Cambridge fire, and athletics coach evaluation
@@ -198,7 +198,7 @@ There was a long series on the policy on punishing students for missed attendanc
 Dress code
 ----
 
-Much of the push for the new dress code came from a series of a long student drive, including no fewer than five articles in the Register, including [2014_nov_dress_code.png](news-clippings/2014_nov_dress_code.png). [2015_june_dress_code.png](news-clippings/2015_june_dress_code.png) [2015_may_dress_code.png](news-clippings/2015_may_dress_code.png) [2015_sept_sexist_dress.png](news-clippings/2015_sept_sexist_dress.png) [2016_june_dress_code_divides.png](news-clippings/2016_june_dress_code_divides.png)
+Much of the push for the new dress code came from a series of a long student drive, including no fewer than five articles in the Register, including [a balanced 2014 introduction of the issue](news-clippings/2014_nov_dress_code.png) which pointed out 2-3x as many girls were effected as boys, [an opposing piece in 2015](news-clippings/2015_may_dress_code.png), a [scathing 2015 piece](news-clippings/2015_june_dress_code.png), a piece claiming that the dress code ["sets a precedent that sexual assault is unavoidable and victims are completely responsible"](news-clippings/2015_sept_sexist_dress.png), and a final piece claiming the dress code is [among other things, racist](news-clippings/2016_june_dress_code_divides.png).
 
 Programs and organizations
 ----
