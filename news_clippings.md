@@ -9,6 +9,9 @@ share it in case others found it helpful. Please note the commentary
 is not proof-read and likely contains typos, errors, misreads, as well
 as occasional cynical commentary.
 
+This goes without saying, but the views on this page also don't
+always represent my own :)
+
 Data
 ----
 
