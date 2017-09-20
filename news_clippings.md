@@ -198,13 +198,9 @@ Much of the push for the new dress code came from a series of a long student dri
 Programs and organizations
 ----
 
-[2014_jan_mentoring_1.png](news-clippings/2014_jan_mentoring_1.png)
-[2014_jan_mentoring_2.png](news-clippings/2014_jan_mentoring_2.png)
-[2014_nov_friends_of_crls_2.png](news-clippings/2014_nov_friends_of_crls_2.png)
-[2014_nov_friends_of_crls.png](news-clippings/2014_nov_friends_of_crls.png)
-[2014_apr_friends_of_crls.png](news-clippings/2014_apr_friends_of_crls.png)
-
-[511 plans for students with disabilities](news-clippings/2011_june_411_on_504_plans.png),
+* Upperclassmen mentor freshman. [pg 1](news-clippings/2014_jan_mentoring_1.png) [pg 2](news-clippings/2014_jan_mentoring_2.png)
+* Friends of CRLS funds many programs and links to HSBA [1](news-clippings/2014_apr_friends_of_crls.png) [2.1](news-clippings/2014_nov_friends_of_crls.png)/[2.2](news-clippings/2014_nov_friends_of_crls_2.png)
+* The school has [511 plans for students with disabilities](news-clippings/2011_june_411_on_504_plans.png),
 
 
 Standardized tests
