@@ -165,9 +165,11 @@ Of course, adding more to the curriculum may require restructuring the school da
 
 Underlying curriculum is the purpose of school, which was discussed as well [pg 1](news-clippings/2013_jan_why_school_1.png) [pg 2](news-clippings/2013_jan_why_school_2.png). 
 
-The school has a lead teacher for [social-emotional learning](news-clippings/2017_june_socioemotional.png), but many educators don't quite see the value. 
+The school has a lead teacher for [social-emotional learning](news-clippings/2017_june_socioemotional.png), but many educators in CRLS don't see the value. 
 
 The Register Forum [reported on](clippings/2014_dec_entrepreneurship.png) Mr. Rubin running an illegal class on entrepreneurship at CPSD, with students Nur, Ngo, Scalzi, Watson, Jean-Babtiste, and many others violating CPSD policies against commercial activity on campus. Indeed, posting this issue of the Register Forum on the web site, or creating it on CPSD computers, violated school policy and ought to be taken down immediately.
+
+And one of my favorite articles compared the [Chinese and US education systems](news-clippings/2015_jan_us_china_testing.png). It's helpful to look at such articles with a very open mind; they're designed to shock, but most school systems have positive and negative aspects. It's good to tease those apart and learn from each other, rather than merely discounting something as "other." Coincidentally, having taught in China, and interacted with entrepreneurs there, I have seen no support for the statement that the Chinese "lack creativity."
 
 Student rights
 ----
@@ -206,6 +208,8 @@ Standardized tests, accreditation, rankings
 * CRLS was accredited by NEASC, which holds a standard higher than stte/federal. It went on probabation in 2014 ([pg 1](news-clippings/2012_Nov_NEASC_1.png) [pg 2](news-clippings/2012_Nov_NEASC_2.png))
 * A [2014 article](news-clippings/2014_april_standardized_testing.png) talks about how curriculum standards and tests scare off good teachers and discourage risk taking.
 * The [SAT was redesigned](news-clippings/2015_nov_testing.png) to make it more meaninful in 2014, with more changes [coming in 2016](news-clippings/2014_apr_sat_changes.png). It still drew a harsh [critique](news-clippings/2014_mar_revamp_sat.png).
+* CRLS did poorly in the [Boston Magazine](news-clippings/2014_sept_boston_ranking_1.png) [ranking](news-clippings/2014_sept_boston_ranking_2.png), for reasons which were suspect and highlighted some of the issues with overreliance on simple measures such as test scores and student:teacher ratios.
+* In contrast, Massachusetts as a whole did [very](news-clippings/2015_dec_bay_shine.png) [well](news-clippings/2015_dec_bay_shine_2.png) on the PISA exam. PISA is a little better than the MCAS, since there's a bit less teaching-to-the-test, and tends to be used a little more sensibly.
 
 School divisions
 ----
@@ -225,6 +229,8 @@ support for ESL students), rivalaries based on
 [wards](news-clippings/2014_dec_ward_rivalries.png). And, of course,
 people talk about [stereotyping and superficial
 diversity](news-clippings/2017_jan_superficial_diversity.png).
+
+The three lunches introduce a [different kind of division](news-clippings/2016_sept_lunch_b.png)
 
 The [tracks lead to division as
 well](news-clippings/2014_feb_honors_gap.png): "if you take all Honors
@@ -268,12 +274,15 @@ video](https://www.youtube.com/watch?v=rE3j_RHkqJc).
 Physical school environment
 ----
 
-Students called for [standing desks](news-clippings/2016_feb_sitting_desks.png). They praised how the [school renovation helped the arts program](news-clippings/2014_mat_crls_renovations_arts.png).
+Students called for [standing desks](news-clippings/2016_feb_sitting_desks.png). They praised how the [school renovation helped the arts program](news-clippings/2014_mat_crls_renovations_arts.png). They asked for [different bell sounds for different lunches](news-clippings/2016_oct_rebell.png).
 
 Cambridge Education Association
 ----
 
 An article gave an overview of [teachers' unions](news-clippings/2013_april_union.png) nationwide. In 2014, the contract negotiations became a little bit heated ([pg 1](news-clippings/2014_feb_cea_union_1.png) [pg 2](news-clippings/2014_feb_cea_union_2.png)). I'm still trying to figure out the major points of contention.
+
+What is clear is that the CEA, and Cambridge Teachers, operate differently from most unions. This is backed [by](news-clippings/2017_march_tenure_1.png) [data](news-clippings/2017_march_tenure_2.png). The majority of CRLS teachers have reservations about the professional tenure system. This was one of the strongest articles I've read in the Register Forum!
+
 
 Interviews
 ----
@@ -284,6 +293,14 @@ Interviews
 * In a [later interview](news-clippings/2017_jan_salim.png), superintendent Salim said a bit more. At this point, he had visited all eighteen schools, and was able to accurately identify issues and start to prioritize. I'd summarize, but there's a bit too much -- it's worth a read.
 * And, former Register Forum editor [Will MacArthur](news-clippings/2017_jan_will_macarthur.png) was interviewed when he announced his candidacy
 
+Presidential Addresses
+----
+[2015_june_goodbye_1.png](news-clippings/2015_june_goodbye_1.png)
+[2015_june_goodbye_2.png](news-clippings/2015_june_goodbye_2.png)
+[2017_may_president.png](news-clippings/2017_may_president.png)
+[2019_sept_welcome.png](news-clippings/2019_sept_welcome.png)
+[2016_nov_pres.png](news-clippings/2016_nov_pres.png)
+
 National politics
 ----
 
@@ -292,34 +309,20 @@ There was much discussion about national politics, most unrelated to education, 
 Still sorting
 =====
 
-
-
-
-
 [2014_may_crls_nhs_1.png](news-clippings/2014_may_crls_nhs_1.png)
 [2014_may_crls_nhs_2.png](news-clippings/2014_may_crls_nhs_2.png)
-[2014_sept_boston_ranking_1.png](news-clippings/2014_sept_boston_ranking_1.png)
-[2014_sept_boston_ranking_2.png](news-clippings/2014_sept_boston_ranking_2.png)
-[2015_dec_bay_shine_2.png](news-clippings/2015_dec_bay_shine_2.png)
-[2015_dec_bay_shine.png](news-clippings/2015_dec_bay_shine.png)
-[2015_jan_us_china_testing.png](news-clippings/2015_jan_us_china_testing.png)
-
-[2015_june_goodbye_1.png](news-clippings/2015_june_goodbye_1.png)
-[2015_june_goodbye_2.png](news-clippings/2015_june_goodbye_2.png)
 
 
 
 
 
-[2016_nov_pres.png](news-clippings/2016_nov_pres.png)
+
 [2016_oct_no_on_2.png](news-clippings/2016_oct_no_on_2.png)
-[2016_oct_rebell.png](news-clippings/2016_oct_rebell.png)
+
 [2016_sept_ap_update.png](news-clippings/2016_sept_ap_update.png)
 [2016_sept_ed_on_ed.png](news-clippings/2016_sept_ed_on_ed.png)
-[2016_sept_lunch_b.png](news-clippings/2016_sept_lunch_b.png)
+
 [2017_feb_ap.png](news-clippings/2017_feb_ap.png)
 [2017_jan_class_reps.png](news-clippings/2017_jan_class_reps.png)
-[2017_march_tenure_1.png](news-clippings/2017_march_tenure_1.png)
-[2017_march_tenure_2.png](news-clippings/2017_march_tenure_2.png)
-[2017_may_president.png](news-clippings/2017_may_president.png)
-[2019_sept_welcome.png](news-clippings/2019_sept_welcome.png)
+
+
