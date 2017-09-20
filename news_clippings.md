@@ -250,6 +250,10 @@ movement](news-clippings/2014_no_he_meets_she.png), keeping
 [affirmative action](news-clippings/2015_june_affirmative_action.png),
 and so on.
 
+Curiously, despite the push for integration, the school supports
+prestige clubs such as the [National
+Honor](news-clippings/2014_may_crls_nhs_1.png)
+[Society](news-clippings/2014_may_crls_nhs_2.png)
 
 Bubbles
 ----
@@ -299,7 +303,7 @@ Hellos and farewells
 * Quotes from [students](news-clippings/2015_june_goodbye_1.png) [and others](news-clippings/2015_june_goodbye_2.png) end-of-school 2015
 * ['16-'17 class president](news-clippings/2017_may_president.png) reflects on their time here. Points of note included: (1) realizing how deeply teachers and administrators cared. (2) how students who don't advocate for themselves may end up marginalized. (3) a strong, constant pull from the community to be complacent
 * A [class of 2019 welcome](news-clippings/2019_sept_welcome.png) to new students talks about some of the adjustments freshman face.
-* From the [student body president](news-clippings/2016_nov_pres.png) on the November election. It's a good article. A choice quote: "Another fear that I have seen debilitate our entire community is the fear to speak one's truth. For me, I have been afraid to tell my black friends that I disagree with them on certain issues for fear that I'll be ostracized or deemed an Uncle Tom. ... Others might be afraid that speaking their mind will result in being deemed ratchet or even a silencer of free speech."
+* From the [student body president](news-clippings/2016_nov_pres.png) on the November election. It's a good article. A choice quote: "Another fear that I have seen debilitate our entire community is the fear to speak one's truth. For me, I have been afraid to tell my black friends that I disagree with them on certain issues for fear that I'll be ostracized or deemed an Uncle Tom. ... Others might be afraid that speaking their mind will result in being deemed ratchet or even a silencer of free speech." "And for students, I challenge you to engage in conversation with fearlessness."
 
 National politics
 ----
@@ -308,14 +312,6 @@ There was much discussion about national politics, most unrelated to education, 
 
 Still sorting
 =====
-
-[2014_may_crls_nhs_1.png](news-clippings/2014_may_crls_nhs_1.png)
-[2014_may_crls_nhs_2.png](news-clippings/2014_may_crls_nhs_2.png)
-
-
-
-
-
 
 [2016_oct_no_on_2.png](news-clippings/2016_oct_no_on_2.png)
 
