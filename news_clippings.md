@@ -27,7 +27,7 @@ may help guide policy decisions:
   diverse](news-clippings/2012_Nov_religious_diversity.png), with
   atheists/agnostics at 46%, Christians at 31%, Jewish at 12%, and
   Muslim at 7%. [More than
-  70%](news-clippings/2013_april_religion.png) support seperation of
+  70%](news-clippings/2013_april_religion.png) support separation of
   church and state in schools.
 * However, there is little [political
   diversity](news-clippings/2016_oct_political_diversity.png). 80% of
@@ -64,14 +64,14 @@ may help guide policy decisions:
   federal government, state government, city government, school
   committee, or the school. Curiously, neither students, parents,
   communities, nor teachers were even listed as an option.
-* Most students feel their friends, homeroom, classes, and afterschool
+* Most students feel their friends, homeroom, classes, and after-school
   activities are at least [somewhat
   diverse](news-clippings/2013_nov_diverse_friends.png), or at least felt
   this way in 2013. By all accounts, we're seeing more in-school segregation today than when the article was written.
 * Overall, students thought that [better teachers should be paid
   more](news-clippings/2011_june_good_teachers.png), with a bit of a
   discussion about tests and student feedback as a means of
-  evaluating teachers (missing were peer or administor
+  evaluating teachers (missing were peer or administrator
   evaluations). An article a few years later looked at [what students
   valued in
   teachers](news-clippings/2013_nov_what_students_value_in_classes.png). Top
@@ -106,7 +106,7 @@ may help guide policy decisions:
   (teacher salary, number of teachers per classroom, support/admin
   staff, etc.). Absent from the broader discussion is also the format
   of classes. Classes often have drastically different staffing
-  requirements based on use of lecture versus groupwork versus technology versus other modes.
+  requirements based on use of lecture versus group-work versus technology versus other modes.
 
 Student Government
 ----
@@ -123,7 +123,7 @@ profiles](news-clippings/2015_may_candidate_profiles.png) and the [2016 ones](ne
 * "The stigma surrounding CP and Honors classes ... Honors students are automatically the 'smart kids'"
 * "Students are not given enough of a role in making the decisions that affect them. While student complaints are listened to, they are rarely addressed"
 
-On the other hand, actual student government efforts have been more focused on [fundraising and events](news-clippings/2017_jan_class_reps.png).
+On the other hand, actual student government efforts have been more focused on [fund-raising and events](news-clippings/2017_jan_class_reps.png).
 
 And, of course, there are efforts to [reform the school elections](news-clippings/2015_nov_student_government.png).
 
@@ -133,17 +133,17 @@ School Committee
 The Register Forum recently started reporting more on school committee
 meetings, and did a very nice job summarizing them:
 
-* At the [December 6, 2016 meeting](news-clippings/2016_dec_school_committee.png), the school committee discussed menstrual hygine products in bathrooms (something students pushed hard on and won (article 1 [(pg 1)](news-clippings/2017_feb_hygiene_1.png)/[(pg 2)](news-clippings/2017_feb_hygiene_2.png) and [article 2](news-clippings/2016_dec_feminine.png)), the Cambridge fire, and athletics coach evaluation
+* At the [December 6, 2016 meeting](news-clippings/2016_dec_school_committee.png), the school committee discussed menstrual hygiene products in bathrooms (something students pushed hard on and won (article 1 [(pg 1)](news-clippings/2017_feb_hygiene_1.png)/[(pg 2)](news-clippings/2017_feb_hygiene_2.png) and [article 2](news-clippings/2016_dec_feminine.png)), the Cambridge fire, and athletics coach evaluation
 * The [March 2017](news-clippings/2017_march_school_committee.png) discussed union contract negotiations, 9th grade leveling up, lack of space and teachers for science classes, and expanding mediation
 * The [May 2017](news-clippings/2017_may_school_committee_extension.png) discussed equality in athletics, strategic initiatives, and recognized student reps
 * The [June 2017](news-clippings/2017_june_school_committee.png) discussed the extension school and why it was helpful to many students, sexual assault plans, and the process around hiring a coach
-* The [January 2017](news-clippings/2017_jan_paus.png) discussed PAUS performing in the 14th percentile of Massachusetts schools, student government data collection on demographics of extracurriculars, and an update from the superintendent
+* The [January 2017](news-clippings/2017_jan_paus.png) discussed PAUS performing in the 14th percentile of Massachusetts schools, student government data collection on demographics of extracurricular, and an update from the superintendent
 * The [November 2016](news-clippings/2016_nov_sc_tracking.png) discussed leveling up, crew funding, CPAC, the achievement gap, and a report from the superintendent.
 * The [October 2016](news-clippings/2016_oct_sc_update.png) talked about special needs students, student government activities, failing algebra programs, and no-cut sports teams
 * The [September 2016](news-clippings/2016_sept_sc_update.png) discussed dress code, junior kindergarten, overcrowding, chronic absenteeism, and the student government's work on the achievement gap 
 * The [June 2016](news-clippings/2016_jube_sc_diversity.png) focused on issues of race, with much empathy, but little specific action
 * Many people raised issues of recruitment of faculty of color at the May 2016 session [pg 1](news-clippings/2016_may_diversity_1.png) [pg 2](news-clippings/2016_may_diversity_2.png)
-* The [major issues](news-clippings/2016_nov_sc_rep.png) addressed by the commmittee in 2016 were leveling-up, dress code revisions, school climate, teacher diversity, sexual assauly, and creating safe spaces.
+* The [major issues](news-clippings/2016_nov_sc_rep.png) addressed by the committee in 2016 were leveling-up, dress code revisions, school climate, teacher diversity, sexual assault, and creating safe spaces.
 
 There was also some coverage of the past two elections:
 
@@ -178,15 +178,15 @@ And one of my favorite articles compared the [Chinese and US education systems](
 Student rights
 ----
 
-CRLS is monitored by [45 cameras](news-clippings/2013_nov_crls_surveillance.png). Of the 69% of students even aware of this surveillance, most seem okay with it. 8% have had their posessions searched on campus. Indeed, most students would rather have [more security](news-clippings/2013_nov_safety_perception.png) rather than more privacy, despite reporting already feeling safe.
+CRLS is monitored by [45 cameras](news-clippings/2013_nov_crls_surveillance.png). Of the 69% of students even aware of this surveillance, most seem okay with it. 8% have had their possessions searched on campus. Indeed, most students would rather have [more security](news-clippings/2013_nov_safety_perception.png) rather than more privacy, despite reporting already feeling safe.
 
-The Register Forum is in favor of free speech, except [in school](news-clippings/2015_jan_free_speech.png). An [editorial](news-clippings/2016_april_free_speech.png) disagreed, and said we shouldn't have free speech anywhere where such speech might be offensive. Another piece said [we should have free speech](news-clippings/2016_feb_no_free_speech.png), although without commenting on that right in the context of school. Fortunately, a 2017 article describes how devestating such mental [censorship is in schools](news-clippings/2017_march_censor.png), and how without being able to discuss offensive views, it's impossible to learn to reason critically.
+The Register Forum is in favor of free speech, except [in school](news-clippings/2015_jan_free_speech.png). An [editorial](news-clippings/2016_april_free_speech.png) disagreed, and said we shouldn't have free speech anywhere where such speech might be offensive. Another piece said [we should have free speech](news-clippings/2016_feb_no_free_speech.png), although without commenting on that right in the context of school. Fortunately, a 2017 article describes how devastating such mental [censorship is in schools](news-clippings/2017_march_censor.png), and how without being able to discuss offensive views, it's impossible to learn to reason critically.
 
 
 Digital
 ----
 
-The school adopted Chromebooks in 2013. Overall, 70% of students [were satisified](news-clippings/2013_jan_chromebooks.png). Most of the rationale was around workflow improvements. Curiously, there was no discussion about putting in a consumption technology in education -- a process fundamentally about construction. There was also little discussion about how these devices impacted student outcomes. The school filters the internet, something students are [overwhelmingly supportive of](news-clippings/2013_april_firewall.png). For the most part, students considered [cyberbullying bad, but did not hold social media sites responsible](news-clippings/2013_april_cyberbully.png). Students are starting to notice technology [can be harmful](news-clippings/2015_nov_tech.png).
+The school adopted Chromebooks in 2013. Overall, 70% of students [were satisfied](news-clippings/2013_jan_chromebooks.png). Most of the rationale was around work-flow improvements. Curiously, there was no discussion about putting in a consumption technology in education -- a process fundamentally about construction. There was also little discussion about how these devices impacted student outcomes. The school filters the internet, something students are [overwhelmingly supportive of](news-clippings/2013_april_firewall.png). For the most part, students considered [cyberbullying bad, but did not hold social media sites responsible](news-clippings/2013_april_cyberbully.png). Students are starting to notice technology [can be harmful](news-clippings/2015_nov_tech.png).
 
 
 Attendance
@@ -209,10 +209,10 @@ Programs and organizations
 Standardized tests, accreditation, rankings
 ----
 
-* CRLS was accredited by NEASC, which holds a standard higher than state/federal. It went on probabation in 2014 ([pg 1](news-clippings/2012_Nov_NEASC_1.png) [pg 2](news-clippings/2012_Nov_NEASC_2.png))
+* CRLS was accredited by NEASC, which holds a standard higher than state/federal. It went on probation in 2014 ([pg 1](news-clippings/2012_Nov_NEASC_1.png) [pg 2](news-clippings/2012_Nov_NEASC_2.png))
 * A [2014 article](news-clippings/2014_april_standardized_testing.png) talks about how curriculum standards and tests scare off good teachers and discourage risk taking. Not mentioned is the abundant evidence for how such risk taking is essential to good education systems. 
-* The [SAT was redesigned](news-clippings/2015_nov_testing.png) to make it more meaninful in 2014, with more changes [coming in 2016](news-clippings/2014_apr_sat_changes.png). It still drew a harsh [critique](news-clippings/2014_mar_revamp_sat.png).
-* CRLS did poorly in the [Boston Magazine](news-clippings/2014_sept_boston_ranking_1.png) [ranking](news-clippings/2014_sept_boston_ranking_2.png), for reasons which were suspect and which highlighted some of the issues with overreliance on simple measures such as test scores and student:teacher ratios.
+* The [SAT was redesigned](news-clippings/2015_nov_testing.png) to make it more meaningful in 2014, with more changes [coming in 2016](news-clippings/2014_apr_sat_changes.png). It still drew a harsh [critique](news-clippings/2014_mar_revamp_sat.png).
+* CRLS did poorly in the [Boston Magazine](news-clippings/2014_sept_boston_ranking_1.png) [ranking](news-clippings/2014_sept_boston_ranking_2.png), for reasons which were suspect and which highlighted some of the issues with over-reliance on simple measures such as test scores and student:teacher ratios.
 * In contrast, Massachusetts as a whole did [very](news-clippings/2015_dec_bay_shine.png) [well](news-clippings/2015_dec_bay_shine_2.png) on the PISA exam. PISA is a little better than the MCAS since there's a bit less teaching-to-the-test and tends to be used a little more sensibly since there is no associated loss of school funding.
 * The AP program doubled from [2012 to 2016](news-clippings/2016_sept_ap_update.png), and students passed at high rates. On the other hand, an editorial writer bring up some [excellent criticisms](news-clippings/2017_feb_ap.png) of the AP program (albeit without a clear expression of good alternatives)
 
@@ -230,7 +230,7 @@ facing foreign students in 2014 ([pg
 2](news-clippings/2013_nov_international_2.png)) and again [in
 2017](news-clippings/2016_jan_foreign_students.png) (which suggest
 need for better on-boarding and expectation-setting, as well as better
-support for ESL students), rivalaries based on
+support for ESL students), rivalries based on
 [wards](news-clippings/2014_dec_ward_rivalries.png) and part of the
 city kids live in. Of course, people talk about [stereotyping and
 superficial
@@ -244,7 +244,7 @@ and AP, you essentially don't know anyone who doesn't take those level
 classes." Much of this division [is racial](news-clippings/2014_nov_ap_education_gap.png).
 
 On the race/gender/LGBTQ/ethnic divides, we see them in
-[extracurriculars](news-clippings/2016_march_racial_diversity.png),
+[extracurricular](news-clippings/2016_march_racial_diversity.png),
 [sports and classes](news-clippings/2015_june_segregation.png). We
 have calls for addressing
 [sexism](news-clippings/2015_june_sexism.png), [transgender
@@ -297,10 +297,10 @@ What is clear is that the CEA, and Cambridge Teachers, operate differently from 
 Interviews
 ----
 * In a [2016 interview](news-clippings/2016_may_salim.png), superintendent Salim said actually very little beyond expressing empathy with CPSD values.
-* In a [2016 interview](news-clippings/2016_may_young.png), superintendent Young said equally little, although I found it interesting he perceived a tension betwen "academic excellence and social justice"
+* In a [later interview](news-clippings/2017_jan_salim.png), superintendent Salim said a bit more. At this point, he had visited all eighteen schools, and was able to accurately identify issues and start to prioritize. I'd summarize, but there's a bit too much -- it's worth a read.
+* In a [2016 interview](news-clippings/2016_may_young.png), superintendent Young said equally little, although I found it interesting he perceived a tension between "academic excellence and social justice"
 * [Police Officer Daniliuk](news-clippings/2016_may_police_interview.png) was a bit more forthcoming, and spoke about the loss of the middle class, some of the professional development in the CPD, and similar
 * [Mazen](news-clippings/2014_may_nadeem.png) spoke about connections of students to industry, although I'm not quite sure everything he said we've seen work in schools was backed by evidence.
-* In a [later interview](news-clippings/2017_jan_salim.png), superintendent Salim said a bit more. At this point, he had visited all eighteen schools, and was able to accurately identify issues and start to prioritize. I'd summarize, but there's a bit too much -- it's worth a read.
 * And, former Register Forum editor [Will MacArthur](news-clippings/2017_jan_will_macarthur.png) was interviewed when he announced his candidacy
 
 Hellos, farewells, and similar
