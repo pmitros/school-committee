@@ -192,7 +192,7 @@ There was a long series on the policy on punishing students for missed attendanc
 Dress code
 ----
 
-Much of the push for the new dress code came from a series of a long student drive, including no fewer than five articles in the Register, including [a balanced 2014 introduction of the issue](news-clippings/2014_nov_dress_code.png) which pointed out 2-3x as many girls were effected as boys, [an opposing piece in 2015](news-clippings/2015_may_dress_code.png), a [scathing 2015 piece](news-clippings/2015_june_dress_code.png), a piece claiming that the dress code ["sets a precedent that sexual assault is unavoidable and victims are completely responsible"](news-clippings/2015_sept_sexist_dress.png), and a final piece claiming the dress code is [among other things, racist](news-clippings/2016_june_dress_code_divides.png).
+Much of the push for the new dress code came from a series of a long student drive, including no fewer than five articles in the Register, including [a balanced 2014 introduction of the issue](news-clippings/2014_nov_dress_code.png) which pointed out 2-3x as many girls were effected as boys, [an opposing piece in 2015](news-clippings/2015_may_dress_code.png), a [scathing 2015 piece](news-clippings/2015_june_dress_code.png), a piece expressing that the dress code ["sets a precedent that sexual assault is unavoidable and victims are completely responsible"](news-clippings/2015_sept_sexist_dress.png), and a final piece expressing the dress code is [among other things, racist](news-clippings/2016_june_dress_code_divides.png).
 
 Programs and organizations
 ----
