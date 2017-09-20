@@ -252,12 +252,12 @@ CEA
 
 Interviews
 ----
-[2016_may_salim.png](news-clippings/2016_may_salim.png)
-[2016_may_young.png](news-clippings/2016_may_young.png)
-[2016_may_police_interview.png](news-clippings/2016_may_police_interview.png)
-[2014_may_nadeem.png](news-clippings/2014_may_nadeem.png)
-[2017_jan_salim.png](news-clippings/2017_jan_salim.png)
-[2017_jan_will_macarthur.png](news-clippings/2017_jan_will_macarthur.png)
+* In a [2016 interview](news-clippings/2016_may_salim.png), superintendent Salim said actually very little beyond expressing empathy with CPSD values.
+* In a [2016 interview](news-clippings/2016_may_young.png), superintendent Young said equally little, although I found it interesting he perceived a tension betwen "academic excellence and social justice"
+* [Police Officer Daniliuk](news-clippings/2016_may_police_interview.png) was a bit more forthcoming, and spoke about the loss of the middle class, some of the professional development in the CPD, and similar
+* [Mazen](news-clippings/2014_may_nadeem.png) spoke about connections of students to industry, although I'm not quite sure everything he said we've seen work in schools was backed by evidence.
+* In a [later interview](news-clippings/2017_jan_salim.png), superintendent Salim said a bit more. At this point, he had visited all eighteen schools, and was able to accurately identify issues and start to prioritize. I'd summarize, but there's a bit too much -- it's worth a read.
+* And, former Register Forum editor [Will MacArthur](news-clippings/2017_jan_will_macarthur.png) was interviewed when he announced his candidacy
 
 Still sorting
 =====
