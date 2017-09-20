@@ -109,6 +109,8 @@ profiles](news-clippings/2015_may_candidate_profiles.png) and the [2016](news-cl
 * "The stigma surrounding CP and Honors classes ... Honors students are automatically the 'smart kids'"
 * "Students are not given enough of a role in making the decisions that affect them. While student complaints are listened to, they are rarely addressed"
 
+And, of course, there are efforts to [reform the elections](news-clippings/2015_nov_student_government.png).
+
 School Committee
 ----
 
@@ -165,12 +167,6 @@ Underlying curriculum is the purpose of school: [pg 1](news-clippings/2013_jan_w
 
 [2014_mar_environmental_ed.png](news-clippings/2014_mar_environmental_ed.png)
 
-Elections
-----
-
-[2015_nov_student_government.png](news-clippings/2015_nov_student_government.png)
-
-
 Student rights
 ----
 
@@ -191,7 +187,7 @@ The school adopted Chromebooks in 2013. Overall, 70% of students [were satisifie
 Attendance
 ----
 
-There was a long series on the policy on punishing students for missed attendance. [2012_Nov_AVF.pdf](news-clippings/2012_Nov_AVF.pdf) [2013_dec_crls_avf_policy.png](news-clippings/2013_dec_crls_avf_policy.png) [2015_feb_avf_buyback.png](news-clippings/2015_feb_avf_buyback.png)
+There was a long series on the policy on punishing students for missed attendance. The [first of these](news-clippings/2012_Nov_AVF.pdf) found that 78% of students thought the policy was unfair, and 19% had a violation. Official school statistics were that 80 students reach AVF each term. There was a belief that the policy disadvantaged [students who live far from the school](news-clippings/2013_dec_crls_avf_policy.png). Finally, the school committee removed even the option to [buy back](news-clippings/2015_feb_avf_buyback.png) attendance violations, so they result in an automatic 10% grade penalty.
 
 Dress code
 ----
