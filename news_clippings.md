@@ -140,11 +140,11 @@ School Committee
 The Register Forum recently started reporting more on school committee
 meetings, and did a very nice job summarizing them:
 
-* At the [December 6, 2016 meeting](news-clippings/2016_dec_school_committee.png), the school committee discussed menstrual hygiene products in bathrooms (something students pushed hard on and won (article 1 [(pg 1)](news-clippings/2017_feb_hygiene_1.png)/[(pg 2)](news-clippings/2017_feb_hygiene_2.png) and [article 2](news-clippings/2016_dec_feminine.png)), the Cambridge fire, and athletics coach evaluation
-* The [March 2017](news-clippings/2017_march_school_committee.png) discussed union contract negotiations, 9th grade leveling up, lack of space and teachers for science classes, and expanding mediation
+* The [June 2017](news-clippings/2017_june_school_committee.png) school committee meeting article discussed the extension school and why it was helpful to many students, sexual assault plans, and the process around hiring a coach
 * The [May 2017](news-clippings/2017_may_school_committee_extension.png) discussed equality in athletics, strategic initiatives, and recognized student reps
-* The [June 2017](news-clippings/2017_june_school_committee.png) discussed the extension school and why it was helpful to many students, sexual assault plans, and the process around hiring a coach
+* The [March 2017](news-clippings/2017_march_school_committee.png) discussed union contract negotiations, 9th grade leveling up, lack of space and teachers for science classes, and expanding mediation
 * The [January 2017](news-clippings/2017_jan_paus.png) discussed PAUS performing in the 14th percentile of Massachusetts schools, student government data collection on demographics of extracurricular, and an update from the superintendent
+* At [December 6, 2016 meeting](news-clippings/2016_dec_school_committee.png) discussed menstrual hygiene products in bathrooms (something students pushed hard on and won (article 1 [(pg 1)](news-clippings/2017_feb_hygiene_1.png)/[(pg 2)](news-clippings/2017_feb_hygiene_2.png) and [article 2](news-clippings/2016_dec_feminine.png)), the Cambridge fire, and athletics coach evaluation
 * The [November 2016](news-clippings/2016_nov_sc_tracking.png) discussed leveling up, crew funding, CPAC, the achievement gap, and a report from the superintendent.
 * The [October 2016](news-clippings/2016_oct_sc_update.png) talked about special needs students, student government activities, failing algebra programs, and no-cut sports teams
 * The [September 2016](news-clippings/2016_sept_sc_update.png) discussed dress code, junior kindergarten, overcrowding, chronic absenteeism, and the student government's work on the achievement gap 
