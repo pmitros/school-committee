@@ -23,8 +23,9 @@ Data
 
 The Register Forum ran a number of surveys providing data which may
 help guide policy decisions. These generally did not follow research
-methodology, so I'd presume large errors, but that sort of data can
-still be helpful for qualitative guidance:
+methodology, so I'd presume large errors, but even data with large
+errors can be helpful for qualitative guidance (for example, pointing
+out significant problems):
 
 * Most CRLS students [speak another language
   fluently](news-clippings/2011_Dec_Bilingual.png), and find that it
