@@ -21,8 +21,10 @@ really hard to not give the wrong implications in writing without
 Data
 ----
 
-The Register Forum ran a number of surveys providing key data which
-may help guide policy decisions:
+The Register Forum ran a number of surveys providing data which may
+help guide policy decisions. These generally did not follow research
+methodology, so I'd presume large errors, but that sort of data can
+still be helpful for qualitative guidance:
 
 * Most CRLS students [speak another language
   fluently](news-clippings/2011_Dec_Bilingual.png), and find that it
