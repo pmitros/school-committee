@@ -75,9 +75,10 @@ Along lines of this, I will work to improve transparency. As ground rules:
   and teachers, rather than the administration
 
 From there, the school should shift to processes where everything is
-open unless there is a compelling reason to do otherwise, and where
-it's not only open, but where the school takes proactive steps to
-spread and share information about the school system.
+open unless there is a compelling reason to do otherwise. Furthermore,
+the information should not only by open, but the school should take
+proactive steps to spread and share information about the school
+system, even to otherwise less engaged parents.
 
 This is a quality issue. We have some of the best teachers in the
 world, and we need to find ways to spread best practices throughout
@@ -91,7 +92,8 @@ afterschool programs, more mechanisms for voluntary coordination could
 help both sides.
 
 As with any other kind of assessment, it's important that such
-processes be judgment-free and geared towards improvement.
+processes be judgment-free and geared towards feedback for
+improvement rather.
 
 
 Fix the lottery
