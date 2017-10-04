@@ -53,9 +53,8 @@ qualitative and needs to be combined with theoretical and
 substantive arguments, more knowledge is better.
 
 However, used correctly, integrating different types of evidence, and
-not tied to high stakes, students, teachers, and school systems do
-better with testing, monitoring, feedback, and continued
-assessment. That is established science.
+*not* tied to stakes or accountability, students, teachers, and school
+systems do better with monitoring, feedback, and continuous assessment.
 
 Transparency, communication, and collaboration
 --------
