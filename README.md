@@ -41,11 +41,11 @@ What you can do to help
 
 You can talk to me or email me. I'd be interested in your thoughts
 about how we can make the school district better. You can help spread
-the word, and you vote in November.
+the word, and you vote give me your #1 vote in November.
 
-I'd recommend reading candidate profiles at [Cambridge
+I recommend reading candidate profiles at [Cambridge
 Civic](http://vote.cambridgecivic.com/), as well as looking at
-campaign spending (on the same site). 
+campaign spending (on the same site).
 
 My background
 -----------------------
