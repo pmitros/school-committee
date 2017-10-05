@@ -40,10 +40,12 @@ What you can do to help
 ---------------
 
 You can talk to me or email me. I'd be interested in your thoughts
-about how we can make the school district better. You can [donate to
-my campaign](https://secure.actblue.com/donate/mitros), help spread
-the word, and remember to vote in November. Finally, you can join my
-committee and help the campaign as a volunteer.
+about how we can make the school district better. You can help spread
+the word, and you vote in November.
+
+I'd recommend reading candidate profiles at [Cambridge
+Civic](http://vote.cambridgecivic.com/), as well as looking at
+campaign spending (on the same site). 
 
 My background
 -----------------------
