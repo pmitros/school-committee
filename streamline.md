@@ -106,19 +106,20 @@ in Boston lead Boston Public Schools to shift to a more reasonable
 algorithm. In Cambridge, we have similar evidence. Indeed, some
 programs (such as Chinese language immersion) are virtually impossible
 to be admitted into without gaming. There are matching algorithms
-which are better by every metric; we should shift to any one of
+which are better by most metrics; we should shift to any one of
 those.
 
-**For the nerds**: The CPSD algorithm is essentially the
+**For the nerds**: The CPSD algorithm is similar to the
 [Gale-Shapley](https://en.wikipedia.org/wiki/Stable_marriage_problem)
 algorithm. Each parent picks schools. The school district assigns each
 student a random number indicating what would be the school's
 preference. The algorithm than optimizes matching. It does so
-[backwards](http://web.stanford.edu/~niederle/School%20Matching%20Systems.pdf)
-(optimizing to the random number rather than parent choices). Flipping
-that around, and giving a different set of random numbers for each
-school, would lead to both better placements *and* eliminate any
-incentives to game.
+[apparently
+optimizing](http://web.stanford.edu/~niederle/School%20Matching%20Systems.pdf)
+to the random number rather more so than to parent choices. Using a
+proper Gale-Shapley, and giving a different set of random numbers for
+each school, would lead to both better placements *and* eliminate any
+incentives to game. 
 
 **For the non-nerds**: In addition to a bad algorithm, we do a
 terrible job for kids with parents who don't do the research. We can
