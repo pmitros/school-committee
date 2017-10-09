@@ -130,6 +130,12 @@ Platform
 A few more thoughts
 -----------------
 
+* My page on [Cambridge Civic](http://vote.cambridgecivic.com/mitros.htm).
+* A short [video
+  presentation](https://www.cctvcambridge.org/node/505707) of my
+  platform for Cambridge CCTV.
+* A longer [interview](https://www.youtube.com/watch?v=Ofo2auxZhGs)
+  for Cambridge InsideOut.
 * I read the past few years of the CRLS school newspaper, and made a
   page of [news clippings](news_clippings). Student voices are
   important, but most kids won't talk to strangers, and the newspaper
