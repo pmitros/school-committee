@@ -10,8 +10,8 @@ Footnotes are below the flowchart.
 Once you understand this, you'll have a good idea of how to play the
 Cambridge Public School District Controlled Choice Lottery.
 
-(And yes, I understand how ridiculous this level of complexity in the
-lottery is; most of my goal is to illustrate that complexity.)
+And yes, I understand how ridiculous this level of complexity is. My
+goal is to surface that complexity so we might fix it.
 
 ![Flowchart for making it into immersion Chinese](chinese-immersion-flowchart.png)
 
