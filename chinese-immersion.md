@@ -2,13 +2,13 @@ How to get into immersion Chinese
 ===============
 
 I made a simplified flowchart to show how to get into immersion
-Chinese. This is missing a lot of nuance, but gives the basics of the
-game.
+Chinese. This is missing a lot of nuance but gives the basics of the
+game. Footnotes explaining specific steps are below the flowchart.
 
-Footnotes are below the flowchart.
-
-Once you understand this, you'll have a good idea of how to play the
-Cambridge Public School District Controlled Choice Lottery.
+I worked through this for one particular program, but once you
+understand this, you'll have a good idea of how to play the Cambridge
+Public School District Controlled Choice Lottery in general. If there
+are aspects you don't understand, please ask me (or the FRC).
 
 And yes, I understand how ridiculous this level of complexity is. My
 goal is to surface that complexity so we might fix it.
