@@ -40,10 +40,12 @@ What you can do to help
 ---------------
 
 You can talk to me or email me. I'd be interested in your thoughts
-about how we can make the school district better. You can [donate to
-my campaign](https://secure.actblue.com/donate/mitros), help spread
-the word, and remember to vote in November. Finally, you can join my
-committee and help the campaign as a volunteer.
+about how we can make the school district better. You can help spread
+the word, and you vote give me your #1 vote in November.
+
+I recommend reading candidate profiles at [Cambridge
+Civic](http://vote.cambridgecivic.com/), as well as looking at
+campaign spending (on the same site).
 
 My background
 -----------------------
@@ -128,6 +130,12 @@ Platform
 A few more thoughts
 -----------------
 
+* My page on [Cambridge Civic](http://vote.cambridgecivic.com/mitros.htm).
+* A short [video
+  presentation](https://www.cctvcambridge.org/node/505707) of my
+  platform for Cambridge CCTV.
+* A longer [interview](https://www.youtube.com/watch?v=Ofo2auxZhGs)
+  for Cambridge InsideOut.
 * I read the past few years of the CRLS school newspaper, and made a
   page of [news clippings](news_clippings). Student voices are
   important, but most kids won't talk to strangers, and the newspaper
