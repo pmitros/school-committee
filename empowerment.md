@@ -36,8 +36,8 @@ where our teachers are empowered to do a great job. I would like to:
 * Widely promote the changes which work. We should be yelling about
   good things happening in the district from the rooftops! I would
   like to build more connections with Cambridge Day, Cambridge
-  Chronicle, Cambridge Civic Journal, o we can publicize many of the
-  great things that happen in the district, and encourage more people
+  Chronicle, Cambridge Civic Journal to publicize many of the
+  great things that happen in the district and to encourage more people
   to get involved. One of the key roles of the school committee ought
   to be identifying what works -- whether in schools, individual
   classrooms, or even individual students -- and promoting
@@ -55,7 +55,7 @@ where our teachers are empowered to do a great job. I would like to:
   and district regulations, teachers are tightly boxed in. [This
   list](http://cpsd.us/departments/legal_counsel/c_p_s_policies_and_procedures)
   is just a start of what teachers, parents, and students must deal
-  with. Most of these are carefully thought out and very reasonable,
+  with. Most of these individually are carefully thought out and very reasonable,
   and would make ideal guidelines.
 * Parents are perhaps the most important part of student outcomes. We
   need for the schools to engage all parents early and bring them into
