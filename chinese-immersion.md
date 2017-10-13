@@ -10,8 +10,11 @@ understand this, you'll have a good idea of how to play the Cambridge
 Public School District Controlled Choice Lottery in general. If there
 are aspects you don't understand, please ask me (or the FRC).
 
-And yes, I understand how ridiculous this level of complexity is. My
-goal is to surface that complexity so we might fix it.
+And yes, if you're shocked or outraged, that is the correct
+response. My goal is to surface that complexity so we might fix it and
+switch to a system which is more equitable and understandable. My
+experience is the only people who successfully navigate this system
+are ones with networks of parents who have gone through it before.
 
 ![Flowchart for making it into immersion Chinese](chinese-immersion-flowchart.png)
 
