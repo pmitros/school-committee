@@ -144,6 +144,13 @@ disempowering to teachers and prevent continued improvement and
 innovation. I would like to convert as many of these as possible from
 regulations into guidelines.
 
+Policy is the opposite of personalization. Policies look at students
+as aggregates, while teachers can look at them as individuals. Many of
+the school policies, especially with regards to curriculum mandates,
+are in direct opposition to the district's failing push for
+differentiated instruction in all classrooms, or for meeting the needs
+of learners from different backgrounds.
+
 Engage with researchers
 --------
 

@@ -3,20 +3,22 @@ Evidence-based education
 
 Most good ideas in education were invented hundreds of years ago by
 great educational philosophers, from Aristotle to Dewey to
-Monressori. The problem was we had no idea which ones worked.
+Monressori. The problem was we had no idea which ones worked. Human
+intuition works well, so most were good, but a few were bad.
 
 In roughly the sixties, we started to see increased numbers of
 rigorous psychological experiments and population studies no what did
 and didn't work in education. Some philosophies turned out to not
-work, while others turned out to have effects which were [rather
-large](http://web.mit.edu/5.95/readings/bloom-two-sigma.pdf). In the
-nineties, we started to see increased numbers of metastudies --
-compilations of prior studies -- which showed with high levels of
-rigour not just what worked, but effect sizes.
+work, while others turned out to have effects which were [quite a bit
+larger](http://web.mit.edu/5.95/readings/bloom-two-sigma.pdf) than our
+intuition had suggested. In the nineties, we started to see increased
+numbers of metastudies -- compilations of prior studies -- which
+showed with high levels of rigour not just what worked, but effect
+sizes.
 
-Some effect sizes were rather large. In a study of over 6,000 students
-in 60 classrooms, interactive engagement more than doubled learning
-gains.
+In such metastudies, some effect sizes were rather large. In a study
+of over 6,000 students in 60 classrooms, interactive engagement [more
+than doubled](http://www.physics.indiana.edu/~sdi/ajpv3i.pdf) learning gains.
 
 What we learned in this process is that there are no silver bullets;
 education is too complex for that. We need to design our educational
