@@ -1,9 +1,18 @@
 How to get into immersion Chinese
 ===============
 
-I made a simplified flowchart to show how to get into immersion
-Chinese. This is missing a lot of nuance but gives the basics of the
-game. Footnotes explaining specific steps are below the flowchart.
+I am concerned about issues with the CPSD School Lottery. I made this
+page to illustrate the complexity. I am trying to advocate for a move
+to a non-gameable (or less gameable) lottery algorithm. The CPSD
+algorithm is obsolete, and is now illegal in many places since it both
+results in poor placement *and* is biased towards parents who have a
+Ph.D in mathematics.
+
+The flowchart below is a simplified illustration of the game played by
+some parents to get into one particular program in the district
+(immersion Chinese). It is missing a lot of nuance but gives the
+basics of the game. Footnotes explaining specific steps are below the
+flowchart.
 
 I worked through this for one particular program, but once you
 understand this, you'll have a good idea of how to play the Cambridge
@@ -25,3 +34,5 @@ are ones with networks of parents who have gone through it before.
 5. Children eligible for junior kindergarten can go through the lottery twice, so long as they never enroll, for double the attempts and odds. If you have the $24,654 handy, the Cambridge-Ellis school's Chinese track is a good option while you wait.
 6. Mandatory assignment moves you to the front of the waiting list. By filling your list with oversubscribed schools, you can bump to the front of the line. All CPSD schools are pretty good, and there are buses, so this option might not be a big penalty. 
 7. All the oversubscribed schools will fill up with #1 choices. If you list anything other than an under-subscribed school lower down, you go to mandatory assignment.
+
+*Footnote: If you saw this prior to the November 2017, this page was incomplete. I made the illustration above, shared it with five people, asking all to keep it confidential. One leaked it and it went viral in parts of the school community, with unfinished copy. This page did not exist prior to October 2017 when a particular issue came up in CPSD policy discussions to which it was relevant. The copy was finished Nov 29, 2017, and at that point, I linked to it.*
